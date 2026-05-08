@@ -26,3 +26,9 @@ Thumbs.db
 node_modules/
 npm-debug.log
 yarn-error.log
+
+# Build output
+dist/
+
+# Image originals (backup before optimization)
+assets/img/_orig/
