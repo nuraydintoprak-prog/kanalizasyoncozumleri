@@ -1,0 +1,2673 @@
+[
+    {
+        "ctaBody":  "Saat ne olursa olsun arayın. Ortalama 30 dakikada kapınızdayız, keşif ücretsiz, iş yazılı garantili.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un her ilçesinde gider açma hizmeti veriyoruz. Kapı önünüze geldiğinizde sorun türünü tespit ediyor, doğru aleti seçiyor, etrafa zarar vermeden açıyoruz. Ekibimiz galoş takıyor, koruyucu örtü seriyor; iş bittikten sonra etraf ilk geldiğimizden daha temiz.",
+        "signsTip":  "Bu belirtilerden bir veya birkaçını fark ettiyseniz bekletmeyin. Erken müdahale hem daha ekonomik hem daha temiz; tıkanıklık tamamen oluştuğunda alt katlara su basma riski başlar.",
+        "specialTitle":  "Apartmanda ve Sitelerde Gider Açma",
+        "intro1":  "Gider tıkanıklığı, evde ve iş yerinde günlük hayatın akışını anında durduran bir sorun. Yer gideri tıkandığında banyo su altında kalır, balkon gideri tıkandığında yağmurda büyük zarar çıkar, çatı gideri tıkandığında bina dış yüzeyinde nem birikir. Tüm bu farklı tipler farklı yaklaşımlar gerektirir; biz hepsi için ekipmanlıyız.",
+        "closingTitle":  "Şu An Tıkanmış Bir Gideriniz mi Var?",
+        "bonusTitle":  "Bahçe ve Çatı Giderleri için Mevsimsel Bakım Önerisi",
+        "methodsIntro":  "Gider tipi ve tıkanıklık şiddetine göre dört ana yöntem kullanıyoruz:",
+        "signsTitle":  "Gider Tıkanıklığının Erken Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da yer giderleri, balkon, çatı, bahçe giderleri için profesyonel açma hizmeti. 7/24, ücretsiz keşif, yazılı garanti. 0552 007 60 34",
+        "signsBody":  "Tıkanıklık aniden olmaz; öncesinde belirtiler verir. Suyun normalden yavaş çekilmesi, gider deliğinden ses gelmesi, balkonda ve çatıda yağmur sonrası su birikmesi, bahçede toprağın ıslak kalması — bunlar ilk uyarılardır.",
+        "faqs":  [
+                     {
+                         "a":  "Saç + sabun birikintisi yer giderlerinin en yaygın sebebi. Periyodik basınçlı su parlatma ile yıllık bir kez yapılan müdahale 10-12 ay sorun çıkmasını engelliyor.",
+                         "q":  "Yer giderim sürekli tıkanıyor, kalıcı çözüm var mı?"
+                     },
+                     {
+                         "a":  "Genelde hayır. Önce vidanjörle yaprak ve toprağı çekiyoruz, sonra basınçlı su ile içeriden parlatıyoruz. Kazı son çare; yapısal hasar varsa devreye giriyor.",
+                         "q":  "Çatı giderim tıkanmış, kazı gerekir mi?"
+                     },
+                     {
+                         "a":  "Olabilir. Önce kameralı tespit ile bağlantı noktasını kontrol ediyoruz; eğer bağlantı çökmüşse drenaj kuyusu / bağlantı yenileme önerimizi yapıyoruz. Faturalı, garantili çalışıyoruz.",
+                         "q":  "Bahçe giderim taşıyor, ana kanalizasyona bağlantısı sorun olabilir mi?"
+                     },
+                     {
+                         "a":  "Var. Yılda 2 periyodik basınçlı su bakımı + acil müdahale önceliği + %30 indirim paketimiz mevcut. Daire başı maliyet aylık bir kahve fiyatı.",
+                         "q":  "Bina yöneticisiyim, ortak gider hatları periyodik bakım istiyor, var mı?"
+                     }
+                 ],
+        "introTitle":  "İstanbul\u0027\u0027\u0027\u0027da Profesyonel Gider Açma Hizmeti",
+        "causesTitle":  "Gider Tıkanıklığı Neden Olur?",
+        "methodsTitle":  "Hangi Yöntemlerle Gider Açıyoruz?",
+        "causesIntro":  "Gider tıkanıklıklarının arkasında çoğunlukla şu faktörler yatıyor:",
+        "keywords":  "gider açma, yer gideri açma, balkon gideri, çatı gideri, bahçe gideri tıkanıklığı",
+        "bonusBody":  "Bahçe ve çatı giderleri sonbahar yaprak dökümünde ve ilkbahar peyzaj sezonunda en çok tıkanır. Yılda iki kez (sonbahar ve ilkbahar) yapılacak vidanjör + basınçlı su temizliği bu giderlerin yıl boyu sorunsuz çalışmasını sağlıyor. Site yönetimleri ve villa sahiplerine periyodik program sunuyoruz.",
+        "closingBody":  "Bekletmeyin. Gider tıkanıklığı saatler içinde alt katları ve komşu daireleri etkileyen bir soruna dönüşebilir. Aramanız yeterli, ekibimiz 30 dakikada kapınızda olur.",
+        "photo":  1,
+        "slug":  "gider-acma",
+        "h1":  "Gider Açma — Yer, Balkon, Çatı ve Bahçe Giderleri İçin 7/24 Çözüm",
+        "heroLead":  "Yer giderleri, balkon, çatı, bahçe giderleri — her tür gideri açıyor, akışı normale döndürüyoruz. 30 dakikada kapınızda.",
+        "ctaTitle":  "Tıkanıklık ertelenecek bir sorun değil.",
+        "methods":  [
+                        {
+                            "d":  "Saç ve katı tıkaçlar için ilk başvurduğumuz yöntem; 12-50 mm çaplı spirallerimiz var.",
+                            "t":  "Manuel ve robotik spiral"
+                        },
+                        {
+                            "d":  "Yağ ve yumuşak çamur tıkanıklıklarında 200 bar\u0027\u0027a kadar basınçla içten parlatma yapıyoruz.",
+                            "t":  "Basınçlı su (jet)"
+                        },
+                        {
+                            "d":  "Bahçe giderleri ve büyük rögar temizliklerinde vidanjör tahliye desteği veriyoruz.",
+                            "t":  "Vidanjör destekli temizlik"
+                        },
+                        {
+                            "d":  "Tıkanıklık yeri belirsizse HD kamera ile boru içini görüyor, hedefli müdahale ediyoruz.",
+                            "t":  "Kameralı tespit"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Banyo yer giderlerinde saç telleri sabun kalıntısıyla birleşip katı tıkaç oluşturur.",
+                           "t":  "Saç ve sabun birikintisi"
+                       },
+                       {
+                           "d":  "Mutfak giderlerinde yağ ve gıda artığı zamanla birikip akışı engeller.",
+                           "t":  "Yağ ve yiyecek artığı"
+                       },
+                       {
+                           "d":  "Balkon, çatı ve bahçe giderlerinde mevsimsel yaprak ve toprak birikir.",
+                           "t":  "Yaprak ve toprak birikimi"
+                       },
+                       {
+                           "d":  "Suda çözünmediği için boruda sıkışıp tıkanıklığa yol açar.",
+                           "t":  "İslak mendil ve hijyen ürünleri"
+                       }
+                   ],
+        "name":  "Gider Açma",
+        "specialBody":  "Apartman ve sitelerde gider tıkanıklıkları genellikle ortak hatlardan kaynaklanır; tek dairede beliren sorun aslında ana hatta yüklenmiş bir baskının yansımasıdır. Bu yüzden Sözleşmeli müşterilerimize yıllık periyodik bakım öneriyoruz; ana hat basınçlı su ile yıllık parlatma tek tek dairelerde sorun çıkmasını engelliyor."
+    },
+    {
+        "ctaBody":  "Tek bir gece sonra tamamen tıkanır. Aramanız yeter; 30 dakikada kapınızda, çözümümüz hazır.",
+        "intro2":  "20 yıllık tecrübemizde İstanbul\u0027\u0027\u0027\u0027un evlerinde, ofislerinde, restoranlarında binlerce lavabo açtık. Lavabo etrafına zarar vermemek, fayansı çizmemek, mermer tezgahı korumak öncelikli. Ekipmanımızı koruyucu örtü altında, hassas çalışıyoruz.",
+        "signsTip":  "Mutfak lavabonuzdaki yavaş akış 1-2 günde tıkanıklığa dönüşür; bekletmeyin. Yıllık bir bakım yıl boyu sorun yaşamamanızı sağlıyor.",
+        "specialTitle":  "Banyo ve Mutfak Lavaboları Arasındaki Farklar",
+        "intro1":  "Lavabo, evde ve iş yerinde günlük en yoğun kullanılan tesisat noktalarından biri. Tıkandığında akış durur, koku başlar, su taşma riski oluşur. Banyo lavabosunda saç + sabun, mutfakta yağ + yiyecek — kaynak farklı, çözüm de farklı. Biz her iki tipi de kökünden çözüyoruz.",
+        "closingTitle":  "Lavabo Tıkanıklığını Bekletmeyin",
+        "bonusTitle":  "Lavabo Açma Sırasında Eşyalarınızı Koruma Hassasiyetimiz",
+        "methodsIntro":  "Lavabo türüne ve tıkanıklığın yerine göre farklı yöntemler uyguluyoruz:",
+        "signsTitle":  "Lavabo Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da banyo ve mutfak lavabolarında saç, sabun ve yağ kaynaklı tıkanıklıklarda profesyonel açma hizmeti. 7/24, ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Suyun normalden yavaş çekilmesi, lavabo gideri etrafından kabarcık ya da hava sesi gelmesi, kötü koku, sifon altında nemlilik — bunlar tıkanıklığın yaklaştığını gösteren ipuçları.",
+        "faqs":  [
+                     {
+                         "a":  "Yağ birikintisi 2 yıl içinde boruyu ciddi daraltır. Basınçlı su ile içten parlatma yetiyor; sonraki 10-12 ay sorun yaşamıyorsunuz. Yıllık bakım önerisi mantıklı.",
+                         "q":  "Mutfak lavabom 2 yıldır sürekli yavaş akıyor, normal mi?"
+                     },
+                     {
+                         "a":  "Çoğu zaman evet — sifonu söküyoruz, ne olduğuna bakıyoruz, çıkarıp geri monte ediyoruz. Sifondan ileri kaçtıysa bile özel uçlu spiralle bulup çıkarabiliyoruz. Hasarsız teslim garantili.",
+                         "q":  "Yüzüğüm lavaboya düştü, çıkarabilir misiniz?"
+                     },
+                     {
+                         "a":  "Genelde sifon altında biriken organik artıkların kaynaklı. Sifon temizliği + ozon koku giderme uygulaması çoğu zaman sorunu kalıcı çözüyor.",
+                         "q":  "Banyo lavabom kötü kokuyor ama akıyor, çözüm?"
+                     },
+                     {
+                         "a":  "Çok mantıklı. Restoran tek noktasal lavabo bakımı yerine yağ tutucu + mutfak hattı periyodik bakım paketimiz var; aylık takip ile lavabo tıkanıklığı dahil tüm sorunlar bitiyor.",
+                         "q":  "Restoran lavabosu sürekli tıkanıyor, sözleşmeli bakım mantıklı mı?"
+                     }
+                 ],
+        "introTitle":  "İstanbul\u0027\u0027\u0027\u0027da Profesyonel Lavabo Açma Hizmeti",
+        "causesTitle":  "Lavabo Tıkanıklığı Neden Olur?",
+        "methodsTitle":  "Lavabo Açma Yöntemlerimiz",
+        "causesIntro":  "Banyo ve mutfak lavabolarında ayrı ayrı kaynaklar var:",
+        "keywords":  "lavabo açma, banyo lavabosu, mutfak lavabosu, lavabo tıkanıklığı",
+        "bonusBody":  "Lavabo etrafında değerli eşyalar olabilir; mermer tezgah, butik aynalar, kişisel objeler. Çalışmaya başlamadan önce çevreyi koruyucu örtüyle kaplıyor, ekipmanı en hassas modda kullanıyoruz. İş bittikten sonra etrafı bir kez daha temiz teslim ediyoruz.",
+        "closingBody":  "Lavabo akışı yavaşlıyor mu? Bekletmeyin. Aramanız yeterli; 30 dakikada kapınızdayız, etrafa zarar vermeden çözüyoruz.",
+        "photo":  2,
+        "slug":  "lavabo-acma",
+        "h1":  "Lavabo Açma — Banyo ve Mutfak için Hassas Profesyonel Çözüm",
+        "heroLead":  "Banyo ve mutfak lavabolarında saç, sabun ve yağ kaynaklı tıkanıklıkları hassasiyetle açıyoruz. 30 dakikada kapınızda.",
+        "ctaTitle":  "Lavabo akışı yavaşladıysa zaman geçirmeyin.",
+        "methods":  [
+                        {
+                            "d":  "Sifon altındaki kapağı açıp temizleyerek başlıyoruz; bazen sorun burada bitiyor.",
+                            "t":  "Sifon temizliği"
+                        },
+                        {
+                            "d":  "Lavabo çıkışına uygun 12-25 mm çaplı esnek spirallerimizle hattı açıyoruz.",
+                            "t":  "İnce çaplı spiral"
+                        },
+                        {
+                            "d":  "Yağ kaynaklı mutfak tıkanıklıklarında basınçlı su ile içten parlatma yapıyoruz.",
+                            "t":  "Basınçlı su (gerektiğinde)"
+                        },
+                        {
+                            "d":  "Düşen yüzük veya küçük cisimleri sifonu söküp temiz şekilde çıkarıyor, hasarsız geri monte ediyoruz.",
+                            "t":  "Yabancı cisim çıkarma"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Saç telleri sabun kalıntısıyla yapışıp boru iç çapında daralma yapıyor.",
+                           "t":  "Saç ve sabun (banyo)"
+                       },
+                       {
+                           "d":  "Sıvı yağ soğuyup boru duvarına yapışıyor; gıda artıkları yapışkan tıkaç oluşturuyor.",
+                           "t":  "Yağ ve yiyecek (mutfak)"
+                       },
+                       {
+                           "d":  "Eski veya yanlış monte edilmiş sifonlarda akış engelleri oluşuyor.",
+                           "t":  "Sifon yetersizliği"
+                       },
+                       {
+                           "d":  "Yüzük, küçük objeler, kapak parçaları lavaboya düşüp boruda sıkışıyor.",
+                           "t":  "Yabancı cisim"
+                       }
+                   ],
+        "name":  "Lavabo Açma",
+        "specialBody":  "Banyo lavabosu çoğunlukla saç + sabun tıkanıklığı yaşar; ince çaplı spiral hızla iş bitirir. Mutfak lavabosu ise yağ kaynaklı; basınçlı su veya buhar kombinasyonu daha etkili. Restoran ve toplu mutfaklarda yağ tutucu bakımı zaten yapılıyorsa lavabo tıkanıklığı azalıyor; yapılmıyorsa lavabo açma sıkça tekrarlıyor."
+    },
+    {
+        "ctaBody":  "Aramanızdan 30 dakika sonra ekibimiz adresinizde, hijyenik ekipmanla. Etrafa zarar vermeden çözüyoruz.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un her ilçesinde klozet açma hizmeti veriyoruz. Hijyenik koruma, koruyucu örtü, doğru ekipman ile sorunu en kısa sürede çözüyor, etrafı temiz teslim ediyoruz. Ekibimiz eldivenli, galoşlu çalışır; iş sonunda dezenfeksiyon yapar.",
+        "signsTip":  "Tıkanıklık başladığında klozet sifonunu tekrar tekrar çekmeyin; su taşması riskini artırır. Bizi çağırın, doğru yöntemle açıyoruz.",
+        "specialTitle":  "Çocuk Eşyaları ve Yabancı Cisim Çıkarma Uzmanlığımız",
+        "intro1":  "Klozet tıkanıklığı evde acil sorunlardan biri; bekleyemez, ertelenemez. Tıkalı klozet kullanılamadığı gibi koku ve hijyen sorunu da yaratır. Hijyenik müdahale ve etrafa zarar vermeme bu işin temel iki ilkesi.",
+        "closingTitle":  "Tıkalı Klozet Bekleyemez",
+        "bonusTitle":  "Klozet Söküm ve Geri Montaj Garantimiz",
+        "methodsIntro":  "Sorun tipine ve tıkanıklığın yerine göre farklı yöntemler uyguluyoruz:",
+        "signsTitle":  "Klozet Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da klozet ve tuvalet tıkanıklıklarına 7/24 profesyonel müdahale. Klozeti söküp etrafa zarar vermeden çözüyoruz. Ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Sifon çekildiğinde su yavaş gitmesi, taşma riski, kötü koku, gider deliklerinden hava sesi — tüm bunlar tıkanıklığın yaklaştığını gösteren işaretler.",
+        "faqs":  [
+                     {
+                         "a":  "Sifonu çekmeyin, daha çok taşırırsınız. Bizi arayın, 30 dakikada kapınızda oluyor; klozet pompası + spiral ile temiz şekilde açıyoruz, etrafı dezenfekte ediyoruz.",
+                         "q":  "Klozetim taştı, ne yapmalıyım?"
+                     },
+                     {
+                         "a":  "Çoğu durumda hayır; özel uçlu spiralle çıkarabiliyoruz. Ancak büyük cisim ise klozeti sökmek gerekiyor; süreçte hasar oluşmuyor, geri montajda yeni conta + kaçak garantisi var.",
+                         "q":  "Çocuğum oyuncağı klozete düşürdü, sökmek gerekir mi?"
+                     },
+                     {
+                         "a":  "Eski binalarda sifon mekanizması kireçlenir; bunu temizleme veya değiştirme hizmetimiz var. Genelde 30 dakikalık iş, kalıcı çözüm.",
+                         "q":  "Klozetim sürekli sifonlama yapmıyor, kireç olabilir mi?"
+                     },
+                     {
+                         "a":  "Evet, koruyucu örtü, eldiven ve galoş standardımız. İş bittikten sonra dezenfeksiyon yapıyoruz; banyonuz ilk geldiğimizden daha temiz oluyor.",
+                         "q":  "Klozet açma sırasında banyom temiz kalır mı?"
+                     }
+                 ],
+        "introTitle":  "İstanbul\u0027\u0027\u0027\u0027da Tuvalet ve Klozet Açma Hizmeti",
+        "causesTitle":  "Klozet Tıkanıklığı Neden Olur?",
+        "methodsTitle":  "Klozet Açma Yöntemlerimiz",
+        "causesIntro":  "Klozet tıkanıklıklarının başlıca sebepleri:",
+        "keywords":  "tuvalet açma, klozet açma, tuvalet tıkanıklığı, klozet tıkanıklığı",
+        "bonusBody":  "Klozet söküm gerektiğinde çoğu kişi kaçak veya hasar korkusu yaşar. Biz 20 yıldır bu işi yapıyoruz; klozeti söküp tekrar monte ettiğimizde yeni conta kullanıyor, su sızıntısına karşı yazılı garanti veriyoruz. Ekipmanımız ve deneyimimiz bu konuda kanıtlanmış.",
+        "closingBody":  "Klozet tıkanıklığı evdeki en aciliyetli sorunlardan; saatler bile beklenmez. Aramanız yeter, 30 dakikada kapınızdayız, hijyenik ve hızlı çözüyoruz.",
+        "photo":  3,
+        "slug":  "tuvalet-acma",
+        "h1":  "Tuvalet ve Klozet Açma — Etrafa Zarar Vermeden Hijyenik Çözüm",
+        "heroLead":  "Klozet tıkanıklığında klozeti söküp etrafa zarar vermeden, temiz ve hızlı şekilde sorunu çözüyoruz.",
+        "ctaTitle":  "Klozetiniz tıkalıysa zaman değerli.",
+        "methods":  [
+                        {
+                            "d":  "Hafif tıkanıklıkları profesyonel klozet pompalarımızla hızla açıyoruz.",
+                            "t":  "Klozet pompası ve özel ekipmanlar"
+                        },
+                        {
+                            "d":  "Yabancı cisim sıkıştığında klozeti söküp temiz şekilde cisimi çıkarıyor, geri monte ediyoruz; kaçak garantisi.",
+                            "t":  "Klozet sökümü ile çıkarma"
+                        },
+                        {
+                            "d":  "Tıkanıklık klozet sonrası hatta ise spiralle erişip açıyoruz.",
+                            "t":  "Spiralle hat müdahalesi"
+                        },
+                        {
+                            "d":  "Hat boyunca yağ ve birikinti varsa basınçlı su ile parlatma uyguluyoruz.",
+                            "t":  "Basınçlı su (gerektiğinde)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bir seferde fazla kağıt sifona sıkışıp tıkaç oluşturur.",
+                           "t":  "Aşırı tuvalet kağıdı"
+                       },
+                       {
+                           "d":  "Suda çözünür\" yazsa da büyük çoğunluğu çözülmez; klozet ve sifonu tıkar.",
+                           "t":  "Islak mendil ve hijyen ürünleri"
+                       },
+                       {
+                           "d":  "Çocukların düşürdüğü oyuncaklar, kazara düşen kalem/eşya yaygın bir sebep.",
+                           "t":  "Yabancı cisim (oyuncak, kalem, hijyen ürünü)"
+                       },
+                       {
+                           "d":  "Eski binalarda sifon mekanizması kireçlenip akışı engelleyebiliyor.",
+                           "t":  "Sifon ve hat kireçlenmesi"
+                       }
+                   ],
+        "name":  "Tuvalet ve Klozet Açma",
+        "specialBody":  "Çocukların klozete düşürdüğü oyuncak, hijyen ürünü, kalem gibi yabancı cisimler en sık karşılaştığımız klozet sorunlarından. Çoğu zaman özel uçlu spirallerimizle çıkarabiliyoruz; çıkmazsa klozeti söküyoruz, hasarsız çıkarıyor, yeni conta ile geri monte ediyor, kaçak garantisi veriyoruz."
+    },
+    {
+        "ctaBody":  "Aramanızdan 30 dakika sonra basınçlı su tankerimiz adresinizde. Yağ ve yiyecek artığı sıyrılır, akış normale döner.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un evlerinde, restoranlarında ve toplu mutfaklarında mutfak gideri açıyoruz. Sorunun yağ kaynaklı olduğunu bildiğimiz için doğru ekipmanı doğrudan getiriyoruz; ek ziyaretle vakit kaybetmiyoruz.",
+        "signsTip":  "Mutfak giderinizde yavaşlama 1-2 hafta sonra tam tıkanıklığa dönüşür. Yıllık bir kez basınçlı su parlatma 12 ay sorunsuz akış garantisi sağlıyor.",
+        "specialTitle":  "Restoran ve Toplu Mutfaklara Özel Hizmetimiz",
+        "intro1":  "Mutfak gideri evdeki en sık tıkanan noktalardan biri. Bulaşık yıkarken dökülen yağlar zamanla soğuyup boru iç yüzeyine yapışır; gıda artıkları bu yağa yapışıp katı tıkaç oluşturur. Standart spiral genelde yetmez; basınçlı su gerek.",
+        "closingTitle":  "Mutfak Akışınızı Hızla Normale Döndürelim",
+        "bonusTitle":  "Ev Sahiplerine Önleyici Mutfak Bakım Önerimiz",
+        "methodsIntro":  "Mutfak tıkanıklıkları için özel yöntemler:",
+        "signsTitle":  "Mutfak Gideri Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da mutfak giderlerinde yağ ve yiyecek kaynaklı tıkanıklıklara basınçlı su yöntemiyle profesyonel müdahale. 7/24, ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Bulaşık yıkarken suyun yavaş çekilmesi, gider deliğinden kabarcık çıkması, kötü koku, sifon altında yağlı tortu — tüm bunlar tıkanıklığın yaklaştığını gösteren işaretler.",
+        "faqs":  [
+                     {
+                         "a":  "Yıllık periyodik basınçlı su parlatma kalıcı çözüm. Yağı içten sıyırıyor, sonraki 10-12 ay tıkanıklık olmuyor.",
+                         "q":  "Mutfak giderim sürekli tıkanıyor, kalıcı çözüm var mı?"
+                     },
+                     {
+                         "a":  "Yağ tutucu kapasitesi aşılıyorsa veya bakım periyodu uzun ise yağ ana hatta sızıyor. Tutucu boşaltma sıklığını artırmak + ana hat yıllık parlatma kombinasyonu çözüyor.",
+                         "q":  "Restoranımda yağ tutucu var ama yine de tıkanıyor, neden?"
+                     },
+                     {
+                         "a":  "Hafif yumuşak tıkanıklıkta geçici rahatlatma sağlayabilir; ancak biriken yağ katmanını çözmüyor. Yıllık periyodik basınçlı su parlatma çok daha etkili.",
+                         "q":  "Ev tipi sirke + karbonat işe yarar mı?"
+                     },
+                     {
+                         "a":  "Evet, ev mutfaklarında 1-2 saatlik müdahale; restoran mutfağında mesai dışı saat. Servis akışınızı bozmuyoruz.",
+                         "q":  "Mutfağımı kapatmadan halledebilir misiniz?"
+                     }
+                 ],
+        "introTitle":  "Mutfak Gideri Açma Uzmanlığımız",
+        "causesTitle":  "Mutfak Gideri Tıkanıklığının Sebepleri",
+        "methodsTitle":  "Mutfak Gideri Açma Yöntemlerimiz",
+        "causesIntro":  "Mutfak özelinde tıkanıklık sebepleri:",
+        "keywords":  "mutfak gideri açma, mutfak tıkanıklığı, mutfak yağ tıkanıklığı, gider yağ açma",
+        "bonusBody":  "Yıllık bir kez yapılacak basınçlı su parlatma mutfak gider hattınızda yağı içten sıyırıyor; sonraki 10-12 ay sorunsuz akış sağlıyor. Tek seferlik 1-2 saatlik bir bakım, yıl boyu sürpriz acil servis maliyetini ortadan kaldırıyor.",
+        "closingBody":  "Mutfak gideri yavaşlamaya başlamışsa zaman değerli. Aramanız yeterli, 30 dakikada kapınızda, basınçlı suyla parlatıp 12 ay sorunsuz akış sağlıyoruz.",
+        "photo":  4,
+        "slug":  "mutfak-gideri-acma",
+        "h1":  "Mutfak Gideri Açma — Yağ Tıkanıklıklarına Basınçlı Su Çözümü",
+        "heroLead":  "Yağ ve yiyecek artığından kaynaklanan mutfak tıkanıklıklarına özel basınçlı su yöntemi uyguluyoruz.",
+        "ctaTitle":  "Mutfağınız akışını mı kaybetti?",
+        "methods":  [
+                        {
+                            "d":  "200 bar\u0027\u0027a kadar basınçla yağı içten sıyırıp parlatıyoruz; en etkili yöntem.",
+                            "t":  "Basınçlı su (jet)"
+                        },
+                        {
+                            "d":  "Donmuş yağ tıkaçları için sıcak su buharı kullanıyoruz.",
+                            "t":  "Sıcak su buhar uygulaması"
+                        },
+                        {
+                            "d":  "Katı yiyecek artığı tıkaçları için spiralle parçalama.",
+                            "t":  "Robotik spiral"
+                        },
+                        {
+                            "d":  "Sifon altı temizlik + süzgeç değişim önerisi.",
+                            "t":  "Sifon ve süzgeç bakımı"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bulaşık yıkarken dökülen yağ soğuyup boru duvarına yapışıyor; içten daralma başlıyor.",
+                           "t":  "Sıvı yağ birikimi"
+                       },
+                       {
+                           "d":  "Süzgeçten kaçan küçük gıda parçaları yağa yapışıp katı tıkaç oluşturuyor.",
+                           "t":  "Yiyecek artığı"
+                       },
+                       {
+                           "d":  "Sert sular ve deterjan kalıntıları zamanla kireçle birleşip boruyu daraltıyor.",
+                           "t":  "Sabun ve deterjan"
+                       },
+                       {
+                           "d":  "Mutfakta sürekli buhar ve nemli boru, mantar oluşumunu hızlandırıyor.",
+                           "t":  "Yetersiz havalandırma"
+                       }
+                   ],
+        "name":  "Mutfak Gideri Açma",
+        "specialBody":  "Restoran, kafe, otel mutfak ve toplu yemek tesislerinde mutfak gideri tıkanıklığı işin durmasına yol açabilir. Yağ tutucu bakımı + ana hat parlatma kombinasyonu ile bu işletmelerin altyapısını periyodik koruyoruz. Mesai dışı çalışma standartımız; servis kesintiye uğramıyor."
+    },
+    {
+        "ctaBody":  "Hassas ekipmanla, etrafa zarar vermeden, 30 dakikada kapınızda.",
+        "intro2":  "20 yıllık tecrübemizle İstanbul\u0027\u0027\u0027\u0027un binlerce banyo giderini açtık. Yer döşemenizi, duş kabin contasını, fayanslarınızı korumak öncelikli. Ekibimiz galoş giyer, koruyucu örtü serer, hassas çalışır.",
+        "signsTip":  "Yüzeysel sifon temizliği geçici çözüm; saç + sabun katı tıkacı boru içine yerleşmişse ince çaplı spiral veya basınçlı su gerekir.",
+        "specialTitle":  "Sitelerde Ortak Hat Banyo Tıkanıklıkları",
+        "intro1":  "Banyo ve duş giderleri evdeki en sık tıkanan noktalardan; saç + sabun kombinasyonu zamanla katı tıkaç oluşturur. Tıkalı duş hızla sular altında kalır, banyo giderindeki sorun hijyen ve koku problemi getirir. Hassas, doğru ekipmanlı müdahale şart.",
+        "closingTitle":  "Banyo Akışınız Yeniden Sorunsuz",
+        "bonusTitle":  "Saç Toplayıcı ve Önleyici Bakım Önerileri",
+        "methodsIntro":  "Tıkanıklık şiddetine göre dört yöntem:",
+        "signsTitle":  "Banyo Gider Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da banyo ve duş giderlerinde saç ve sabun kaynaklı tıkanıklıklara hassas profesyonel müdahale. 7/24, ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Duş alırken suyun ayak bileğine yükselmesi, gider deliğinden kabarcık çıkması, kötü koku, sifon altında siyah birikinti — bunlar tıkanıklığın belirtileri.",
+        "faqs":  [
+                     {
+                         "a":  "Saç toplayıcı süzgeç kullanmaya başlayın + yıllık periyodik basınçlı su parlatma yaptırın. Bu kombinasyon tıkanıklığı %90 azaltıyor.",
+                         "q":  "Banyo giderim sürekli tıkanıyor, çözüm?"
+                     },
+                     {
+                         "a":  "Hassas çalışıyoruz; duş kabini contası, silikon, fayans tüm korunuyor. Ekipman ince çaplı; etrafa zarar vermiyor.",
+                         "q":  "Duş kabinim altında ne kadar müdahale yapabilirsiniz, zarar verir mi?"
+                     },
+                     {
+                         "a":  "Çoğu zaman sifon altı organik birikim sebebi. Sifon temizliği + ozon koku giderme uygulaması kalıcı çözüyor.",
+                         "q":  "Sifon altı kötü kokuyor ama akış var, ne yapmalıyım?"
+                     },
+                     {
+                         "a":  "Evet, sifon değişim hizmetimiz var. Yeni sifon temin ediyor, hasarsız monte ediyor, kaçak garantisi veriyoruz.",
+                         "q":  "Eski binadayım, sifon mekanizması bozuk, değiştirir misiniz?"
+                     }
+                 ],
+        "introTitle":  "Banyo ve Duş Gideri Açma Hizmetimiz",
+        "causesTitle":  "Banyo ve Duş Gider Tıkanıklığının Sebepleri",
+        "methodsTitle":  "Banyo Gideri Açma Yöntemlerimiz",
+        "causesIntro":  "Banyo gider tıkanıklıklarının kaynakları:",
+        "keywords":  "banyo gideri açma, duş gideri açma, banyo tıkanıklığı, duş tıkanıklığı",
+        "bonusBody":  "Banyo giderine takılan ucuz saç toplayıcı süzgeçler tıkanıklığı %80 oranında engelliyor. Yıllık bir kez basınçlı su parlatma ile birlikte bu süzgeçler kullanıldığında banyo gideri sorunsuz çalışıyor. Kalıcı çözümün anahtarı bu kombinasyonda.",
+        "closingBody":  "Banyo veya duş gideri tıkanmaya başlamışsa zaman geçmeden müdahale edelim. 30 dakikada kapınızda, hassas ekipmanla.",
+        "photo":  5,
+        "slug":  "banyo-gideri-acma",
+        "h1":  "Banyo ve Duş Gideri Açma — Saç ve Sabun Tıkanıklığı için Hassas Çözüm",
+        "heroLead":  "Saç ve sabun birikintisinden tıkanan banyo ve duş giderlerini, yüzeye zarar vermeden açıyoruz.",
+        "ctaTitle":  "Banyo akışı yavaşladıysa müdahale zamanı.",
+        "methods":  [
+                        {
+                            "d":  "Yüzeysel temizlik + sifon kapağı altı kontrol.",
+                            "t":  "Sifon ve süzgeç bakımı"
+                        },
+                        {
+                            "d":  "12-25 mm çaplı spirallerle saç + sabun tıkacını parçalama.",
+                            "t":  "İnce çaplı spiral"
+                        },
+                        {
+                            "d":  "Yağ ve şampuan kalıntılarına basınçlı su uygulaması.",
+                            "t":  "Basınçlı su parlatma"
+                        },
+                        {
+                            "d":  "Eski sifon mekanizması bozulmuşsa değişim önerisi.",
+                            "t":  "Sifon ve gider değişim önerisi"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Saç telleri sabun kalıntısıyla yapışıp katı tıkaç oluşturuyor; en yaygın sebep.",
+                           "t":  "Saç ve sabun katı tıkacı"
+                       },
+                       {
+                           "d":  "Yağlı şampuan kalıntıları zamanla boru duvarına yapışıyor.",
+                           "t":  "Şampuan ve duş jeli artıkları"
+                       },
+                       {
+                           "d":  "Sert su bölgelerinde kireç boru iç çapını daraltıyor.",
+                           "t":  "Kireç ve mineral birikimi"
+                       },
+                       {
+                           "d":  "Nemli ortam mantar oluşumunu hızlandırıyor.",
+                           "t":  "Mantar ve organik birikim"
+                       }
+                   ],
+        "name":  "Banyo ve Duş Gideri Açma",
+        "specialBody":  "Sitelerde banyo giderleri ortak hatta bağlanır; tek dairedeki sorun aslında ana hatta yüklenmiş baskının yansımasıdır. Bu yüzden site yöneticilerine yıllık ana hat basınçlı su programı öneriyoruz; tek tek dairelerde sorun çıkmasını engelliyor."
+    },
+    {
+        "ctaBody":  "Aramanız yeter; vidanjör + basınçlı su tankerimiz 30 dakikada kapınızda.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un her ilçesinde rögar açma ve temizlik hizmeti veriyoruz. Vidanjör, basınçlı su tankeri ve özel kazı ekipmanlarımız hazır; tıkanıklığın türüne göre doğru kombinasyonu uyguluyoruz.",
+        "signsTip":  "Rögar tıkanıklığı tüm binayı etkiler; tek bir dairenin değil. Periyodik bakım ile tıkanmadan kontrol altında tutmak önemli.",
+        "specialTitle":  "Apartman Yöneticilerine Yıllık Rögar Bakım Programı",
+        "intro1":  "Rögar (yaygın olarak logar denir), bina ana kanalizasyon hattının kontrol edilebilir başlangıç noktasıdır. Tıkandığında tüm bina kanalizasyon sistemi etkilenir; daireler ortak sorun yaşar. Açma ve düzenli temizlik bu yüzden büyük yapılarda zorunlu.",
+        "closingTitle":  "Rögar Bakımı Bina Sağlığı için Şart",
+        "bonusTitle":  "Rögar Yağmur Suyu Hatları için Mevsimsel Bakım",
+        "methodsIntro":  "Rögar tipine ve sorun şiddetine göre yöntem seçiyoruz:",
+        "signsTitle":  "Rögar Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da rögar ve logar açma, temizliği — vidanjörle çamur çekme, basınçlı su ile parlatma. 7/24 acil müdahale. 0552 007 60 34",
+        "signsBody":  "Rögar etrafından sızan kötü koku, kapak çevresinde ıslaklık, ortak gider hatlarında yavaş akış, ağır yağışta rögar etrafından su yükselmesi — bunlar tıkanıklığın belirtileri.",
+        "faqs":  [
+                     {
+                         "a":  "Hızla bizi arayın; vidanjör + basınçlı su kombinasyonuyla rögarı boşaltıp temizliyor, akışı normale döndürüyoruz. Ortalama 1-2 saatlik müdahale.",
+                         "q":  "Bina rögarımız taşıyor, ne yapmalıyım?"
+                     },
+                     {
+                         "a":  "Çok daireli yapılarda kesin; tek seferlik müdahale çok daha pahalı oluyor. Yıllık 1-2 ziyarette toplam maliyet düşük, sürpriz acil servis sıfırlanıyor.",
+                         "q":  "Yıllık rögar bakımı şart mı?"
+                     },
+                     {
+                         "a":  "Evet, bu sık görülen bir sorun. Kameralı tespit ile kök girişini görüyor, kesip vidanjörle tahliye ediyoruz. Rögar duvarı hasarlıysa onarım önerisi sunuyoruz.",
+                         "q":  "Bahçemde ağaç var, rögarı kökler tıkayabiliyor mu?"
+                     },
+                     {
+                         "a":  "Evet, logar kapağı yenileme ve montaj hizmetimiz var. Standart ve özel ölçü kapaklar temin ediyor, sızdırmaz şekilde monte ediyoruz.",
+                         "q":  "Logar kapağım kırık, sadece kapak değişimi yapıyor musunuz?"
+                     }
+                 ],
+        "introTitle":  "Rögar (Logar) Açma ve Temizliği Hizmetimiz",
+        "causesTitle":  "Rögar Tıkanıklığının Sebepleri",
+        "methodsTitle":  "Rögar Açma ve Temizleme Yöntemlerimiz",
+        "causesIntro":  "Rögar tıkanıklığının başlıca sebepleri:",
+        "keywords":  "rögar açma, logar açma, rögar temizliği, logar temizliği, rögar vidanjör",
+        "bonusBody":  "Sonbahar yaprak dökümünde ve ilkbahar peyzaj sezonunda yağmur suyu rögarları en çok tıkanır. Yılda iki kez (ekim ve mart) yapılacak vidanjör tahliyesi yağmur sezonunda binayı su altında kalmaktan koruyor. Site yönetimleri için sezonluk paketlerimiz var.",
+        "closingBody":  "Apartman ana kanalizasyonunuzun sağlığı rögar bakımıyla başlar. Periyodik program için bizi arayın; yıllık paketle sürpriz aidat raporları bitsin.",
+        "photo":  6,
+        "slug":  "rogar-acma",
+        "h1":  "Rögar (Logar) Açma ve Temizliği — Vidanjör Destekli Profesyonel Çözüm",
+        "heroLead":  "Bina dışı rögarları açıyor, çamur ve birikintiyi vidanjörle çekerek hattı tamamen temizliyoruz.",
+        "ctaTitle":  "Rögar Tıkanıklığı Tüm Binayı Etkiler",
+        "methods":  [
+                        {
+                            "d":  "Vidanjörümüzle rögardaki sıvı, çamur ve katı atığı eksiksiz çekiyoruz.",
+                            "t":  "Vidanjör ile çamur tahliyesi"
+                        },
+                        {
+                            "d":  "200 bar basınç ile rögar duvarlarını ve hat girişlerini temizliyoruz.",
+                            "t":  "Basınçlı su ile içten parlatma"
+                        },
+                        {
+                            "d":  "Hat çıkışlarındaki sorunları görmek için HD kamera ile içeri inip görüntülüyoruz.",
+                            "t":  "Kameralı tespit ve hat haritalama"
+                        },
+                        {
+                            "d":  "Hasar görmüş kapaklar için yeni montaj hizmeti.",
+                            "t":  "Logar kapağı yenileme"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Yıllar içinde rögara giren toprak ve organik birikinti hattı doldurur.",
+                           "t":  "Çamur ve toprak birikimi"
+                       },
+                       {
+                           "d":  "Bahçeli yapılarda ağaç ve bitki kökleri rögar duvarını delip içeri girer.",
+                           "t":  "Bitki kökleri"
+                       },
+                       {
+                           "d":  "Toplu mutfak ve restoran atığı rögarda katılaşıp tıkaç oluşturur.",
+                           "t":  "Yağ ve atık katılaşması"
+                       },
+                       {
+                           "d":  "Eski rögarlarda duvar çökmesi veya kapak hasarı tıkanıklığa yol açar.",
+                           "t":  "Yapısal çökme veya kapak hasarı"
+                       }
+                   ],
+        "name":  "Rögar (Logar) Açma ve Temizliği",
+        "specialBody":  "Rögar bakımı apartman ana kanalizasyonunun en kritik parçası. Yıllık bir kez yapılacak vidanjör çekim + basınçlı su parlatma + kameralı kontrol programı; ana hatta tıkanıklık çıkmasını engelliyor. Sözleşmeli sitelerimize aylık raporlama yapıyoruz."
+    },
+    {
+        "ctaBody":  "60 metre spiral + basınçlı su + kamera. Tek pakette pissu hattı açma uzmanlığı.",
+        "intro2":  "20 yıldır pissu hattı açma uzmanlığımız var. 60 metreye uzanan çelik spirallerimiz, 200 bar basınçlı su sistemi ve HD görüntüleme kamerası ile uzun hatları sorunsuz açıyoruz.",
+        "signsTip":  "Birden fazla dairede paralel yavaşlık varsa sorun pissu hatta. Tek dairede müdahale boşa zaman ve para; ana hatta uzanan profesyonel ekipman şart.",
+        "specialTitle":  "Eski Apartmanlarda Pissu Hattı Hassasiyeti",
+        "intro1":  "Pissu hattı, binanın atık suyu rögara ve oradan ana kanalizasyona taşıyan kritik kısım. Uzun mesafeli, çoğu zaman yapı altından geçen ve dolayısıyla erişimi zor olan bir hat. Tıkandığında daireler arası sorun yayılır; standart spiral yetmez, profesyonel uzun mesafeli ekipman gerek.",
+        "closingTitle":  "Pissu Hat Tıkanıklığı Bina Geneli Sorunu",
+        "bonusTitle":  "Yıllık Periyodik Pissu Hattı Bakım Önerimiz",
+        "methodsIntro":  "Hat uzunluğuna ve sorun türüne göre yöntem seçimi:",
+        "signsTitle":  "Pissu Hattı Tıkanıklığının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da pissu (atık su) hatlarında uzun mesafeli tıkanıklıklara 60 metreye kadar çelik spiralle profesyonel müdahale. 7/24. 0552 007 60 34",
+        "signsBody":  "Birden fazla dairede aynı anda yavaş akış, rögar etrafından koku, alt katlarda su yükselmesi, banyo ve mutfak akışlarının paralel yavaşlaması — bunlar pissu hat tıkanıklığını işaret eder.",
+        "faqs":  [
+                     {
+                         "a":  "Tek seferlik acil müdahale göreceli yüksek olabiliyor; ancak yıllık periyodik bakım sözleşmesi ile yıllık maliyet çok düşüyor. Daire başı aylık bir kahve fiyatı.",
+                         "q":  "Pissu hat açma fiyatı yüksek mi?"
+                     },
+                     {
+                         "a":  "Evet, 60 metreye uzanan çelik spirallerimiz var. Standart 50 metre hatları sorunsuz açıyoruz.",
+                         "q":  "Hat 50 metre, ekipmanınız yeterli mi?"
+                     },
+                     {
+                         "a":  "Evet, eski yapılarda dökme demir hat hassas. Düşük devirli ekipmanla, kontrollü çalışıyoruz; çoğu zaman boruya zarar vermeden açıyoruz.",
+                         "q":  "Eski binamda pissu hat dökme demir, hassas mı?"
+                     },
+                     {
+                         "a":  "Yapılan müdahale yazılı garanti altında. Aynı tıkanıklık aynı noktada tekrarlarsa garanti süresi içinde ücretsiz dönüyoruz; sigortalı hizmet veriyoruz.",
+                         "q":  "Pissu hat tıkalı, alt komşumun bodrumu su altında, garanti var mı?"
+                     }
+                 ],
+        "introTitle":  "Pissu (Atık Su) Hattı Açma Hizmeti",
+        "causesTitle":  "Pissu Hattı Tıkanıklığının Sebepleri",
+        "methodsTitle":  "Pissu Hattı Açma Yöntemlerimiz",
+        "causesIntro":  "Pissu hattı tıkanıklıklarının en yaygın sebepleri:",
+        "keywords":  "pissu hattı açma, atık su hattı, pissu tıkanıklığı, uzun mesafe spiral",
+        "bonusBody":  "Yıllık bir kez yapılacak basınçlı su parlatma + kameralı tespit + vidanjör tahliye programı pissu hattınızı yıl boyu sorunsuz tutuyor. Apartman aidat raporuna sürpriz yansımayan, tahmin edilebilir bir bakım. Sözleşmeli site ve apartmanlarımıza periyodik program oluşturuyoruz.",
+        "closingBody":  "Pissu hat tıkanıklığı tek dairenin değil binanın tamamının sorunu; profesyonel uzun mesafeli ekipmanla çözülmesi gerek.",
+        "photo":  7,
+        "slug":  "pissu-hatti-acma",
+        "h1":  "Pissu Hattı Açma — 60 Metre Çelik Spiralle Uzun Mesafe Çözümü",
+        "heroLead":  "Atık su hatlarındaki uzun mesafeli tıkanıklıklarda 60 metreye kadar çelik spiralle müdahale ediyoruz.",
+        "ctaTitle":  "Birden Fazla Dairede Yavaşlık Varsa Pissu Hat Sorununa Bakın",
+        "methods":  [
+                        {
+                            "d":  "Uzun mesafeli yağ ve sabun tıkaçlarını parçalayıp parçalama.",
+                            "t":  "60 metre çelik spiral"
+                        },
+                        {
+                            "d":  "Hat boyunca içten parlatma; kireç ve yağ katmanlarını sıyırıyor.",
+                            "t":  "200 bar basınçlı su"
+                        },
+                        {
+                            "d":  "Tıkanıklık yerini ve şiddetini önceden net görüp doğru ekipmanı seçiyoruz.",
+                            "t":  "HD kameralı tespit"
+                        },
+                        {
+                            "d":  "Çıkan birikintiyi anında tahliye ediyoruz; hat baştan sona temiz oluyor.",
+                            "t":  "Vidanjör destekli tahliye"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Hat boyunca biriken yağ ve sabun kalıntıları zamanla iç çapı daraltıyor.",
+                           "t":  "Yağ + sabun katmanlaşması"
+                       },
+                       {
+                           "d":  "Sert su bölgelerinde kireç hat boyunca yapışıyor.",
+                           "t":  "Kireç tabakası"
+                       },
+                       {
+                           "d":  "Eski binalarda pissu hattında nokta çökmeler tıkanıklığa yol açıyor.",
+                           "t":  "Hat boyu yapısal çökme"
+                       },
+                       {
+                           "d":  "Hat içinde sıkışan büyük yabancı cisim akışı engelliyor.",
+                           "t":  "Yabancı cisim sıkışması"
+                       }
+                   ],
+        "name":  "Pissu Hattı Açma",
+        "specialBody":  "60-80 yıllık binalarda pissu hattı dökme demir veya beton boru olabilir; bu malzemeler hassas. Düşük devirde spiral + kontrollü basınçlı su kombinasyonu ile boruyu kırmadan çalışıyoruz. Tarihi yapılarda bu hassasiyet kritik."
+    },
+    {
+        "ctaBody":  "Kameralı tespit kök nedeni gösterir, doğru çözümü işaret eder. Aramanız yeter.",
+        "intro2":  "20 yıldır kamera teknolojisi ile çalışıyoruz; ekipmanımız sürekli güncel. 50 metre mesafeye uzanan, suya dayanıklı, ışıklı HD kameralarımız ile hem ev içi tesisat hem ana hatları görüntüleyebiliyoruz.",
+        "signsTip":  "Kameralı tespit ek bir maliyet gibi görünebilir; ancak doğru teşhis sayesinde doğru müdahale yapılıyor, gereksiz açma maliyeti tasarruf ediliyor.",
+        "specialTitle":  "Müteahhit Garanti ve Sigorta Süreçleri için Belge Hazırlama",
+        "intro1":  "Boru içini görmeden müdahale etmek gözü kapalı çalışmak demek. HD kamera teknolojisi sayesinde tıkanıklığın yeri, türü, şiddeti ve borunun fiziki durumu net görülüyor; doğru çözüm doğru noktada uygulanıyor. Kazı, açma veya değişim gerekiyor mu — net biliyoruz.",
+        "closingTitle":  "Doğru Teşhis = Doğru Çözüm",
+        "bonusTitle":  "Yer Altı Boru Tespiti Uygulaması",
+        "methodsIntro":  "Süreç şöyle ilerliyor:",
+        "signsTitle":  "Ne Zaman Kamera Çağırmak Lazım?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da HD kamera ile boru içi görüntüleme — kırılma, çökme, tıkanıklık tespiti. 7/24 profesyonel hizmet. 0552 007 60 34",
+        "signsBody":  "Standart açma 2-3 kez tekrarlandıysa, sürekli aynı noktada koku/ıslaklık varsa, müteahhit garanti süreci işletmek gerekiyorsa, sigorta tazminatı için belge gerekiyorsa — kamera devreye girer.",
+        "faqs":  [
+                     {
+                         "a":  "Tekrarlayan tıkanıklık genelde yapısal sorun (kırık, çökme, yabancı cisim) işareti. Kameralı tespit ile sorunun kök nedenini görüyoruz; kalıcı çözüm için doğru müdahale.",
+                         "q":  "Standart açma yapıldı, ama sorun tekrarladı, neden?"
+                     },
+                     {
+                         "a":  "Standart vakaya ek küçük bir maliyet; ancak doğru teşhis sayesinde sonraki açma maliyetlerinden çok tasarruf sağlıyor. Net fiyatı keşif sırasında söylüyoruz.",
+                         "q":  "Kameralı tespit fiyatı nedir?"
+                     },
+                     {
+                         "a":  "Evet, profesyonel fotoğraflı + videolu rapor hazırlıyoruz. Müteahhit garanti süreci ve tüketici hakem heyetinde kabul edilen belgeler.",
+                         "q":  "Mütteahhit garanti süreci için belge alabilir miyim?"
+                     },
+                     {
+                         "a":  "Evet, sinyal cihazı + kamera kombinasyonu ile cm hassasiyetinde tespit ediyoruz. Yapıya zarar vermeden buluyor, kazı gerekirse minimum noktada yapıyoruz.",
+                         "q":  "Yer altı borumu kazımadan bulabilir misiniz?"
+                     }
+                 ],
+        "introTitle":  "HD Kamera ile Boru Görüntüleme Uzmanlığımız",
+        "causesTitle":  "Kamera ile Görüntüleme Hangi Durumlarda Faydalı?",
+        "methodsTitle":  "Kameralı Görüntüleme Süreci",
+        "causesIntro":  "Kameralı tespit özellikle şu durumlarda kritik:",
+        "keywords":  "kamera ile boru görüntüleme, boru kamerası, kanalizasyon kamerası, hd boru görüntü",
+        "bonusBody":  "Yer altındaki boruları kazısız bulmak için sinyal cihazı + kamera kombinasyonu kullanıyoruz. Boruyu cm hassasiyetinde tespit edip kazı işlemi gerekirse minimum noktada yapılıyor; yapıya zarar vermiyoruz.",
+        "closingBody":  "Kamera olmadan müdahale tahmin; kamera ile müdahale bilgi. 20 yıllık tecrübemiz + HD kameramız sorununuzun kök nedenini gösteriyor.",
+        "photo":  8,
+        "slug":  "kamera-ile-goruntuleme",
+        "h1":  "Kamera ile Boru Görüntüleme — HD Canlı Görüntü ile Net Tespit",
+        "heroLead":  "Borunun içine HD kamera indirip kırılma, çökme ya da tıkanma noktasını net görüntülüyoruz.",
+        "ctaTitle":  "Tekrarlayan Sorununuz mu Var?",
+        "methods":  [
+                        {
+                            "d":  "Suya dayanıklı, ışıklı kamerayı boru içine indiriyoruz; canlı görüntü ekranda.",
+                            "t":  "Kamera indirme"
+                        },
+                        {
+                            "d":  "Boru iç yüzeyini baştan sona tarayıp sorunu tespit ediyoruz.",
+                            "t":  "Hat tarama"
+                        },
+                        {
+                            "d":  "Tespiti kaydediyor, raporun parçası olarak veriyoruz.",
+                            "t":  "Foto/video kayıt"
+                        },
+                        {
+                            "d":  "Tespit sonucu net çözüm önerisi + yazılı/görsel rapor sunuyoruz.",
+                            "t":  "Çözüm önerisi ve raporlama"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Aynı noktada sürekli tıkanıklık varsa kamera yapısal sorunu gösteriyor.",
+                           "t":  "Tekrarlayan tıkanıklık"
+                       },
+                       {
+                           "d":  "Toprağa sızıntı, koku, ıslaklık varsa kameralı tespit kırığın yerini gösteriyor.",
+                           "t":  "Boru kırığı şüphesi"
+                       },
+                       {
+                           "d":  "Yapıya zarar vermeden boruyu bulmak için kamera + sinyal cihazı kombinasyonu.",
+                           "t":  "Yer altı boru tespiti"
+                       },
+                       {
+                           "d":  "Profesyonel fotoğraflı / videolu rapor için.",
+                           "t":  "Müteahhit veya bina sigortası süreci"
+                       }
+                   ],
+        "name":  "Kamera ile Boru Görüntüleme",
+        "specialBody":  "Yeni teslim alınmış sitelerde tıkanıklık çıktığında çoğu kez müteahhit garanti süreci işletilebilir. Profesyonel fotoğraflı + videolu rapor hazırlıyoruz; yönetim kurulu bu raporla müteahhide veya tüketici hakem heyetine başvurabiliyor. Bina sigortası tazminatı için de belge oluşturuyoruz."
+    },
+    {
+        "ctaBody":  "200 bar basınçlı su tankerimiz hazır. Yıllık programınızı oluşturalım, yıl boyu rahat edin.",
+        "intro2":  "20 yıldır basınçlı su tankerlerimizle hizmet veriyoruz. 200 bar\u0027\u0027\u0027\u0027a kadar basınç, doğru ayarlanan ucu, doğru süre uygulama — bu üçlü işin sırrı. Borunuzu kırmadan, etrafa zarar vermeden tertemiz parlatıyoruz.",
+        "signsTip":  "Tıkanıklık beklemeden, önleyici basınçlı su programı ile boruyu yıllık temiz tutmak en ekonomik yol. Acil müdahaleden çok daha hesaplı.",
+        "specialTitle":  "Restoran ve Toplu Mutfaklara Aylık Basınçlı Su Programı",
+        "intro1":  "Basınçlı su, boru iç yüzeyindeki yağ, kireç, sabun ve organik birikintileri sıyırarak akışı eski haline getiren en etkili yöntem. Standart spiral parçalama yapar; basınçlı su parlatma yapar. Kalıcı çözüm için ikisinin de yeri var ama uzun vadeli sonuç için basınçlı su tartışmasız önde.",
+        "closingTitle":  "Basınçlı Su = Boruda Yenilik",
+        "bonusTitle":  "Apartman ve Site Yöneticilerine Yıllık Basınçlı Su Paketi",
+        "methodsIntro":  "İşin akışı şöyle:",
+        "signsTitle":  "Basınçlı Su Bakımı Ne Zaman Yapılmalı?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da 200 bar basınçlı su ile boru içi parlatma — yağ, kireç ve birikinti temizliği. 7/24, ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Yağ kaynaklı tıkanıklık şüphesi varsa, akış zamanla yavaşlamışsa, bina yıllık periyodik bakım programındaysa, restoran/toplu mutfak işletmesi için yönetmelik gereği — basınçlı su gündeme gelir.",
+        "faqs":  [
+                     {
+                         "a":  "Hayır; basınç seviyesi boru türüne göre ayarlanıyor. Modern PVC için 200 bar, tarihi dökme demir için 80-100 bar. Doğru ayar boruya zarar vermez.",
+                         "q":  "Basınçlı su boruyu kırar mı?"
+                     },
+                     {
+                         "a":  "Çok daireli yapılarda ve restoranlarda evet; tek aileli evde her 2-3 yıl yetiyor. Sözleşmeli müşteriler aile evlerine de periyodik bakım yaptırabiliyor.",
+                         "q":  "Yıllık parlatma şart mı?"
+                     },
+                     {
+                         "a":  "Tankerlerimiz kendi suyumuzu taşıyor; sizin sayacınızdan kullanmıyoruz. Uygulama süresi de optimize; israf yok.",
+                         "q":  "Su tüketimi yüksek mi?"
+                     },
+                     {
+                         "a":  "Evet, mesai dışı saatte yapıyoruz. Kapanış sonrası gelir, sabah açılışına kadar her şey hazır.",
+                         "q":  "Restoranımı kapatmadan yapılabilir mi?"
+                     }
+                 ],
+        "introTitle":  "Basınçlı Su (Jet) Temizlik Hizmetimiz",
+        "causesTitle":  "Hangi Durumlarda Basınçlı Su Gerekiyor?",
+        "methodsTitle":  "Basınçlı Su Uygulama Sürecimiz",
+        "causesIntro":  "Basınçlı su özellikle şu durumlarda devrede:",
+        "keywords":  "basınçlı su, su jet temizlik, boru parlatma, kanalizasyon basınçlı su",
+        "bonusBody":  "Çok daireli yapılarda yıllık 1-2 basınçlı su parlatma programı acil müdahale maliyetini sıfırlıyor. Daire başı aylık bir kahve fiyatına; yöneticinin aidat raporu sürpriz yansıma içermez. 20 yıllık yönetici müşterilerimiz bunu doğruluyor.",
+        "closingBody":  "Yıllık basınçlı su parlatma ile boruyu yıllık olarak ilk hâlinde tutmak mümkün. Periyodik program için bizi arayın.",
+        "photo":  9,
+        "slug":  "basincli-su-temizligi",
+        "h1":  "Basınçlı Su ile Boru Temizliği — 200 Bar Profesyonel Parlatma",
+        "heroLead":  "200 bar\u0027\u0027\u0027\u0027a kadar basınçlı su ile boruyu içten parlatıyor, gelecek tıkanıklığı önceden önlüyoruz.",
+        "ctaTitle":  "Önleyici Bakım Acil Müdahaleden Çok Daha Hesaplı",
+        "methods":  [
+                        {
+                            "d":  "Önce kamerayla iç durumu görüyor, basınç seviyesini ona göre ayarlıyoruz.",
+                            "t":  "Kameralı ön tespit"
+                        },
+                        {
+                            "d":  "Boru türüne göre 50-200 bar arası basınç + uygun uç.",
+                            "t":  "Basınç ayarı ve uç seçimi"
+                        },
+                        {
+                            "d":  "Hat uzunluğunca uygulama; içten dışa yönelim ile birikinti tahliyesi.",
+                            "t":  "Hat boyu parlatma"
+                        },
+                        {
+                            "d":  "İş sonunda boruyu tekrar görüntüleyip parlatmanın etkinliğini kanıtlıyoruz.",
+                            "t":  "Kameralı son kontrol"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Spiralin kıramadığı yağ katmanını basınçlı su sıyırıyor.",
+                           "t":  "Yağ kaynaklı tıkanıklık"
+                       },
+                       {
+                           "d":  "Sert su bölgelerinde boru iç çapını daralan kirece etkili.",
+                           "t":  "Kireç ve mineral birikimi"
+                       },
+                       {
+                           "d":  "Yıllık parlatma boruyu yeni hâlinde tutuyor.",
+                           "t":  "Periyodik önleyici bakım"
+                       },
+                       {
+                           "d":  "Yoğun yağ yükü olan tesislerde standart yöntem.",
+                           "t":  "Restoran ve toplu mutfak hatları"
+                       }
+                   ],
+        "name":  "Basınçlı Su ile Boru Temizliği",
+        "specialBody":  "Restoran, kafe, otel ve toplu mutfak tesislerinde aylık basınçlı su programı işletmenin sürdürülebilirliği için kritik. Yağ ana hatta sızmadan, içten kontrol altında tutuluyor; tıkanıklık vakası neredeyse sıfırlanıyor. Sözleşmeli müşterilerimize aylık fatura + raporlama yapıyoruz."
+    },
+    {
+        "ctaBody":  "Yüksek kapasite vidanjörümüz hazır; aramanızdan 30-60 dk sonra kapınızda.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un kırsal mahallelerinde, köy yerleşimlerinde, yazlık sitelerinde foseptik temizliği yapıyoruz. Vidanjörlerimiz uygun kapasitede; kuyunuzun büyüklüğüne göre tek seferde tam boşaltma garantisi.",
+        "signsTip":  "Foseptik dolup taşmadan periyodik bakım yapılması temel; taşan foseptik toprağa kirletici sızıntı yaparak hem ekolojik hem yasal sorun yaratır.",
+        "specialTitle":  "Köy ve Yazlık Yerleşimlerine Periyodik Bakım Programı",
+        "intro1":  "Foseptik, kanalizasyon ana hattına bağlı olmayan yapılarda atık su biriktirme ve ön arıtma yapan kapalı kuyu sistemi. Periyodik boşaltılmadığında dolup taşar; koku, sızıntı, toprağa kirlenme problemleri oluşur. Düzenli temizlik şart.",
+        "closingTitle":  "Foseptik Bakımı İhmal Kaldırmaz",
+        "bonusTitle":  "Foseptik Çukuru Açma ve Yenileme Hizmeti",
+        "methodsIntro":  "Süreç adım adım:",
+        "signsTitle":  "Foseptik Temizliği Ne Zaman Yapılmalı?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da foseptik kuyusu temizliği — vidanjörle eksiksiz boşaltma, koku ve sızıntı problemine kalıcı çözüm. 7/24. 0552 007 60 34",
+        "signsBody":  "Kapak çevresinden koku gelmesi, etraf toprağında ıslaklık, evden gelen yavaş tahliye, yıllık periyodik bakım — bunlar temizlik zamanını işaret eder.",
+        "faqs":  [
+                     {
+                         "a":  "Aile büyüklüğü ve kuyu kapasitesine bağlı. Standart 4 kişilik ailede yıllık 1-2 boşaltma yeterli. Yazlık veya az kullanılan yerlerde sezon başı/sonu olmak üzere 2 ziyaret.",
+                         "q":  "Foseptik kuyumuz ne sıklıkta boşaltılmalı?"
+                     },
+                     {
+                         "a":  "Belirti varsa (koku, ıslaklık) hızla aramak gerek; 2-3 gün içinde taşma riski. Acil ziyaret için 30 dakikada kapınızdayız.",
+                         "q":  "Foseptik dolu, taşmadan ne kadar zaman var?"
+                     },
+                     {
+                         "a":  "Evet, foseptik çukuru açma ve yenileme hizmetimiz var. Kazı + beton + kapak montajı dahil; faturalı, garantili.",
+                         "q":  "Eski foseptiğimi yenilemek istiyorum, yapıyor musunuz?"
+                     },
+                     {
+                         "a":  "Sezon kapanışında foseptik tam boşaltma + kuyu temiz su yıkama önerimiz. Kış boyunca koku ve sızıntı problemi yaşamıyorsunuz.",
+                         "q":  "Yazlık sezon kapanışında ne yapılmalı?"
+                     }
+                 ],
+        "introTitle":  "Foseptik Temizliği Hizmetimiz",
+        "causesTitle":  "Foseptik Hangi Yapılarda Kullanılıyor?",
+        "methodsTitle":  "Foseptik Temizleme Sürecimiz",
+        "causesIntro":  "Foseptik kullanılan yapılar:",
+        "keywords":  "foseptik temizliği, foseptik vidanjör, foseptik boşaltma, fosseptik temizleme",
+        "bonusBody":  "Mevcut foseptik küçük geliyor veya hasar görmüşse, foseptik çukuru açma ve yenileme hizmetimiz var. Kazı, beton dökümü, kapak montajı dahil komple çözüm sunuyoruz; faturalı, garantili.",
+        "closingBody":  "Periyodik foseptik bakımı hem evinizi hem doğayı koruyor. Yıllık programa alın, yıl boyu unut.",
+        "photo":  10,
+        "slug":  "foseptik-temizligi",
+        "h1":  "Foseptik Temizliği — Vidanjörle Eksiksiz Boşaltma",
+        "heroLead":  "Foseptik kuyularını vidanjörle eksiksiz boşaltıyor, koku ve sızıntı sorununu kalıcı çözüyoruz.",
+        "ctaTitle":  "Foseptik Doluluk Belirtileri Yaşıyor musunuz?",
+        "methods":  [
+                        {
+                            "d":  "Foseptik kapağını açıyor, doluluk seviyesini ve içeriği gözlemliyoruz.",
+                            "t":  "Kapak açma ve durum tespiti"
+                        },
+                        {
+                            "d":  "Yüksek kapasiteli vidanjörümüzle sıvı + çamur + katı atığı tahliye ediyoruz.",
+                            "t":  "Vidanjörle eksiksiz boşaltma"
+                        },
+                        {
+                            "d":  "Talep ederseniz kuyu duvarlarını temiz su ile yıkıyoruz.",
+                            "t":  "Kuyu içi temiz suyla yıkama"
+                        },
+                        {
+                            "d":  "Çıkarılan atığı belediye onaylı atık alanına götürüyoruz; çevreye saygılı.",
+                            "t":  "Tahliyenin uygun şekilde gerçekleştirilmesi"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Kanalizasyon ana hattı olmayan yerleşimlerde standart sistem.",
+                           "t":  "Köy ve kırsal evler"
+                       },
+                       {
+                           "d":  "Sezonluk kullanım yapıları için yaygın çözüm.",
+                           "t":  "Yazlık ve dağ evleri"
+                       },
+                       {
+                           "d":  "Geniş arazilerde merkezi kanalizasyon olmadan bireysel sistem.",
+                           "t":  "Çiftlik ve tarım yapıları"
+                       },
+                       {
+                           "d":  "Belirli sanayi atıkları için ayrı foseptik sistemleri.",
+                           "t":  "Lojistik ve sanayi tesisleri (gerektiğinde)"
+                       }
+                   ],
+        "name":  "Foseptik Temizliği",
+        "specialBody":  "Köy ve yazlık sahiplerine yıllık 1-4 ziyaret içeren periyodik program sunuyoruz. Sezon başı ve sonu boşaltma + kuyu içi kontrol; mevsim boyu sorunsuz kullanım. Sözleşmeli müşterilerimize aylık veya sezonluk fatura kesiyoruz."
+    },
+    {
+        "ctaBody":  "Aylık sözleşme ile düzenli, raporlu, belediye uyumlu hizmet. Aramanız yeter.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un binlerce restoran, kafe, otel ve toplu yemek tesisinde yağ tutucu temizliği yapıyoruz. Aylık veya iki ayda bir periyodik bakım sözleşmemizle bu işletmelere düzenli hizmet veriyoruz; belediye denetim için gerekli rapor + fotoğraf hazırlanıyor.",
+        "signsTip":  "Aylık veya iki ayda bir periyodik bakım hem yönetmelik uyumluluğu hem de işletmenin sürdürülebilirliği için en mantıklı yol. Acil temizlikten çok daha ekonomik.",
+        "specialTitle":  "Aylık Periyodik Sözleşme + Belediye Denetim Hazırlığı",
+        "intro1":  "Yağ tutucu, mutfak suyundaki yağı ana kanalizasyona ulaşmadan ayrıştıran, restoran ve toplu mutfaklar için belediye yönetmeliği gereği zorunlu sistem. Periyodik temizlenmediğinde dolar, yağ ana hatta taşar, hem ekolojik hem yasal sorun çıkar.",
+        "closingTitle":  "Yağ Tutucu Bakımı İşletmenizin Sigortası",
+        "bonusTitle":  "Mutfak Hattı Periyodik Bakım Kombinasyonu",
+        "methodsIntro":  "Aşamalı süreç:",
+        "signsTitle":  "Yağ Tutucu Temizliği Ne Zaman Yapılmalı?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da restoran ve toplu mutfaklarda yağ tutucu periyodik temizliği. Belediye uyumlu, faturalı, raporlu hizmet. 7/24. 0552 007 60 34",
+        "signsBody":  "Mutfaktan kaynaklı kötü koku, gider akışında yavaşlık, ana hatta yağ taşma belirtileri, belediye denetim öncesi — bunlar temizlik gerektiren durumlar.",
+        "faqs":  [
+                     {
+                         "a":  "Belediye yönetmeliği genelde aylık öneriyor; ancak işletme hacmine göre 2-3 haftada bir veya iki ayda bir uygulanabilir. Tutucu kapasiteniz ve yağ hacminize göre programlıyoruz.",
+                         "q":  "Yağ tutucu hangi sıklıkta temizlenmeli?"
+                     },
+                     {
+                         "a":  "Evet, her ziyarette tarihli, fotoğraflı, imzalı rapor sağlıyoruz. Belediye denetiminde kabul edilen profesyonel belgeler.",
+                         "q":  "Belediye denetim için belge sağlıyor musunuz?"
+                     },
+                     {
+                         "a":  "Tabii, mesai dışı saatte geliyoruz. Kapanış sonrası, sabah açılışına kadar her şey hazır; servis kesintiye uğramıyor.",
+                         "q":  "Restoranımı kapatmadan yapılabilir mi?"
+                     },
+                     {
+                         "a":  "İşletme hacmine ve tutucu kapasitenize göre değişir. Tek seferlik temizlik fiyatından çok daha avantajlı; keşif sonrası net teklif sunuyoruz.",
+                         "q":  "Aylık sözleşme fiyatı nedir?"
+                     }
+                 ],
+        "introTitle":  "Yağ Tutucu Temizleme Uzmanlığımız",
+        "causesTitle":  "Yağ Tutucu Hangi İşletmelerde Zorunlu?",
+        "methodsTitle":  "Yağ Tutucu Temizleme Sürecimiz",
+        "causesIntro":  "Belediye yönetmelikleri kapsamında yağ tutucu zorunluluğu:",
+        "keywords":  "yağ tutucu temizliği, yağ kapanı temizleme, restoran yağ tutucu, mutfak yağ tutucu",
+        "bonusBody":  "Yağ tutucu bakımı + mutfak hattı yıllık basınçlı su parlatma kombinasyonu işletmenin altyapı sorunlarını sıfıra indiriyor. Aylık tutucu + yıllık ana hat = sorunsuz mutfak. Sözleşmeli müşterilerimiz bunu doğruluyor.",
+        "closingBody":  "Yönetmelik uyumluluğu, ana hatta yağ kaçışı engelleme, koku problemi çözümü — yağ tutucu bakımı bu üçünü birden çözüyor.",
+        "photo":  11,
+        "slug":  "yag-tutucu-temizligi",
+        "h1":  "Yağ Tutucu Temizliği — Restoran ve Toplu Mutfaklara Profesyonel Bakım",
+        "heroLead":  "Restoran ve toplu mutfaklarda yağ tutucularını periyodik olarak temizliyoruz.",
+        "ctaTitle":  "Restoranınızın Yağ Tutucu Bakımını Periyodik Yapın",
+        "methods":  [
+                        {
+                            "d":  "Doluluk seviyesi, atık türü ve sistem durumunu kontrol ediyoruz.",
+                            "t":  "Tutucu kapağı açma ve durum tespiti"
+                        },
+                        {
+                            "d":  "Biriken yağ ve atığı vidanjörle eksiksiz çekiyoruz.",
+                            "t":  "Vidanjörle yağ tahliyesi"
+                        },
+                        {
+                            "d":  "Duvar ve ızgaraları yıkıyor, dezenfekte ediyoruz; koku problemi bitiyor.",
+                            "t":  "Tutucu içi yıkama ve dezenfeksiyon"
+                        },
+                        {
+                            "d":  "Çıkarılan yağı uygun atık alanına götürüyoruz; çevre ve yasal uyumluluk.",
+                            "t":  "Belediye onaylı atık tahliyesi"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Tüm hizmet sektörü mutfaklarında zorunlu.",
+                           "t":  "Restoran ve kafeler"
+                       },
+                       {
+                           "d":  "Yüksek hacimli yağ kullanımı olan yapılarda zorunlu.",
+                           "t":  "Otel ve toplu yemek tesisleri"
+                       },
+                       {
+                           "d":  "Ortak veya bireysel yağ tutucu sistemleri.",
+                           "t":  "AVM gıda kortları"
+                       },
+                       {
+                           "d":  "Toplu yemek hizmeti veren tüm tesislerde.",
+                           "t":  "Hastane, okul, fabrika kafeteryaları"
+                       }
+                   ],
+        "name":  "Yağ Tutucu Temizliği",
+        "specialBody":  "Restoran ve toplu mutfak işletmecilerine aylık veya iki ayda bir periyodik bakım sözleşmesi sunuyoruz. Her ziyarette fotoğraflı rapor + tarihli kayıt; belediye denetim öncesi tüm belgeler hazır. İşletmeniz yönetmelik uyumluluğunda hep bir adım önde."
+    },
+    {
+        "ctaBody":  "Aramanız yeter; ekibimiz kaynağı bulur, kalıcı çözer.",
+        "intro2":  "20 yıllık tecrübemizle önce kokunun kaynağını net tespit ediyor, sonra kaynağa özel çözüm uyguluyoruz. Ozon makineleri, enzim bazlı çözücüler ve dezenfektanlarımızla kalıcı sonuç alıyoruz.",
+        "signsTip":  "Yüzeysel temizleyici sprey geçici çözüm; kalıcı koku altyapı kaynaklı ise sadece kaynağına müdahale işe yarar.",
+        "specialTitle":  "Restoran ve Toplu Mutfaklarda Koku Yönetimi",
+        "intro1":  "Banyo, mutfak veya genel olarak iç mekandaki kalıcı koku basit bir hijyen meselesi değil; çoğu zaman altyapıdaki bir sorunun belirtisidir. Sifon altı birikim, boru içi mantar, rögar sızıntısı, foseptik problemi — koku kaynağı çeşitli. Doğru teşhis + doğru çözüm şart.",
+        "closingTitle":  "Kalıcı Kokuya Kalıcı Çözüm",
+        "bonusTitle":  "Banyo Mantar ve Mikrop Önleme Önerimiz",
+        "methodsIntro":  "Kaynağa özel çözümler:",
+        "signsTitle":  "Koku Tespiti Nasıl Yapılır?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da banyo, mutfak ve gider kaynaklı kalıcı kokulara ozon ve enzim ile profesyonel çözüm. 7/24, ücretsiz keşif. 0552 007 60 34",
+        "signsBody":  "Kokunun en yoğun olduğu noktayı tespit ediyor, oradan başlıyoruz. Sifon kontrolü, boru içi kameralı tespit, ozon ölçümü ve gerekirse hava kaçağı testi ile kaynağa ulaşıyoruz.",
+        "faqs":  [
+                     {
+                         "a":  "Sifon altı görünmeyen birikim olabilir; sifonu söküp altını temizliyoruz. Sorun devam ederse boru içi mantar olabilir; ozon + enzim uygulaması sonuç veriyor.",
+                         "q":  "Banyom kötü kokuyor ama sifon temiz görünüyor, çözüm?"
+                     },
+                     {
+                         "a":  "Yağ + gıda artığı boru içinde fermantasyon yapıp ekşi koku üretebiliyor. Basınçlı su parlatma + enzim çözücü kombinasyonu kalıcı çözüm.",
+                         "q":  "Mutfaktan ekşi koku geliyor, neden?"
+                     },
+                     {
+                         "a":  "Az kullanılan sifonlarda su seviyesi düşer ve kanalizasyon kokusu eve girer. Sifona düzenli su koyup, ek olarak hava kaçağı kontrolü yaptırın.",
+                         "q":  "Kullanmadığım banyodan koku geliyor, neden?"
+                     },
+                     {
+                         "a":  "Evet, ozon yaygın ve güvenli kullanım. Uygulama sırasında mekan boş; kişiler 2-4 saat sonra dönüyor. Kalıntı yok, kalıcı etki var.",
+                         "q":  "Ozon uygulaması güvenli mi?"
+                     }
+                 ],
+        "introTitle":  "Koku Giderme Hizmetimiz",
+        "causesTitle":  "Kötü Koku Hangi Kaynaklardan Gelir?",
+        "methodsTitle":  "Koku Giderme Yöntemlerimiz",
+        "causesIntro":  "Koku kaynaklarının başlıcaları:",
+        "keywords":  "koku giderme, banyo kokusu, gider kokusu, kanalizasyon kokusu, ozon koku giderme",
+        "bonusBody":  "Banyodan gelen kalıcı koku çoğunlukla nemli ortamdaki mantar oluşumuna bağlı. Yıllık bir kez yapılacak ozon uygulaması + sifon temizliği bu sorunu büyük oranda çözüyor. Havalandırma iyileştirmesi de kalıcı çözüme katkı sağlıyor.",
+        "closingBody":  "Sprey değil, kaynağa müdahale. Kameralı tespit + ozon + enzim üçlüsü 20 yıldır işe yarıyor.",
+        "photo":  12,
+        "slug":  "koku-giderme",
+        "h1":  "Koku Giderme — Kalıcı Kokuları Kaynağında Yok Ediyoruz",
+        "heroLead":  "Banyo ve mutfaktan gelen kalıcı kokuları, kaynağında bulup ozon ve enzimle yok ediyoruz.",
+        "ctaTitle":  "Banyo veya Mutfak Kokusundan Bıktınız mı?",
+        "methods":  [
+                        {
+                            "d":  "Sifon altı birikinti temizliği; sifon mekanizması bozuksa değişim.",
+                            "t":  "Sifon temizliği ve değişim"
+                        },
+                        {
+                            "d":  "Ozon makinesi mekana yerleştirilip mantar ve mikrop kaynağını yok ediyoruz.",
+                            "t":  "Ozon uygulaması"
+                        },
+                        {
+                            "d":  "Boruya enzimli çözücü uygulayıp organik birikintiyi parçalıyoruz.",
+                            "t":  "Enzim bazlı boru içi çözücü"
+                        },
+                        {
+                            "d":  "Su sifon barajı eksik veya hasarlıysa onarıyoruz; kanalizasyon kokusu kesilir.",
+                            "t":  "Hava kaçağı tespiti ve kapatma"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Banyo lavabosu sifon altında biriken saç + sabun + kalıntılar mikrobial koku yaratır.",
+                           "t":  "Sifon altı organik birikim"
+                       },
+                       {
+                           "d":  "Nemli ortamda boru iç yüzeyinde mantar; kalıcı koku kaynağı.",
+                           "t":  "Boru içi mantar oluşumu"
+                       },
+                       {
+                           "d":  "Su seviyesi düşmüş sifonlardan kanalizasyon kokusu eve girer.",
+                           "t":  "Sifon havası kaçışı"
+                       },
+                       {
+                           "d":  "Bina dışındaki rögar veya foseptik sorunu eve koku iletebilir.",
+                           "t":  "Rögar veya foseptik sızıntısı"
+                       }
+                   ],
+        "name":  "Koku Giderme",
+        "specialBody":  "Restoran ve toplu mutfaklarda koku kaynaklı müşteri şikayeti ciddi gelir kaybı. Periyodik yağ tutucu temizliği + ozon dezenfeksiyon + boru içi enzim uygulaması üçlüsü sözleşmeli müşterilerimizde tartışmasız iş görüyor; mekan kokusu profesyonel restoran standardına ulaşıyor."
+    },
+    {
+        "ctaBody":  "Cm hassasiyetinde tespit, kazısız çözüm. Aramanız yeter.",
+        "intro2":  "20 yıldır boru tespiti yapıyoruz; ekipmanımız sürekli güncel. Yer altındaki metalik borular için sinyal verici, plastik borular için ses ve kamera kombinasyonu, sızıntı tespiti için akustik dinleyiciler kullanıyoruz.",
+        "signsTip":  "Kazı yapmadan önce mutlaka tespit yaptırın. 1 saatlik tespit + minimum kazı, körlemesine 5 metrekare kazıdan çok daha hesaplı.",
+        "specialTitle":  "Bahçeli Ev ve Sitelerde Peyzaj Bozmadan Tespit",
+        "intro1":  "Bahçenizden, otoparktan veya bina altından geçen yer altı borularını bulmak çoğu zaman \u0027\u0027nereyi kazacağız\u0027\u0027 sorununa dönüşür. Yanlış noktaya yapılan kazı hem maliyet hem zaman kaybı; bizim çözümümüz: sinyal cihazı + HD kamera ile cm hassasiyetinde tespit, sonra minimum noktada kazı.",
+        "closingTitle":  "Doğru Yere Kazmak Bütçenizi Korur",
+        "bonusTitle":  "Müteahhit ve Sigorta Süreçleri için Belge",
+        "methodsIntro":  "Boru türüne göre farklı yöntemler:",
+        "signsTitle":  "Tespit Hizmetinin Avantajları",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da yer altı boru tespiti — sinyal cihazı + kamera ile cm hassasiyetinde, kazısız tespit. 7/24. 0552 007 60 34",
+        "signsBody":  "Doğru tespit, gereksiz kazı maliyetini ortadan kaldırır. Yanlış noktaya yapılan kazı binayı, peyzajı, otoparkı boşa harcar; doğru tespit edildiğinde sadece tek metrekare kazı yetiyor.",
+        "faqs":  [
+                     {
+                         "a":  "Çok muhtemel. Akustik sızıntı dinleyicimiz var; bahçenizde kazısız sızıntı noktasını tespit ediyor, minimum kazı ile onarım sağlıyoruz.",
+                         "q":  "Bahçemde su sayacım fazla yazıyor, sızıntı olabilir mi?"
+                     },
+                     {
+                         "a":  "Tespit + krokili harita çıkarıyoruz. İnşaat sırasında nereye kazılmaması gerektiği net olur; mevcut altyapıya zarar vermeden çalışılır.",
+                         "q":  "Yeni inşaat yapacağım, mevcut boruları görmek istiyorum?"
+                     },
+                     {
+                         "a":  "Standart bir tespit 1-3 saat. Karmaşık ve geniş alanlar için yarım gün veya tam gün gerekebilir; keşifte size net süre söylüyoruz.",
+                         "q":  "Tespit ne kadar sürüyor?"
+                     },
+                     {
+                         "a":  "Evet, kazı + onarım hizmetlerimiz var. Tespit + minimum kazı + onarım komple çözüm; tek paket şeffaf fiyat.",
+                         "q":  "Tespit sonrası kazı da yapıyor musunuz?"
+                     }
+                 ],
+        "introTitle":  "Yer Altı Boru Tespit Uzmanlığımız",
+        "causesTitle":  "Boru Tespit Hangi Durumlarda Gerekiyor?",
+        "methodsTitle":  "Tespit Yöntemlerimiz",
+        "causesIntro":  "Tespit ihtiyacının başlıca nedenleri:",
+        "keywords":  "boru tespit, yer altı boru, boru bulma, kazısız tespit, sinyal cihazı",
+        "bonusBody":  "Tespit sonrası fotoğraflı + krokili profesyonel rapor hazırlıyoruz. Müteahhit garanti süreci, bina sigortası tazminatı veya hak arama sürecinde kabul edilen belgeler. 20 yıllık deneyimle hukuki süreçlere uygun belge formatları biliyoruz.",
+        "closingBody":  "20 yıllık tespit deneyimi + modern ekipman = doğru karar. Yanlış kazıdan tasarruf, doğru çözümden zaman kazanın.",
+        "photo":  13,
+        "slug":  "boru-tespit",
+        "h1":  "Boru Tespit (Yer Altı) — Kazısız, cm Hassasiyetinde Bulma",
+        "heroLead":  "Sinyal cihazıyla yer altındaki boruyu kırmadan, milimetrik hassasiyetle bulup haritalıyoruz.",
+        "ctaTitle":  "Boru Yerini Bilmeden Kazma",
+        "methods":  [
+                        {
+                            "d":  "Boruya sinyal gönderiyor, üstten dedektörle takip ediyoruz; cm hassasiyetinde harita.",
+                            "t":  "Sinyal cihazı (metalik borular)"
+                        },
+                        {
+                            "d":  "Boru içine kamera indirip canlı görüntü ile içeriden konum belirliyoruz.",
+                            "t":  "HD kamera (içeriden)"
+                        },
+                        {
+                            "d":  "Su sızıntısı sesini hassas dedektörle dinleyip sızıntı noktasını buluyoruz.",
+                            "t":  "Akustik sızıntı dinleyicisi"
+                        },
+                        {
+                            "d":  "Sıcak su kaçağında termal kamera ile kaçak yerini görüyoruz.",
+                            "t":  "Termal kamera (gerektiğinde)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bahçede ıslaklık, su sayacında düşme; sızıntı noktası tespit gerek.",
+                           "t":  "Sızıntı veya kırık şüphesi"
+                       },
+                       {
+                           "d":  "Yeni inşaat veya peyzaj öncesi mevcut boruları haritalamak.",
+                           "t":  "Yapı eklentisi öncesi"
+                       },
+                       {
+                           "d":  "Aynı noktada tekrarlayan tıkanıklık yapısal sorunu işaret ediyor.",
+                           "t":  "Tıkanıklık tekrarlıyor"
+                       },
+                       {
+                           "d":  "Devralan kişi mevcut altyapı durumunu kayıt altına almak istiyor.",
+                           "t":  "Eski ev/işyeri devralma"
+                       }
+                   ],
+        "name":  "Boru Tespit (Yer Altı)",
+        "specialBody":  "Bahçeli evlerde ve sitelerde peyzaj alanı bozmadan tespit yapmak öncelikli. Sinyal cihazı + kamera kombinasyonu ile boruyu yüzeyi açmadan tespit ediyoruz; kazı sadece müdahale gereken tek noktada yapılıyor. Site yönetimleri bunu takdir ediyor."
+    },
+    {
+        "ctaBody":  "Ücretsiz keşif + ihtiyaca özel paket teklifi. Aramanız yeter.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un yüzlerce apartman ve site yöneticisiyle çalışıyoruz. Sözleşmeli müşterilerimizde acil müdahale vakası ortalama %80 azalıyor; aidat raporu net ve tahmin edilebilir oluyor.",
+        "signsTip":  "Tek seferlik acil müdahale fiyatı ile yıllık 2 periyodik bakım fiyatı genelde benzer; ama acil müdahale sıklığı periyodik bakımla minimuma iniyor.",
+        "specialTitle":  "Yöneticilere Özel Şeffaf Faturalama ve Raporlama",
+        "intro1":  "Çok daireli yapılarda altyapı bakımı yöneticinin önemli sorumluluklarından biri. Sürpriz acil müdahale faturaları aidat raporuna kötü yansır, sakinleri huzursuz eder. Yıllık sözleşmeli bakım bu kaosa son veren bir çözüm.",
+        "closingTitle":  "Yöneticinizin İşini Kolaylaştıralım",
+        "bonusTitle":  "%30 İndirimli Acil Müdahale Hakkı",
+        "methodsIntro":  "Yıllık standart paket içeriği:",
+        "signsTitle":  "Sözleşmeli Hizmetin Avantajları",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da apartman ve site yöneticilerine yıllık periyodik bakım sözleşmesi — 2 bakım, acil müdahale önceliği, %30 indirim. 0552 007 60 34",
+        "signsBody":  "Yılda 2 periyodik bakım + acil müdahale önceliği + indirimli fiyat + yazılı rapor + sigortalı hizmet — sözleşme paketinin temelleri. Aidat raporuna sürpriz yansımıyor; yönetici işi kolaylaşıyor.",
+        "faqs":  [
+                     {
+                         "a":  "Yıllık sözleşme bedeli daire sayısına bölünüyor; daire başı aylık maliyet bir kahve fiyatına eşdeğer. Yönetim kurulu kararıyla aidat raporuna ek kalem olarak ekleniyor; sakinler için şeffaf.",
+                         "q":  "Sözleşme bedelini aidattan nasıl çıkartırız?"
+                     },
+                     {
+                         "a":  "Standart yıllık; istenirse 6 aylık veya 2 yıllık sözleşme yapılabiliyor. Sözleşme yenileme sırasında fiyat sabit tutuluyor; ek artış olmuyor.",
+                         "q":  "Sözleşme süresi nedir?"
+                     },
+                     {
+                         "a":  "Sözleşmeli müşteri aradığında telefonu açan operatörümüz sözleşmeyi sistemde görüyor, en yakın ekibi öncelikli yönlendiriyor. Ortalama 15-25 dakikada kapınızda.",
+                         "q":  "Acil müdahale önceliği nasıl çalışıyor?"
+                     },
+                     {
+                         "a":  "Evet, sözleşme öncesi yönetim kurulu üyeleriyle ücretsiz keşif yapıyoruz. Mevcut altyapı durumu raporlanıyor, sözleşme paketi yapı büyüklüğüne göre tasarlanıyor.",
+                         "q":  "Sözleşme öncesi keşif yapıyor musunuz?"
+                     }
+                 ],
+        "introTitle":  "Apartman ve Site Sözleşmeli Hizmetimiz",
+        "causesTitle":  "Sözleşmeli Hizmet Hangi Yapılar için Mantıklı?",
+        "methodsTitle":  "Sözleşmeli Bakım Programımız",
+        "causesIntro":  "Sözleşmeli hizmet özellikle şu yapılarda büyük avantaj:",
+        "keywords":  "apartman sözleşmeli kanalizasyon, site yıllık bakım, yönetici sözleşme, periyodik bakım",
+        "bonusBody":  "Sözleşmeli müşterilerimize sözleşme dışı tüm hizmetlerde %30 indirim; bu indirim sözleşme bedelinden çoğunlukla daha fazla tasarruf sağlıyor. Bina sakinleri için ekstra avantaj; yönetici için sürpriz fatura riski sıfır.",
+        "closingBody":  "Yıllık sözleşme = sürpriz aidat raporu yok + acil müdahale önceliği + sigortalı hizmet. 20 yıldır kanıtlanmış.",
+        "photo":  14,
+        "slug":  "apartman-site-sozlesmeli",
+        "h1":  "Apartman ve Site Yöneticilerine Sözleşmeli Hizmet — Yıllık Sürpriz Bitsin",
+        "heroLead":  "Yöneticilere özel yıllık bakım anlaşması — düzenli kontrol, indirimli müdahale, öncelikli servis.",
+        "ctaTitle":  "Yönetim Kurulunuzla Konuşalım mı?",
+        "methods":  [
+                        {
+                            "d":  "Ana hat basınçlı su parlatma + rögar temizlik + kameralı kontrol.",
+                            "t":  "İlkbahar periyodik bakım"
+                        },
+                        {
+                            "d":  "Yağmur suyu hatları, çatı/balkon giderleri kontrol + temizlik.",
+                            "t":  "Sonbahar periyodik bakım"
+                        },
+                        {
+                            "d":  "Aramanız anında en yakın ekip yönlendiriliyor; sözleşme dışı vakaya göre 30 dk önde.",
+                            "t":  "Acil müdahale önceliği"
+                        },
+                        {
+                            "d":  "Her ziyarette imzalı rapor + fotoğraflı kayıt; site arşivinde saklanıyor.",
+                            "t":  "Yazılı rapor + fotoğraf arşivi"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Çok daireli yapılarda toplam yük yüksek; periyodik bakım kritik.",
+                           "t":  "20+ daireli apartmanlar"
+                       },
+                       {
+                           "d":  "Yağmur suyu rögarları, peyzaj drenajı yıllık bakım istiyor.",
+                           "t":  "Geniş ortak alanlı siteler"
+                       },
+                       {
+                           "d":  "Drenaj pompaları periyodik kontrol istiyor.",
+                           "t":  "Yer altı otoparkı olan kompleksler"
+                       },
+                       {
+                           "d":  "Boru kireçlenmesi yıllık parlatma ile kontrol altında tutulmalı.",
+                           "t":  "Eski yapılar (50+ yaş)"
+                       }
+                   ],
+        "name":  "Apartman ve Site Sözleşmeli Hizmet",
+        "specialBody":  "Sözleşmeli müşterilerimize aylık veya yıllık fatura kesiyoruz; yönetim aidat tahsilatına temiz yansıyan, tahmin edilebilir bir bütçe kalemi. Her ziyaret tarih + foto + imza ile belgeleniyor; site yönetim kuruluna periyodik rapor sunulabiliyor."
+    },
+    {
+        "ctaBody":  "Profesyonel montaj, garantili teslim. Aramanız yeter.",
+        "intro2":  "20 yıldır çekvalf montajı yapıyoruz; standart konut tipinden büyük site komplekslerine kadar her ölçekte deneyimliyiz. Kaliteli ekipman, doğru montaj noktası seçimi, sızdırmaz bağlantı — montajın kalıcılığı için bu üçü kritik.",
+        "signsTip":  "Çekvalf montajı baskından sonra yapmak yerine baskından önce yapılması gereken bir önlem. Maliyeti hasar maliyetinin küçük bir bölümü.",
+        "specialTitle":  "Bodrum Daireler ve Alt Katlara Özel Hizmet",
+        "intro1":  "Çekvalf, kanalizasyon hattında akışın tek yönlü olmasını sağlayan, geri tepmeyi önleyen mekanik bir sistem. Ana hattan geri kaçan suyun bina içine girmesini engelliyor; ağır yağışlarda veya ana hat sorunlarında binanızı su baskınından koruyor. Özellikle bodrum dairelerde, alt katlarda kritik.",
+        "closingTitle":  "Önlem Hasardan Çok Daha Hesaplı",
+        "bonusTitle":  "Periyodik Çekvalf Bakım Önerisi",
+        "methodsIntro":  "Adım adım montaj:",
+        "signsTitle":  "Çekvalf Olmamasının İşaretleri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kanalizasyon ve logar çekvalf montajı — geri tepme önleyici sistem montajı, profesyonel hizmet. 7/24. 0552 007 60 34",
+        "signsBody":  "Ağır yağışta gider deliğinden su yükselmesi, bodrumda ara ara su baskını, kanalizasyon kokusunun beklenmedik anda eve girmesi — bunlar geri tepme belirtileri.",
+        "faqs":  [
+                     {
+                         "a":  "Kesinlikle önerilir; geri tepme riski en yüksek konumlardan biri. Ağır yağışta bina ana hattındaki yüklenme bodrumdan geri kaçış yapabiliyor; çekvalf bu kaçışı engelliyor.",
+                         "q":  "Bodrum daireme çekvalf takılmalı mı?"
+                     },
+                     {
+                         "a":  "Bina ana çıkışına yakın, müdahale edilebilir bir noktaya. Önce kameralı tespit ile mevcut hattı görüyor, en uygun konumu seçiyoruz.",
+                         "q":  "Çekvalf nereye monte edilmeli?"
+                     },
+                     {
+                         "a":  "Evet, yılda bir kez. Mekanik parça; yapışıp kalma, sızdırmazlık testi yapılmalı. Sözleşmeli müşterilerimize yıllık dahil.",
+                         "q":  "Çekvalf periyodik bakım ister mi?"
+                     },
+                     {
+                         "a":  "Hayır, çekvalf akışı engellemez; sadece geri tepmeyi engeller. Normal kullanım sırasında varlığını fark etmezsiniz.",
+                         "q":  "Çekvalf bina hizmet kesintisi yapar mı?"
+                     }
+                 ],
+        "introTitle":  "Çekvalf Montaj Hizmetimiz",
+        "causesTitle":  "Çekvalf Hangi Durumlarda Önerilir?",
+        "methodsTitle":  "Çekvalf Montaj Sürecimiz",
+        "causesIntro":  "Çekvalf gerekliliği özellikle şu durumlarda var:",
+        "keywords":  "çekvalf montajı, kanalizasyon çekvalfı, logar çekvalfı, geri tepme önleyici, çek valf",
+        "bonusBody":  "Çekvalf mekanik bir parça; yılda bir kez kontrol edilmesi önerilir. Yapışıp kalmadığı, doğru yönlü çalıştığı, sızdırmazlığı test edilmeli. Sözleşmeli müşterilerimizde yıllık bakım otomatik dahil; ekstra ücret yok.",
+        "closingBody":  "Çekvalf montajı bir su baskını maliyetinin %5\u0027\u0027\u0027\u0027i kadar. Önleyici yatırım ile uzun yıllar rahat edersiniz.",
+        "photo":  15,
+        "slug":  "cekvalf-montaji",
+        "h1":  "Çekvalf Montajı — Geri Tepmeye Karşı Profesyonel Koruma",
+        "heroLead":  "Kanalizasyon hattınızı geri tepmeye karşı korumak için profesyonel çekvalf montajı yapıyoruz.",
+        "ctaTitle":  "Bodrum Su Baskınından Korunmak için Çekvalf",
+        "methods":  [
+                        {
+                            "d":  "Kameralı tespit ile en uygun montaj noktasını belirliyoruz.",
+                            "t":  "Hat tespiti ve montaj noktası seçimi"
+                        },
+                        {
+                            "d":  "Hat çapı, kullanım yoğunluğu ve bina tipine göre uygun model seçimi.",
+                            "t":  "Doğru çekvalf seçimi"
+                        },
+                        {
+                            "d":  "Sızdırmaz, doğru yönlü, bakım kolay erişimli montaj.",
+                            "t":  "Profesyonel montaj"
+                        },
+                        {
+                            "d":  "Su testi + akış testi; uygun çalıştığını kanıtlıyoruz, garantili teslim.",
+                            "t":  "Test ve teslim"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Geri tepme riski en yüksek konumlar; çekvalf zorunlu.",
+                           "t":  "Bodrum daireler ve alt kat yapıları"
+                       },
+                       {
+                           "d":  "Yoğun yağışta ana hat yüklendiğinde geri tepme oluşabiliyor.",
+                           "t":  "Ağır yağış bölgesindeki yapılar"
+                       },
+                       {
+                           "d":  "Belediye ana kanalizasyonuna doğrudan bağlı yapılarda risk yüksek.",
+                           "t":  "Ana hatta yakın yapılar"
+                       },
+                       {
+                           "d":  "Bina sigortası bazı durumlarda çekvalf zorunluluğu getirebiliyor.",
+                           "t":  "Sigorta gereksinimi"
+                       }
+                   ],
+        "name":  "Çekvalf Montajı",
+        "specialBody":  "Bodrum daireler ve alt katlar geri tepmenin en sık yaşandığı konumlar. Bu yapılar için çekvalf montajı neredeyse zorunlu önlem. Sigorta süreciniz veya bina yönetimi gereksiniminiz varsa, montaj sonrası imzalı belge hazırlıyoruz."
+    },
+    {
+        "ctaBody":  "Erken müdahale = ekonomik çözüm. Aramanız yeter, ekibimiz keşfe çıksın.",
+        "intro2":  "20 yıldır logar tamiri yapıyoruz; küçük çatlak onarımdan komple yenilemeye kadar her ölçekte deneyimliyiz. Beton, sıva, kapak, çelik aksam — tüm parçaları temin ediyor, profesyonel ekipmanla onarıyoruz.",
+        "signsTip":  "Küçük çatlak büyürse komple yenileme gerekir; erken müdahale çok daha ekonomik. Yıllık periyodik kontrol erken yakalama sağlıyor.",
+        "specialTitle":  "Apartman ve Site Yönetimlerine Toplu Logar Bakım Programı",
+        "intro1":  "Logar (rögar), yıllar içinde duvar çatlamaları, taban çökmeleri, kapak hasarları yaşayabilir. Hasarlı bir logar sızıntı, koku, akış sorunu yaratır; ana hatta etkisi olabilir. Profesyonel tamir hem yapısal sorunu çözer hem de gelecek yıllar için sağlamlığı garanti eder.",
+        "closingTitle":  "Hasarlı Logar Bütün Sistemi Etkiler",
+        "bonusTitle":  "Logar Kapağı Yenileme ile Birlikte Tamir",
+        "methodsIntro":  "Hasar tipine göre yöntem seçimi:",
+        "signsTitle":  "Logar Tamiri Ne Zaman Gerekir?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da hasarlı logar (rögar) tamiri — duvar, taban ve kapak onarımı. Kalıcı çözüm, yazılı garanti. 7/24. 0552 007 60 34",
+        "signsBody":  "Logar duvarında çatlak görünmesi, kapak çevresinde çökme, etrafta ıslaklık veya koku, akış sorunu — hepsi onarım belirtileri.",
+        "faqs":  [
+                     {
+                         "a":  "Hızlı müdahale çok daha ekonomik. Küçük çatlak harç ile dakikalarda kapanıyor; bekletilirse büyür ve komple yenileme gerekebiliyor.",
+                         "q":  "Logarımda küçük çatlak var, hemen onarım gerekir mi?"
+                     },
+                     {
+                         "a":  "Standart bina logarı 1-2 günlük iş. Kazı + yıkım + yeniden inşa + beton kürlenme süresi dahil. Site yönetimine net süre ve fiyat keşifte söylüyoruz.",
+                         "q":  "Komple logar yenileme ne kadar sürüyor?"
+                     },
+                     {
+                         "a":  "Çoğu durumda evet; tamir bina dışındaki logarda yapılıyor, daireler kullanıma açık. Ana hat müdahalesi gerekiyorsa kısa süreli kesintide bilgilendiriyoruz.",
+                         "q":  "Logar tamiri sırasında bina kullanılabilir mi?"
+                     },
+                     {
+                         "a":  "Evet, yapılan iş yazılı garanti altında. Standart tamirler için 6 ay, komple yenileme için 2 yıl yazılı garanti veriyoruz.",
+                         "q":  "Tamir sonrası garanti var mı?"
+                     }
+                 ],
+        "introTitle":  "Logar Tamiri Hizmetimiz",
+        "causesTitle":  "Logar Hasarının Sebepleri",
+        "methodsTitle":  "Logar Tamir Yöntemlerimiz",
+        "causesIntro":  "Logar hasar sebeplerinin başlıcaları:",
+        "keywords":  "logar tamiri, rögar tamiri, logar onarımı, rögar duvarı tamiri, logar kapağı",
+        "bonusBody":  "Logar tamiri sırasında çoğu zaman kapak da yenileniyor; eski kapaklar genelde sızdırma yapar veya kırılma riski taşır. Standart ve özel ölçü kapak temin ediyor, sızdırmaz montaj yapıyor, garantili teslim ediyoruz.",
+        "closingBody":  "Logar tamiri ihmal edildiğinde sızıntı, koku, akış sorunu hızla büyür. Profesyonel onarım kalıcı çözüm; 20 yıllık deneyimimiz garantisi.",
+        "photo":  16,
+        "slug":  "logar-tamiri",
+        "h1":  "Logar (Rögar) Tamiri — Hasarlı Yapıya Kalıcı Onarım",
+        "heroLead":  "Hasarlı logar duvarlarını, tabanını ve kapağını profesyonel şekilde onarıyor, kalıcı çözüm sunuyoruz.",
+        "ctaTitle":  "Logarınızda Çatlak veya Hasar Var mı?",
+        "methods":  [
+                        {
+                            "d":  "Su geçirmez harç ile çatlakları doldurma; küçük hasarlar için ideal.",
+                            "t":  "Çatlak onarımı"
+                        },
+                        {
+                            "d":  "Yıpranmış duvarlara epoksi takviye ve ek beton uygulaması.",
+                            "t":  "Duvar takviyesi"
+                        },
+                        {
+                            "d":  "Çökmüş taban için kazı + yeni beton dökümü.",
+                            "t":  "Taban yenileme"
+                        },
+                        {
+                            "d":  "Aşırı hasarlı logarlarda komple yıkım + yeniden inşa.",
+                            "t":  "Komple yenileme"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "30+ yıllık logarlarda doğal aşınma; duvar zayıflaması, taban inceltisi.",
+                           "t":  "Yıllık aşınma"
+                       },
+                       {
+                           "d":  "Bina oturması veya toprak kayması logarda çatlak yaratır.",
+                           "t":  "Toprak hareketi ve oturma"
+                       },
+                       {
+                           "d":  "Hat bağlantı noktalarındaki sızıntı duvarı içten yıpratır.",
+                           "t":  "Su sızıntısı kaynaklı erozyon"
+                       },
+                       {
+                           "d":  "Logar kapağına ağır araç çıkması, dış darbeler.",
+                           "t":  "Mekanik hasar (kapak vs.)"
+                       }
+                   ],
+        "name":  "Logar (Rögar) Tamiri",
+        "specialBody":  "Çok daireli yapılarda logar bakım sürdürülebilirlik için kritik. Yıllık bir kez yapılacak kameralı kontrol + küçük onarım programı, komple yenileme zorunluluğunu yıllarca öteliyor. Sözleşmeli müşterilerimize yıllık otomatik kontrol veriyoruz."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, doğru çözümü teklif edelim. Aramanız yeter.",
+        "intro2":  "20 yıldır drenaj ustası olarak İstanbul\u0027\u0027\u0027\u0027un her tip yapısında çalıştık. Bahçeli evlerden site komplekslerine, çiftliklerden ticari tesislere kadar drenaj kurulum ve onarım deneyimimiz var.",
+        "signsTip":  "Drenaj sorunu yapısal hasara dönüşmeden müdahale edilmeli; temel altı su çökme ve değer kaybına yol açabiliyor.",
+        "specialTitle":  "Bahçeli Villa Sahiplerine Komple Drenaj Çözümü",
+        "intro1":  "Drenaj, yapının fazla suyunu uzaklaştıran kritik bir sistem; bahçe drenajı yağmur suyunu, yapı drenajı temel altı suyunu, çatı drenajı yağışı yönlendirir. Yetersiz veya bozuk drenaj nem, sızıntı, çökme ve değer kaybına yol açar.",
+        "closingTitle":  "Drenaj İhmal Yapısal Sorun Yaratır",
+        "bonusTitle":  "Site Yönetimlerine Toplu Drenaj Bakım Programı",
+        "methodsIntro":  "Komple drenaj çözüm yelpazemiz:",
+        "signsTitle":  "Drenaj Sistemi Eksik veya Bozuksa Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da drenaj ustası — drenaj kanalı, drenaj kuyusu, drenaj hattı kurulum ve onarım. Profesyonel hizmet. 0552 007 60 34",
+        "signsBody":  "Bahçede su birikmesi, bodrumda nem, yapı temelinde çatlak, ağır yağış sonrası uzun süreli çamur, peyzajda su göllenmesi — hepsi drenaj problemini işaret eder.",
+        "faqs":  [
+                     {
+                         "a":  "Çoğu durumda evet. Önce keşif yapıyor, eğim ve toprak yapısını inceliyor, en uygun drenaj çözümünü öneriyoruz. Kanal mı, kuyu mu, hat mı — duruma göre.",
+                         "q":  "Bahçemde su birikiyor, drenaj kanalı çekmem gerekir mi?"
+                     },
+                     {
+                         "a":  "Çok büyük olasılıkla evet. Temel altı drenaj eksik veya bozulmuş olabilir. Tespit yapıyor, gerekli onarım/yenileme önerisi sunuyoruz.",
+                         "q":  "Yapı temelimde nem var, drenaj sorunu olabilir mi?"
+                     },
+                     {
+                         "a":  "Hayır, profesyonel kazı bahçeyi minimum bozar; iş sonrası peyzaj eski hâline çoğunlukla geri dönüyor. Çiçek, çim, ağaç korunarak çalışıyoruz.",
+                         "q":  "Drenaj kanalı kazısı bahçeyi mahveder mi?"
+                     },
+                     {
+                         "a":  "Evet, kurulum sonrası 2 yıllık yazılı garanti veriyoruz. Sistem doğru çalışmıyor veya sızıntı varsa garanti süresi içinde ücretsiz dönüyoruz.",
+                         "q":  "Drenaj sistemi kurulum garantisi var mı?"
+                     }
+                 ],
+        "introTitle":  "Drenaj Ustası Hizmetimiz",
+        "causesTitle":  "Drenaj Sistemi Hangi Yapılar için Kritik?",
+        "methodsTitle":  "Drenaj Hizmetlerimiz",
+        "causesIntro":  "Drenaj zorunluluğu olan yapılar:",
+        "keywords":  "drenaj ustası, drenaj uzmanı, drenaj sistemi, drenaj kanalı, drenaj hattı",
+        "bonusBody":  "Geniş ortak alanlı sitelerde drenaj sistemi kapsamlı; periyodik bakım kritik. Sözleşmeli site müşterilerimize yıllık iki kez drenaj kuyusu + hat kontrolü, ihtiyaçta küçük onarım dahil paket sunuyoruz.",
+        "closingBody":  "Drenajınızı 20 yıllık ustalık ile çözüyoruz; yapı sağlığınızı, peyzajınızı, yatırımınızı koruyoruz.",
+        "photo":  17,
+        "slug":  "drenaj-ustasi",
+        "h1":  "Drenaj Ustası Hizmetleri — Bahçe ve Yapı Drenajına Komple Çözüm",
+        "heroLead":  "Drenaj kanalı, kuyu, hat kurulumu ve onarımı için 20 yıllık ustalık deneyimimiz hizmetinizde.",
+        "ctaTitle":  "Drenaj Sorununuz mu Var?",
+        "methods":  [
+                        {
+                            "d":  "Yağmur suyu yönlendirme kanalları açıyor, geçirgen malzemeyle dolduruyoruz.",
+                            "t":  "Drenaj kanalı kazısı ve döşemesi"
+                        },
+                        {
+                            "d":  "Toprak emiş kuyuları kazıyor, akış noktası oluşturuyoruz.",
+                            "t":  "Drenaj kuyusu açımı"
+                        },
+                        {
+                            "d":  "Mevcut hat yıpranmışsa yenileme çalışması.",
+                            "t":  "Drenaj hattı yenileme"
+                        },
+                        {
+                            "d":  "Mevcut sistemde periyodik temizlik ve kontrol.",
+                            "t":  "Bakım ve temizlik"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Yağmur suyunu yapı temelinden uzaklaştırmak şart.",
+                           "t":  "Bahçeli evler ve villalar"
+                       },
+                       {
+                           "d":  "Pompa ve drenaj hattı işin temel parçası.",
+                           "t":  "Yer altı otoparkı olan binalar"
+                       },
+                       {
+                           "d":  "Yağmur ve sulama suyu drenaj sistemi gerek.",
+                           "t":  "Çiftlik ve geniş arazili yapılar"
+                       },
+                       {
+                           "d":  "Su akışı yönlendirme zorunlu.",
+                           "t":  "Eğimli arazi üzerindeki yapılar"
+                       }
+                   ],
+        "name":  "Drenaj Ustası Hizmetleri",
+        "specialBody":  "Bahçeli ev sahipleri için drenaj sistemi hem temel koruması hem peyzaj koruması demek. Kazı + kanal + kuyu + hat kombinasyonu komple çözüm; 20 yıllık ustalığımızla projelendirme + uygulama tek elden."
+    },
+    {
+        "ctaBody":  "Aile büyüklüğünüze, arazinize, ihtiyacınıza göre özel teklif. Aramanız yeter.",
+        "intro2":  "20 yıldır foseptik çukuru açıyoruz; standart konut ölçüsünden çiftlik ölçüsüne kadar her tipte deneyimliyiz. Kazı, beton döküm, kapak montajı — komple süreci tek elden yönetiyoruz.",
+        "signsTip":  "Yetersiz hacimli foseptik kısa sürede dolar, sürekli boşaltma maliyeti çıkartır. Doğru hesaplanmış hacim uzun yıllar sorunsuz hizmet verir.",
+        "specialTitle":  "Eski Foseptik Yenileme ve Genişletme",
+        "intro1":  "Foseptik çukuru açma; kanalizasyon ana hattına bağlı olmayan yapılar için temel altyapı yatırımı. Doğru ölçü, doğru lokasyon, su geçirmez beton, sağlam kapak — hepsinin doğru olması gerekiyor. Bu kalemlerden birinde hata uzun yıllar sorun çıkarır.",
+        "closingTitle":  "Doğru Foseptik = Yıllarca Sorunsuz Sistem",
+        "bonusTitle":  "Foseptik Periyodik Bakım Programı",
+        "methodsIntro":  "Adım adım uygulama:",
+        "signsTitle":  "Doğru Foseptik Çukuru için Kriterler",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da foseptik çukuru açma ve inşa hizmeti — kazı, beton, kapak komple paket. Faturalı, garantili. 0552 007 60 34",
+        "signsBody":  "Aile büyüklüğüne göre doğru hacim, su geçirmez beton, hijyenik kapak, doğru lokasyon (içme suyu kuyusundan uzak), erişilebilir konum — bu kriterlerin hepsi karşılanmalı.",
+        "faqs":  [
+                     {
+                         "a":  "4 kişilik aile için standart 5-7 m³. Yazlık veya seyrek kullanımda 3-5 m³ yeterli; çiftlik/işletme için 10+ m³. Keşif sırasında doğru hesabı yapıyoruz.",
+                         "q":  "Foseptik çukuru ne kadar büyük olmalı?"
+                     },
+                     {
+                         "a":  "Standart konut için 2-3 günlük iş. Kazı + beton + beton kürlenme süresi + kapak. Hava şartlarına göre değişebilir.",
+                         "q":  "Foseptik açımı ne kadar sürüyor?"
+                     },
+                     {
+                         "a":  "Hayır, içme suyu kuyusundan en az 30 metre mesafede olması gerekir. Kontaminasyon riski yaratmaması için. Keşif sırasında en uygun lokasyonu belirliyoruz.",
+                         "q":  "Foseptik su kuyumun yakınında olur mu?"
+                     },
+                     {
+                         "a":  "Beton kürlenme süresi (yaz 2-3 gün, kış 4-5 gün) sonrasında devreye alınabilir. Bu süre içinde mevcut tesisat kullanılmaya devam ediyor.",
+                         "q":  "Foseptik açımı sonrası ne kadar bekledikten sonra kullanılır?"
+                     }
+                 ],
+        "introTitle":  "Foseptik Çukuru Açma Uzmanlığımız",
+        "causesTitle":  "Foseptik Çukuru Hangi Yapılarda Gerekiyor?",
+        "methodsTitle":  "Foseptik Çukuru Açma Sürecimiz",
+        "causesIntro":  "Foseptik çukuru gerekliliği:",
+        "keywords":  "foseptik çukuru açma, foseptik inşa, foseptik kazma, foseptik çukur",
+        "bonusBody":  "Yeni foseptik açımı sonrası yıllık vidanjör boşaltma + kuyu içi kontrol programı sunuyoruz. Sözleşmeli müşterilerimize yıllık paket içinde dahil; foseptik yıllarca sorunsuz çalışıyor.",
+        "closingBody":  "20 yıllık deneyim + kaliteli malzeme + doğru hesaplama. Foseptik açımında \u0027\u0027tek seferde doğru\u0027\u0027 yaklaşımımız.",
+        "photo":  18,
+        "slug":  "foseptik-cukuru-acma",
+        "h1":  "Foseptik Çukuru Açma — Kazı + Beton + Kapak Komple Çözüm",
+        "heroLead":  "Yeni foseptik çukuru kazıyor, betonluyor, kapak monte ediyoruz; tek elden komple çözüm.",
+        "ctaTitle":  "Yeni Foseptik Çukuru için Keşif",
+        "methods":  [
+                        {
+                            "d":  "Aile/işletme büyüklüğüne göre hacim hesabı + en uygun lokasyon tespiti.",
+                            "t":  "Yer tespiti ve hesaplama"
+                        },
+                        {
+                            "d":  "Profesyonel kazı ekipmanlarımızla doğru ölçü kazma.",
+                            "t":  "Kazı"
+                        },
+                        {
+                            "d":  "Su geçirmez nitelikli beton ile duvar ve taban.",
+                            "t":  "Beton dökümü"
+                        },
+                        {
+                            "d":  "Standart veya özel ölçü kapak + havalandırma bacası kurulum.",
+                            "t":  "Kapak ve havalandırma montajı"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bireysel atık çözümü olarak temel.",
+                           "t":  "Kanalizasyon ana hattı olmayan köy ve kırsal yapılar"
+                       },
+                       {
+                           "d":  "Mevsimsel kullanım için mantıklı sistem.",
+                           "t":  "Yazlık ve sezonluk yapılar"
+                       },
+                       {
+                           "d":  "Geniş arazide bireysel atık çözümü.",
+                           "t":  "Çiftlik ve tarım tesisleri"
+                       },
+                       {
+                           "t":  "Yeni yapılan yapılar (geçici);d=\u0027Belediye ana hat bağlantısı tamamlanana kadar geçici çözüm."
+                       }
+                   ],
+        "name":  "Foseptik Çukuru Açma",
+        "specialBody":  "Mevcut foseptik küçük geliyorsa veya hasarlıysa, yenileme veya genişletme çalışması yapıyoruz. Eski yapıyı temizliyor, gerekli kazıyı yapıyor, yeni beton + kapak ile devreye alıyoruz. Faturalı, garantili."
+    },
+    {
+        "ctaBody":  "Yapınızın durumuna en uygun çözümü birlikte belirleyelim. Aramanız yeter.",
+        "intro2":  "20 yıldır lağım çukuru açıyoruz; köy evlerinde, çiftliklerde, eski yapı yenilemelerinde deneyimimiz yüksek. Modern hijyen standartlarını da koruyarak geleneksel sistemin güvenilirliğini sunuyoruz.",
+        "signsTip":  "Belediye yönetmelikleri yeni yapılarda lağım çukurunu sınırlandırabiliyor; keşif sırasında yerel düzenlemeler ışığında en uygun çözümü öneriyoruz.",
+        "specialTitle":  "Eski Lağım Çukuru Yenileme ve Modernleme",
+        "intro1":  "Lağım çukuru, geleneksel olarak köy ve eski yapılarda kullanılan, atık su biriktirme ve emiş yapan yapı. Modern foseptikten farklı olarak çoğunlukla taban geçirgen tasarlanır; toprak emişine güven duyar. Doğru lokasyon ve doğru malzeme kritik.",
+        "closingTitle":  "Eski Yapınız için Modern Hassasiyet",
+        "bonusTitle":  "Lağım Çukuru Periyodik Bakım Önerileri",
+        "methodsIntro":  "Adım adım uygulama:",
+        "signsTitle":  "Lağım Çukuru Hangi Durumlarda Tercih Edilir?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da lağım çukuru açma ve bakım hizmeti — eski yapılar için sızdırmaz çukur kurulum ve yenileme. 0552 007 60 34",
+        "signsBody":  "Eski köy yapılarında, geleneksel sistemin yenilenmesi gereken yerlerde, kontrollü tarım arazilerinde lağım çukuru hâlâ tercih edilebilir; ancak modern hijyen için çoğu yapı foseptiği seçiyor.",
+        "faqs":  [
+                     {
+                         "a":  "Yapı tipi, kullanım yoğunluğu, yerel yönetmeliklere göre değişir. Modern hijyen ve yasal uyumluluk için çoğu durumda foseptik öneriyoruz; ancak köy yapılarında lağım hâlâ tercih edilebilir. Keşif sonrası net önerimiz olur.",
+                         "q":  "Lağım mı foseptik mi yaptırmalıyım?"
+                     },
+                     {
+                         "a":  "Durumuna göre değişir; sızıntı varsa içeriden takviye veya foseptiğe dönüşüm. Keşif yapıp size en uygun seçeneği sunuyoruz; hem maliyet hem hijyen açısından.",
+                         "q":  "Eski lağım çukuruma ne yapmalıyım?"
+                     },
+                     {
+                         "a":  "Açım sonrası beton kürlenme (2-5 gün) sonrasında devreye alınabilir.",
+                         "q":  "Lağım çukuru ne kadar uzun sürede kullanılır hâlde olur?"
+                     },
+                     {
+                         "a":  "Evet; kurulum sonrası 2 yıllık yazılı garanti veriyoruz. Sızıntı, çökme veya yapısal sorun olursa garanti süresinde ücretsiz dönüyoruz.",
+                         "q":  "Yenileme garantili mi?"
+                     }
+                 ],
+        "introTitle":  "Lağım Çukuru Açma Hizmetimiz",
+        "causesTitle":  "Lağım Çukuru ile Foseptik Farkı",
+        "methodsTitle":  "Lağım Çukuru Açma Sürecimiz",
+        "causesIntro":  "İki sistem arasındaki temel farklar:",
+        "keywords":  "lağım çukuru açma, lağım çukur inşa, lağım çukur yenileme",
+        "bonusBody":  "Lağım çukurunun periyodik kontrolü kritik; toprak emişi yıllar içinde azalabilir, sızıntı riski oluşur. Yıllık bakım programıyla bu durumu erken yakalıyor, gerekirse modernleme öneriyoruz.",
+        "closingBody":  "Lağım çukuru açımında geleneksel yöntem + modern hijyen anlayışı. 20 yıllık deneyimimizle güvenli teslim.",
+        "photo":  19,
+        "slug":  "lagim-cukuru-acma",
+        "h1":  "Lağım Çukuru Açma — Eski Yapı ve Köy Evlerine Sızdırmaz Çözüm",
+        "heroLead":  "Köy evi ve eski yapılar için sızdırmaz lağım çukuru açıyoruz; kazı + beton + kapak komple paket.",
+        "ctaTitle":  "Lağım Çukuru Açımı veya Yenileme için Keşif",
+        "methods":  [
+                        {
+                            "d":  "Aile/yapı büyüklüğüne göre doğru ölçü ve uygun lokasyon tespiti.",
+                            "t":  "Lokasyon ve hacim hesabı"
+                        },
+                        {
+                            "d":  "Profesyonel kazı ekipmanlarımızla doğru ölçü kazma.",
+                            "t":  "Kazı"
+                        },
+                        {
+                            "d":  "Geleneksel veya modern karma yöntem ile sızdırma kontrollü duvar.",
+                            "t":  "Duvar ve taban inşası"
+                        },
+                        {
+                            "d":  "Hijyenik kapak + koku kontrolü için havalandırma bacası.",
+                            "t":  "Kapak ve havalandırma"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Toprak emişine güven duyan, sıvıyı yer altına bırakan klasik sistem.",
+                           "t":  "Lağım çukuru: kısmen geçirgen taban"
+                       },
+                       {
+                           "d":  "Modern, hijyenik; periyodik vidanjörle boşaltılır.",
+                           "t":  "Foseptik: tamamen sızdırmaz"
+                       },
+                       {
+                           "d":  "Yeni yapılarda foseptik tercih ediliyor; lağım eski yapılarda yenileme amacıyla.",
+                           "t":  "Yasal düzenleme"
+                       },
+                       {
+                           "d":  "Lağım daha basit yapı; ancak modern hijyen için foseptik öneriliyor.",
+                           "t":  "Maliyet"
+                       }
+                   ],
+        "name":  "Lağım Çukuru Açma",
+        "specialBody":  "Eski lağım çukurları zamanla aşınır, koku ve sızıntı problemleri çıkartır. Modernleme çalışmasında mevcut yapıyı temizleyip içeriden takviye yapıyor veya komple yenileme + foseptiğe dönüşüm öneriyoruz. Yapınızın özel durumuna göre teklif sunuyoruz."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, durumunuza özel teklif sunalım. Aramanız yeter.",
+        "intro2":  "20 yıldır kuyu açıyoruz; küçük drenaj kuyusundan derin içme suyu kuyusuna kadar deneyimimiz var. Profesyonel kazı ekipmanları, doğru malzeme seçimi, hijyenik teslim — kalite için bunlar şart.",
+        "signsTip":  "Kuyu açımı uzun vadeli yatırım; doğru tespit + doğru kazı bir ömür sorunsuz hizmet sağlıyor. Acele edip yanlış yere kazmak büyük maliyet.",
+        "specialTitle":  "Köy Evi ve Çiftliklere İçme/Kullanma Suyu Kuyusu",
+        "intro1":  "Kuyu açma iki ana türde — drenaj kuyusu fazla suyu uzaklaştırmak için, içme/kullanma suyu kuyusu temiz su sağlamak için. Her ikisinde de doğru lokasyon, doğru derinlik, doğru yapı kritik. Yanlış kazı hem yatırım kaybı hem yapısal risk.",
+        "closingTitle":  "Kuyu Açımı Uzun Vadeli Yatırım",
+        "bonusTitle":  "Periyodik Kuyu Bakım Programı",
+        "methodsIntro":  "Adım adım uygulama:",
+        "signsTitle":  "Kuyu Açma Öncesi Tespit Süreci",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da drenaj kuyusu açma ve içme suyu kuyu açma — profesyonel kazı, kuyu yapısı, montaj. 0552 007 60 34",
+        "signsBody":  "Toprak yapısı, yer altı su seviyesi, yakın kanalizasyon mesafesi, yapı temeline yakınlık — kuyu açımı öncesi bunların tespiti şart. Yanlış lokasyon kontaminasyon, yetersiz su, yapısal hasar yaratabilir.",
+        "faqs":  [
+                     {
+                         "a":  "Toprak yapısına göre değişir; standart 3-5 metre. Killi toprakta daha derin, kumlu toprakta daha sığ olabilir. Keşif sonrası net derinlik öneriyoruz.",
+                         "q":  "Drenaj kuyusu kaç metre derinlik olmalı?"
+                     },
+                     {
+                         "a":  "Evet, profesyonel ekipmanlarımızla içme suyu kuyusu açıyoruz. Su kalitesi için yer tespiti + dezenfeksiyon + sızdırmaz duvar standardımız.",
+                         "q":  "İçme suyu kuyusu açabilir misiniz?"
+                     },
+                     {
+                         "a":  "Toprak yapısı ve derinliğe göre değişir; standart 3-5 metre drenaj kuyusu 1-2 günlük iş. Derin içme suyu kuyusu 3-7 gün.",
+                         "q":  "Kuyu kazısı ne kadar sürer?"
+                     },
+                     {
+                         "a":  "Tabii. Kuyu içi temizlik + dezenfeksiyon hizmetimiz var. Yıllık periyodik bakım önerisi.",
+                         "q":  "Mevcut kuyumu temizletebilir miyim?"
+                     }
+                 ],
+        "introTitle":  "Drenaj Kuyusu ve Kuyu Açma Uzmanlığımız",
+        "causesTitle":  "Hangi Tip Kuyu Hangi Durumda?",
+        "methodsTitle":  "Kuyu Açma Sürecimiz",
+        "causesIntro":  "Kuyu çeşitleri ve kullanım alanları:",
+        "keywords":  "drenaj kuyusu açma, kuyu açma, su kuyusu, drenaj kuyu kazma",
+        "bonusBody":  "Kuyular yıllık olarak bakım istiyor; içme suyu kuyularında temizlik + dezenfeksiyon, drenaj kuyularında çamur + yaprak temizliği. Sözleşmeli müşterilerimize yıllık paket içinde dahil.",
+        "closingBody":  "20 yıllık deneyim + profesyonel ekipman + kaliteli malzeme. Kuyunuz bir ömür sorunsuz hizmet versin.",
+        "photo":  20,
+        "slug":  "drenaj-kuyusu-kuyu-acma",
+        "h1":  "Drenaj Kuyusu ve Kuyu Açma — Su Yönetimi için Profesyonel Kazı",
+        "heroLead":  "Drenaj kuyusu için yağmur suyu yönlendirme, içme suyu kuyusu için temiz su erişimi. Tek elden komple çözüm.",
+        "ctaTitle":  "Yeni Kuyu veya Mevcut Kuyu Bakımı için",
+        "methods":  [
+                        {
+                            "d":  "Toprak yapısı, yer altı suyu seviyesi, yakın yapılarla mesafe.",
+                            "t":  "Yer tespiti ve toprak analizi"
+                        },
+                        {
+                            "d":  "Kuyu türüne göre uygun kazı ekipmanı; mekanik veya manuel.",
+                            "t":  "Kazı"
+                        },
+                        {
+                            "d":  "Beton boru, taş veya tuğla ile sızdırma kontrolü duvar.",
+                            "t":  "Duvar inşası"
+                        },
+                        {
+                            "d":  "Hijyenik kapak; içme suyu kuyusunda dezenfeksiyon.",
+                            "t":  "Kapak ve hijyen sağlama"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bahçe ve yapı temelinden fazla suyu uzaklaştırma; orta derinlikli, geçirgen tabanlı.",
+                           "t":  "Drenaj kuyusu (toprak emişi)"
+                       },
+                       {
+                           "d":  "Temiz su erişimi; derin, sızdırmaz, hijyenik kapaklı.",
+                           "t":  "İçme suyu kuyusu"
+                       },
+                       {
+                           "d":  "Bahçe sulama, temizlik için; orta derinlik.",
+                           "t":  "Kullanma suyu kuyusu"
+                       },
+                       {
+                           "d":  "Çok derin, profesyonel sondaj ekipmanı gerekiyor; özel proje.",
+                           "t":  "Sondaj kuyusu"
+                       }
+                   ],
+        "name":  "Drenaj Kuyusu ve Kuyu Açma",
+        "specialBody":  "Köy ve çiftlik yapılarında bireysel su kuyusu, hem ekonomi hem güvenilir su erişimi sağlıyor. Profesyonel kazı + sızdırmaz duvar + hijyenik kapak ile uzun yıllar temiz su erişimi. Yıllık bakım programı içinde temizlik dahil."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, doğru drenaj çözümü teklif edelim. Aramanız yeter.",
+        "intro2":  "20 yıldır drenaj kanalı kazıyoruz; küçük bahçe kanalından geniş site sistemine kadar deneyimimiz var. Profesyonel kazı ekipmanları, geçirgen malzeme, peyzaja saygılı çalışma — bizim standartlarımız.",
+        "signsTip":  "Yetersiz eğim su akmaz; aşırı eğim erozyon yaratır. Profesyonel hesaplama şart.",
+        "specialTitle":  "Bahçeli Villa Sahiplerine Peyzaj Koruyucu Çalışma",
+        "intro1":  "Drenaj kanalı, yapı çevresindeki fazla yağmur suyunu kontrollü şekilde uzaklaştıran kazılı yapı. Bahçeli evlerde temel koruma, sitelerde ortak alan, çiftliklerde tarım koruması için kritik. Doğru eğim, doğru malzeme, doğru rota — başarının üç anahtarı.",
+        "closingTitle":  "Su Yönetimi Yapı Sağlığının Temeli",
+        "bonusTitle":  "Site Yönetimlerine Komple Drenaj Sistemi Projelendirme",
+        "methodsIntro":  "Adım adım uygulama:",
+        "signsTitle":  "Drenaj Kanalı Tasarımında Kritik Noktalar",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da drenaj kanalı açma — yağmur suyu yönlendirme, bahçe ve site için profesyonel kazı ve döşeme. 0552 007 60 34",
+        "signsBody":  "Doğru eğim (en az %1), uygun derinlik, kaliteli geçirgen malzeme, son nokta tahliyesi (drenaj kuyusu, ana kanalizasyon veya doğal mecra) — tasarımın başarısı bu kalemlere bağlı.",
+        "faqs":  [
+                     {
+                         "a":  "Standart 50-80 cm; toprak yapısı ve hedef tahliye noktasına göre değişir. Keşif sonrası net derinlik öneriyoruz.",
+                         "q":  "Drenaj kanalım ne kadar derin olmalı?"
+                     },
+                     {
+                         "a":  "Ağaç köklerine zarar vermeden kanal rotasını planlıyoruz; gerekirse kanalı dolaşık yönlendiriyoruz. Peyzaj korunarak çalışmak standardımız.",
+                         "q":  "Bahçemde ağaçlar var, kanal nereden geçecek?"
+                     },
+                     {
+                         "a":  "Standart bahçe kanalı (10-30 metre) 1-2 günlük iş. Geniş site kanalları 3-7 gün.",
+                         "q":  "Kanal kazısı ne kadar sürer?"
+                     },
+                     {
+                         "a":  "Evet, 2 yıllık yazılı garanti. Sistem doğru çalışmaz veya kanal çökerse garanti süresi içinde ücretsiz dönüyoruz.",
+                         "q":  "Drenaj kanalı garanti altında mı?"
+                     }
+                 ],
+        "introTitle":  "Drenaj Kanalı Açma Hizmetimiz",
+        "causesTitle":  "Drenaj Kanalı Hangi Durumlarda Gerekiyor?",
+        "methodsTitle":  "Drenaj Kanalı Açma Sürecimiz",
+        "causesIntro":  "Kanal ihtiyacı olan durumlar:",
+        "keywords":  "drenaj kanalı açma, drenaj kazı, yağmur suyu kanalı, su yönlendirme",
+        "bonusBody":  "Geniş ortak alanlı sitelerde komple drenaj sistemi projelendirme + uygulama hizmetimiz var. Mevcut alanı inceleyip optimum kanal + kuyu + hat kombinasyonunu tasarlıyor, uygulayıp teslim ediyoruz.",
+        "closingBody":  "Profesyonel drenaj kanalı = yapı temeli korunması + peyzaj sağlığı + uzun yıllar rahatlık.",
+        "photo":  21,
+        "slug":  "drenaj-kanali-acma",
+        "h1":  "Drenaj Kanalı Açma — Yağmur Suyu Yönlendirme için Profesyonel Çözüm",
+        "heroLead":  "Bahçe, site ve geniş arazilerde yağmur suyunu yönlendirmek için profesyonel drenaj kanalı kazıyoruz.",
+        "ctaTitle":  "Bahçenizde Su Birikme Sorunu Var mı?",
+        "methods":  [
+                        {
+                            "d":  "Arazi topografyası incelemesi + ihtiyaç hesabı.",
+                            "t":  "Saha keşfi ve eğim hesabı"
+                        },
+                        {
+                            "d":  "Profesyonel kazı ekipmanlarımızla doğru ölçü ve eğimde kanal açımı.",
+                            "t":  "Kazı"
+                        },
+                        {
+                            "d":  "Çakıl + kum + drenaj filtresi sırası ile döşeme.",
+                            "t":  "Geçirgen malzeme döşemesi"
+                        },
+                        {
+                            "d":  "Kanal sonu drenaj kuyusu, ana hat veya doğal mecraya bağlama.",
+                            "t":  "Son nokta tahliyesi bağlantısı"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Yağmur sonrası uzun süreli ıslaklık, peyzaj zarar görmesi.",
+                           "t":  "Bahçede su göllenmesi"
+                       },
+                       {
+                           "d":  "Temel altı su yapısal hasara dönüşmeden uzaklaştırılmalı.",
+                           "t":  "Yapı temeli korunması"
+                       },
+                       {
+                           "d":  "Arazideki su akışını kontrol altına almak.",
+                           "t":  "Eğimli arazide su yönlendirme"
+                       },
+                       {
+                           "d":  "Geniş peyzaj alanlarda sistematik su yönetimi.",
+                           "t":  "Site ortak alan drenajı"
+                       }
+                   ],
+        "name":  "Drenaj Kanalı Açma",
+        "specialBody":  "Bahçeli ev sahipleri için peyzaj korumak çok önemli; kazı sırasında çiçek, çim, ağaç korunarak çalışıyoruz. İş sonrası bahçe çoğunlukla eski hâline geri dönüyor; minimum bozulma standardımız."
+    },
+    {
+        "ctaBody":  "Önce kameralı tespit, sonra net teklif. Aramanız yeter.",
+        "intro2":  "20 yıldır kanalizasyon tamiri yapıyoruz; ev içi tesisattan ana hatta kadar her ölçekte deneyimliyiz. Modern tespit ekipmanları + minimum invaziv yöntemler + kaliteli malzeme — onarım kalitesinin temelleri.",
+        "signsTip":  "Hasar tespit edildiğinde hızlı müdahale şart; bekledikçe sızıntı toprağı yumuşatır, yapısal sorun büyür.",
+        "specialTitle":  "Tarihi ve Hassas Yapılarda Onarım Hassasiyetimiz",
+        "intro1":  "Kanalizasyon hattı kırık, çökme veya bağlantı kaçağı yaşadığında sorun büyüyerek yayılır; sadece tıkanıklık değil, toprağa kirletici sızıntı ve yapısal hasar da çıkar. Hızlı ve doğru tamir kritik. Önce kameralı tespit, sonra minimum kazı ile noktasal müdahale.",
+        "closingTitle":  "Hasar Erken Tespit Edilirse Çok Daha Az Maliyet",
+        "bonusTitle":  "Mütteahhit Garanti Süreci ve Sigorta için Belge",
+        "methodsIntro":  "Hasar tipine göre yöntemler:",
+        "signsTitle":  "Kanalizasyon Hasarının Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kanalizasyon hattı tamiri — kırık, çökme, sızıntı onarımı. Minimum kazı ile profesyonel müdahale. 0552 007 60 34",
+        "signsBody":  "Bahçede beklenmedik ıslaklık veya çökme, kötü koku, tekrarlayan tıkanıklık, su sayacında düşme — bunlar hasar belirtileri.",
+        "faqs":  [
+                     {
+                         "a":  "Önce kameralı tespit ile kırığın tam noktasını buluyor, minimum kazı yapıyoruz; çoğu zaman 1-2 metrekare yeterli. Peyzaj minimum bozuluyor.",
+                         "q":  "Kanalizasyon kırığı bahçemde, kazı ne kadar olur?"
+                     },
+                     {
+                         "a":  "Çoğu durumda hayır. Çökme nokta sınırlı ise sadece o nokta değişim yetiyor. Komple değişim son çare; kameralı tespit sonrası net karar veriyoruz.",
+                         "q":  "Boru çökmüş, komple değiştirmem gerekir mi?"
+                     },
+                     {
+                         "a":  "Modern CIPP yöntemi ile bazı hasarlarda evet. Boru içine reçineli manşet çekip iç yüzeyde yeni boru oluşturuyoruz; dış kazı yapılmıyor. Hasar tipine göre uygunluk değerlendiriyoruz.",
+                         "q":  "Kazısız onarım mümkün mü?"
+                     },
+                     {
+                         "a":  "Standart noktasal tamirde 1 yıl, komple yenileme veya CIPP onarımda 2-5 yıl yazılı garanti. Süresinde sorun çıkarsa ücretsiz dönüyoruz.",
+                         "q":  "Tamir sonrası garanti ne kadar?"
+                     }
+                 ],
+        "introTitle":  "Kanalizasyon Tamiri Hizmetimiz",
+        "causesTitle":  "Kanalizasyon Hasarının Sebepleri",
+        "methodsTitle":  "Kanalizasyon Tamir Yöntemlerimiz",
+        "causesIntro":  "Hasarın başlıca sebepleri:",
+        "keywords":  "kanalizasyon tamiri, kanalizasyon onarımı, kanalizasyon kırık tamiri, kanalizasyon hat onarımı",
+        "bonusBody":  "Yeni inşaat hatasından kaynaklanan hasarlarda mütteahhit garanti süreci işletilebilir. Profesyonel fotoğraflı + krokili rapor hazırlıyoruz; yönetim kurulu bu raporla mütteahhide veya tüketici hakem heyetine başvurabiliyor. Sigorta tazminatı süreci için de belge formatlarımız hazır.",
+        "closingBody":  "Kameralı tespit + minimum kazı + kaliteli malzeme = uzun ömürlü onarım. 20 yıllık tecrübemiz garantisi.",
+        "photo":  22,
+        "slug":  "kanalizasyon-tamiri",
+        "h1":  "Kanalizasyon Tamiri — Kırık, Çökme ve Sızıntıya Profesyonel Onarım",
+        "heroLead":  "Kanalizasyon hattınızda kırık, çökme veya sızıntı varsa profesyonel onarımla kalıcı çözüm sunuyoruz.",
+        "ctaTitle":  "Kanalizasyon Hasar Belirtileri Yaşıyor musunuz?",
+        "methods":  [
+                        {
+                            "d":  "Önce HD kamera ile hasarın yerini, türünü ve şiddetini net görüyoruz.",
+                            "t":  "Kameralı tespit"
+                        },
+                        {
+                            "d":  "Sadece hasar noktasında minimum kazı + parça değişim.",
+                            "t":  "Noktasal kazı ve onarım"
+                        },
+                        {
+                            "d":  "Mümkün olduğunda boru içine onarım manşeti çekme.",
+                            "t":  "Kazısız boru içi onarım (CIPP)"
+                        },
+                        {
+                            "d":  "Çok hasarlı hatlarda komple yenileme önerisi.",
+                            "t":  "Hat yenileme (gerektiğinde)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Eski hatlarda zaman içinde malzeme yorgunluğu.",
+                           "t":  "Yıllık aşınma"
+                       },
+                       {
+                           "d":  "Bina oturması, deprem, toprak kayması.",
+                           "t":  "Toprak hareketi"
+                       },
+                       {
+                           "d":  "Ağaç kökleri boruya baskı yapıp kırılma yaratabiliyor.",
+                           "t":  "Bitki kökleri"
+                       },
+                       {
+                           "d":  "Kazı işleri, ağır araç geçişi vb dış darbeler.",
+                           "t":  "Mekanik hasar"
+                       }
+                   ],
+        "name":  "Kanalizasyon Tamiri",
+        "specialBody":  "Tarihi yapıların kanalizasyonu çoğunlukla bina içinden geçer ve dış kazı imkanı sınırlıdır. Bu yapılarda kazısız boru içi onarım (CIPP) yöntemini önceliğimiz; yapı dış kabuğunu açmadan boru içinden ekleme yapıyoruz. 100 yaş binalarınızı koruyoruz."
+    },
+    {
+        "ctaBody":  "Belediye süreçleri dahil komple paket. Aramanız yeter.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027da yeni yapı kanalizasyon bağlantıları yapıyoruz; küçük villa bağlantısından site komplekslerine kadar deneyimimiz yüksek. Belediye yönetmeliklerine hakim, gerekli izin ve onay süreçlerini biliyoruz.",
+        "signsTip":  "Bağlantı sırasında oluşan en küçük hata yıllar sonra büyük tıkanıklık ve sızıntıya yol açar; profesyonel iş şart.",
+        "specialTitle":  "Belediye İzin ve Onay Süreçlerinin Yönetimi",
+        "intro1":  "Yeni inşa edilen yapıların belediye ana kanalizasyonuna doğru bağlanması yapı işletme ruhsatı ve uzun vadeli sorunsuzluk için kritik. Yanlış eğim, kötü montaj veya yanlış malzeme uzun yıllar tıkanıklık ve yasal sorun çıkarır. Doğru bağlantı, profesyonel iş gerektiriyor.",
+        "closingTitle":  "Doğru Bağlantı = Yıllarca Sorunsuz İşletme",
+        "bonusTitle":  "Yeni Site ve Toplu Yapı Bağlantı Projelendirmesi",
+        "methodsIntro":  "Mesafeye ve yapıya göre yöntem seçimi:",
+        "signsTitle":  "Doğru Bağlantı için Kritik Noktalar",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da yeni yapı kanalizasyon bağlantısı — ana hatta profesyonel bağlantı, belediye uyumlu, garantili. 0552 007 60 34",
+        "signsBody":  "Doğru eğim (en az %2), uygun çap (yapı büyüklüğüne göre), kaliteli boru malzemesi (PVC veya beton), sızdırmaz bağlantı noktası, kontrol için rögar — bu kalemlerin hepsi doğru olmalı.",
+        "faqs":  [
+                     {
+                         "a":  "Bizden keşif çağırın; bağlantı projelendirme + belediye izin sürecini biz yönetiyoruz. Siz yapı sahibi olarak ilgili evraklara imza atıyorsunuz; teknik ve bürokratik süreç bizde.",
+                         "q":  "Yeni binam tamamlandı, bağlantı için ne yapmalıyım?"
+                     },
+                     {
+                         "a":  "Belediye izin süresi ile birlikte ortalama 2-4 hafta. Teknik uygulama 3-7 günlük iş; izin süresi yerel belediyeye göre değişir.",
+                         "q":  "Bağlantı süreci ne kadar uzun sürer?"
+                     },
+                     {
+                         "a":  "Çoğu durumda evet. 100 metreye kadar standart yöntem; daha uzun mesafelerde köstebek veya basınçlı sistem ile çözüm. Keşif sonrası net cevap.",
+                         "q":  "Mesafe çok uzun, bağlantı mümkün mü?"
+                     },
+                     {
+                         "a":  "Evet, bağlantı için 5 yıllık yazılı garanti veriyoruz. Sızıntı, tıkanıklık veya yapısal sorun garanti süresinde ücretsiz çözülüyor.",
+                         "q":  "Bağlantı sonrası garanti var mı?"
+                     }
+                 ],
+        "introTitle":  "Kanalizasyon Bağlantısı Hizmetimiz",
+        "causesTitle":  "Kanalizasyon Bağlantı Süreci Detayları",
+        "methodsTitle":  "Bağlantı Yöntemlerimiz",
+        "causesIntro":  "Bağlantı süreci kaç aşamaya bölünüyor:",
+        "keywords":  "kanalizasyon bağlantısı, ana hatta bağlantı, yeni bina kanalizasyon, kanalizasyon bağlama",
+        "bonusBody":  "Yeni inşa site veya toplu yapılarda komple bağlantı projelendirme + uygulama hizmetimiz var. Daire sayısı, atık hacmi, mevcut belediye altyapısı analiz ediliyor; en uygun bağlantı sistemi tasarlanıp uygulanıyor.",
+        "closingBody":  "Yeni yapınızın altyapı temelini biz atıyoruz; profesyonel + belediye uyumlu + garantili. Bir telefon yeter.",
+        "photo":  23,
+        "slug":  "kanalizasyon-baglantisi",
+        "h1":  "Kanalizasyon Bağlantısı — Yeni Yapı Ana Hatta Profesyonel Bağlama",
+        "heroLead":  "Yeni inşa ettiğiniz yapıyı belediye ana kanalizasyon hattına profesyonel ve yönetmelik uyumlu şekilde bağlıyoruz.",
+        "ctaTitle":  "Yeni Yapı Bağlantısı için Keşif",
+        "methods":  [
+                        {
+                            "d":  "Standart yapılarda en yaygın yöntem; kazı + boru döşeme + bağlama.",
+                            "t":  "Klasik kazı ve döşeme"
+                        },
+                        {
+                            "d":  "Yol veya yapı altında geçiş gerektiğinde kazısız tünel açma.",
+                            "t":  "Köstebek (yatay sondaj)"
+                        },
+                        {
+                            "d":  "Bağlantı kontrol noktası olarak rögar yapımı.",
+                            "t":  "Bina dışı rögar inşası"
+                        },
+                        {
+                            "d":  "Eğim yetmediğinde basınçlı sistem kurulum.",
+                            "t":  "Dalgıç pompa sistemi (gerektiğinde)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Bağlantı projesi belediyeye sunuluyor; ruhsat süreci başlatılıyor.",
+                           "t":  "Belediye proje onayı"
+                       },
+                       {
+                           "d":  "Yapıdan ana hatta uzaklık + en uygun bağlantı noktası tespit.",
+                           "t":  "Ana hat tespiti ve mesafe ölçümü"
+                       },
+                       {
+                           "d":  "Profesyonel kazı + uygun çaplı boru döşemesi.",
+                           "t":  "Kazı ve hat döşeme"
+                       },
+                       {
+                           "d":  "Ana hatta sızdırmaz bağlama + akış testi.",
+                           "t":  "Bağlantı ve test"
+                       }
+                   ],
+        "name":  "Kanalizasyon Bağlantısı",
+        "specialBody":  "Kanalizasyon bağlantısı belediye izni gerektirir; süreç bürokrasi içerebilir. 20 yıllık deneyimimiz size avantaj sağlar — gerekli evrakları biliyoruz, projelendirmeyi yönetiyoruz, takip edip izin alıyoruz. Siz sadece yapı sahibi olarak ilgili kalemlere imza atıyorsunuz."
+    },
+    {
+        "ctaBody":  "Yenileme keşfi yapalım; sonraki 50 yıl rahat planlayın. Aramanız yeter.",
+        "intro2":  "20 yıldır kanalizasyon hat yenileme yapıyoruz; ev içi tesisattan ana belediye bağlantısına kadar her ölçekte. Modern PVC veya HDPE boru + profesyonel montaj + sızdırma testi — yeni hattın 50 yıl daha sorunsuz hizmeti için temel.",
+        "signsTip":  "Yenileme bir defa büyük yatırım; ancak sonraki 30-50 yıl sorunsuz işletme. Tek tek nokta tamir maliyetlerinin toplamı genelde yenilemeyi geçer.",
+        "specialTitle":  "Site ve Apartmanlarda Toplu Hat Yenileme",
+        "intro1":  "Eski hat (50+ yaş) çoğunlukla dökme demir veya beton boru; bu malzemeler zaman içinde ciddi yıpranma gösteriyor. Sürekli tıkanıklık, sızıntı, koku problemi yaşanıyor. Bu durumda nokta tamiri yetmez; komple yenileme uzun vadede en hesaplı çözüm.",
+        "closingTitle":  "Yenileme = Sonraki 50 Yıl Rahatlık",
+        "bonusTitle":  "Belediye Onaylı Hat Yenileme Belgelendirmesi",
+        "methodsIntro":  "Yenileme yöntemleri:",
+        "signsTitle":  "Yenileme mi Tamir mi?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kanalizasyon hat yenileme — eski boruların komple değişimi, modernleme. Faturalı, garantili. 0552 007 60 34",
+        "signsBody":  "Hat üzerinde 3+ noktada hasar varsa, malzeme 50+ yaş ise, kireçlenme iç çapı %50+ daraltmışsa — yenileme önceliği. Tek noktasal hasarda tamir yeterli; yaygın hasarda yenileme.",
+        "faqs":  [
+                     {
+                         "a":  "Hat uzunluğu ve yöntem seçimine göre değişir. Standart bina hattı 1-3 günlük iş; site ana hat yenilemesi 1-2 hafta. Keşif sonrası net süre veriyoruz.",
+                         "q":  "Yenileme süresi ne kadar?"
+                     },
+                     {
+                         "a":  "Çoğu durumda evet, kısa süreli kesintilerle. Ev içi tesisat müdahalesinde 2-4 saatlik kesinti olabiliyor; planlı şekilde yapılıyor, sakinler haberdar.",
+                         "q":  "Yenileme sırasında bina kullanılabilir mi?"
+                     },
+                     {
+                         "a":  "CIPP veya pipe bursting yöntemleri ile bazı durumlarda evet. Eski boru durumuna göre uygunluk değerlendiriyoruz; mümkünse peyzaj ve yapı korunarak çalışıyoruz.",
+                         "q":  "Kazısız yenileme mümkün mü?"
+                     },
+                     {
+                         "a":  "Komple yenileme için 5-10 yıl yazılı garanti. Modern PVC borular nominal ömrü 50+ yıl olduğu için garanti süresi rahat veriyoruz.",
+                         "q":  "Yenileme sonrası garanti?"
+                     }
+                 ],
+        "introTitle":  "Kanalizasyon Hattı Yenileme Hizmetimiz",
+        "causesTitle":  "Hat Yenileme Ne Zaman Gerekli?",
+        "methodsTitle":  "Hat Yenileme Yöntemlerimiz",
+        "causesIntro":  "Yenileme zorunluluğu doğuran durumlar:",
+        "keywords":  "kanalizasyon hattı yenileme, hat değişimi, kanalizasyon değişim, eski boru yenileme",
+        "bonusBody":  "Yenileme sonrası belediye uyumluluk belgesi gerekiyorsa, profesyonel rapor + onay sürecini yönetiyoruz. Yapı işletme ruhsatlarınız ve yasal uyumluluğunuz tamamlanıyor.",
+        "closingBody":  "Tek seferde profesyonel yenileme = uzun yıllar tıkanıklık, sızıntı, koku problemi yok. 20 yıllık deneyimimiz garantisi.",
+        "photo":  24,
+        "slug":  "kanalizasyon-hatti-yenileme",
+        "h1":  "Kanalizasyon Hattı Yenileme — Eski Hattınıza Komple Modernleme",
+        "heroLead":  "Yıpranmış kanalizasyon hattınızı modern PVC ile yeniliyor, uzun yıllar sorunsuz işletme garanti ediyoruz.",
+        "ctaTitle":  "Tekrarlayan Sorunlardan Bıktınız mı?",
+        "methods":  [
+                        {
+                            "d":  "Eski hattı tamamen kaldırıp yeni döşeme; en yaygın yöntem.",
+                            "t":  "Klasik kazı ve değişim"
+                        },
+                        {
+                            "d":  "Eski borunun içine reçineli manşet çekip yeni iç yüzey oluşturma; kazısız.",
+                            "t":  "Boru içi yenileme (CIPP)"
+                        },
+                        {
+                            "t":  "Pipe bursting (boru kırma);d=\u0027Eski boruyu yer altında kırarak yenisini içinden geçirme; minimum kazı."
+                        },
+                        {
+                            "d":  "Yapı veya yol altı geçişlerde tünel açma yöntemi.",
+                            "t":  "Köstebek (yatay sondaj)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Aynı hat üzerinde sürekli tamir gerekiyor; toplam maliyet yenilemeyi geçiyor.",
+                           "t":  "Tekrarlayan tıkanıklık ve nokta tamir"
+                       },
+                       {
+                           "d":  "Boru hattının büyük bölümünde çatlak, çökme, sızıntı.",
+                           "t":  "Yapısal hasar yaygın"
+                       },
+                       {
+                           "d":  "Dökme demir borular kireçlenmiş; iç çap kritik düzeyde daralmış.",
+                           "t":  "Eski malzeme kireçlenmesi"
+                       },
+                       {
+                           "d":  "Yapı genişliyor, mevcut hat yetmiyor; kapasite artırma.",
+                           "t":  "Yeni inşaat veya genişleme"
+                       }
+                   ],
+        "name":  "Kanalizasyon Hattı Yenileme",
+        "specialBody":  "Site veya çok daireli apartmanlarda hat yenileme büyük proje; aidat raporlaması, sakin haberleşmesi, geçici çözüm planlaması gerek. Bu süreçleri yönetiyoruz; yönetim kuruluna detaylı planlama dosyası, sakinlere bilgilendirme broşürü hazırlıyoruz."
+    },
+    {
+        "ctaBody":  "Standart, ağır araç dayanımlı veya estetik özel kapak — ihtiyacınıza özel teklif. Aramanız yeter.",
+        "intro2":  "20 yıldır logar kapağı temin ediyor ve montaj yapıyoruz; standart belediye kapaklarından özel ölçü ve estetik kapaklara kadar geniş yelpazemiz var. Bahçe peyzajına uyumlu özel modeller, ağır araç geçişine uygun çelik modeller — ihtiyaca göre seçim.",
+        "signsTip":  "Hatalı seçilmiş kapak ya kırılır ya yetersiz kalır; doğru seçim uzun yıllar sorunsuz hizmet sağlıyor.",
+        "specialTitle":  "Özel Ölçü ve Estetik Kapak Çözümlerimiz",
+        "intro1":  "Logar kapağı, kanalizasyon sisteminin görünür yüzü ve yapısal koruyucusu. Hasarlı veya eksik kapak güvenlik riski (içine düşme), koku problemi, su sızıntısı (yağmurda) ve yetkisiz erişim sorununu beraber getirir. Doğru kapak doğru montaj kritik.",
+        "closingTitle":  "Sağlam Kapak = Sağlam Logar",
+        "bonusTitle":  "Toplu Kapak Yenileme Programı (Site/AVM)",
+        "methodsIntro":  "Adım adım montaj:",
+        "signsTitle":  "Kapak Çeşitleri ve Kullanım Alanları",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da logar kapağı yenileme ve montajı — standart ve özel ölçü, sızdırmaz, dayanıklı kapak. 0552 007 60 34",
+        "signsBody":  "Standart belediye dökme demir kapakları, ağır araç geçişine uygun çelik kapaklar, peyzajda gizlenebilen özel kapaklar, kompozit hafif kapaklar — her birinin kullanım alanı farklı. Yapınızın durumuna göre doğru tipini öneriyoruz.",
+        "faqs":  [
+                     {
+                         "a":  "Tabii, sadece kapak değişimi de hizmetimiz arasında. Standart ve özel ölçü temin ediyor, sızdırmaz montaj yapıyor, garantili teslim ediyoruz.",
+                         "q":  "Logar kapağım kırık, sadece kapak değişimi yapıyor musunuz?"
+                     },
+                     {
+                         "a":  "Evet, lüks villa müşterilerimize peyzajla uyumlu özel kapak çözümleri sunuyoruz. Mermer, paslanmaz çelik, kompozit veya peyzaj içine gizlenen modeller; ölçüye özel sipariş.",
+                         "q":  "Bahçemde özel görünümlü kapak istiyorum, mümkün mü?"
+                     },
+                     {
+                         "a":  "Çelik veya yüksek dayanım dökme demir model öneriyoruz; ağır araç geçişine dayanıklı, çatlama riski yok.",
+                         "q":  "Ağır araç geçen yola yakın logarımda hangi kapak?"
+                     },
+                     {
+                         "a":  "Kapak üretici garantisine ek olarak biz montaj garantisi veriyoruz; toplam 2-5 yıllık yazılı garanti standart.",
+                         "q":  "Kapak garantisi ne kadar?"
+                     }
+                 ],
+        "introTitle":  "Logar Kapağı Yenileme Hizmetimiz",
+        "causesTitle":  "Kapak Değişimi Hangi Durumlarda?",
+        "methodsTitle":  "Kapak Montaj Sürecimiz",
+        "causesIntro":  "Değişim sebepleri:",
+        "keywords":  "logar kapağı, rögar kapağı, logar kapağı yenileme, kapak montajı",
+        "bonusBody":  "Site veya AVM yönetimleri için toplu logar kapağı yenileme paketleri sunuyoruz. Yapının tüm logarlarını standart bir görünümde, kaliteli kapaklarla yeniliyor; yıllık bakım sözleşmesine dahil ediyoruz.",
+        "closingBody":  "Profesyonel kapak temini + sızdırmaz montaj. Yapınızın güvenliği ve estetiği için doğru çözüm.",
+        "photo":  25,
+        "slug":  "logar-kapagi-yenileme",
+        "h1":  "Logar Kapağı Yenileme ve Montajı — Sızdırmaz, Dayanıklı, Garantili",
+        "heroLead":  "Hasarlı logar kapağınızı yeniliyor, yeni montaj veya değişim için kaliteli kapak temin ediyoruz.",
+        "ctaTitle":  "Logar Kapağınız Hasarlı veya Eksik mi?",
+        "methods":  [
+                        {
+                            "d":  "Logar ölçüleri ve durum tespiti; uygun kapak boyutu seçimi.",
+                            "t":  "Mevcut logar tespiti"
+                        },
+                        {
+                            "d":  "Standart veya özel ölçü kapak temin ediyoruz.",
+                            "t":  "Kapak temini"
+                        },
+                        {
+                            "d":  "Hasarlı kapağı uygun şekilde sökme; logar ağzı temizleme.",
+                            "t":  "Eski kapak sökümü"
+                        },
+                        {
+                            "d":  "Sızdırmaz harç ile sabit, hijyenik montaj; teslim öncesi test.",
+                            "t":  "Yeni kapak montajı"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Yıllık aşınma ya da darbe sonucu hasar.",
+                           "t":  "Kırık veya çatlak kapak"
+                       },
+                       {
+                           "d":  "Yağmur sonrası logar içine su girişi.",
+                           "t":  "Sızıntı yapan kapak"
+                       },
+                       {
+                           "d":  "Yenilenen logara eski kapak uymuyor.",
+                           "t":  "Boyut uyumsuzluğu"
+                       },
+                       {
+                           "d":  "Görünümü iyileştirmek için modern modellere geçiş.",
+                           "t":  "Estetik veya peyzaj uyumsuzluğu"
+                       }
+                   ],
+        "name":  "Logar Kapağı Yenileme ve Montajı",
+        "specialBody":  "Lüks villa, otel, butik tesis sahipleri için peyzajla uyumlu özel kapak çözümlerimiz var. Bahçe yeşilliği içine gizlenebilen, mermer kaplamalı, paslanmaz çelik veya kompozit modeller — peyzajın bütünlüğünü bozmuyor. Ölçüye özel sipariş üretimi de yapıyoruz."
+    },
+    {
+        "ctaBody":  "30 dakikada kapınızda, vakum kapasitesi hazır. Aramanız yeter.",
+        "intro2":  "20 yıldır İstanbul\u0027\u0027\u0027\u0027un her ilçesinde vidanjör hizmeti veriyoruz; köy evlerinden büyük site komplekslerine, restoranlardan sanayi tesislerine kadar deneyimimiz yüksek. 7/24 servisimiz aktif; ortalama 30-45 dakikada kapınızda.",
+        "signsTip":  "Periyodik program ile vidanjör çağrısını acil seviyeden çıkartmak mümkün; planlı yıllık veya sezonluk bakım çok daha ekonomik.",
+        "specialTitle":  "Acil Bodrum Su Baskını ve İndirme Hizmetimiz",
+        "intro1":  "Vidanjör, foseptik, rögar ve drenaj kuyularındaki sıvı, çamur ve katı atığı vakum yöntemiyle eksiksiz çeken araç. Modern vidanjör araçlarımız yüksek kapasiteli; tek seferde tam boşaltma standardımız. Hijyenik müdahale, çevre uyumlu tahliye, hızlı servis temellerimiz.",
+        "closingTitle":  "Vidanjör İhtiyacınızı Hızla Çözüyoruz",
+        "bonusTitle":  "Sözleşmeli Periyodik Vidanjör Programı",
+        "methodsIntro":  "Adım adım hizmet:",
+        "signsTitle":  "Vidanjör Hizmeti İçin Çağrı Zamanı",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da vidanjör hizmeti — foseptik, rögar, drenaj kuyusu boşaltma. Hızlı, hijyenik, çevre uyumlu. 7/24. 0552 007 60 34",
+        "signsBody":  "Foseptik etrafında koku, kapak çevresinde ıslaklık, evden gelen yavaş tahliye, ağır yağışta rögar etrafında su yükselmesi — bunlar vidanjör çağrısı gerektiren durumlar.",
+        "faqs":  [
+                     {
+                         "a":  "Standart bir foseptik boşaltma 30-45 dakikalık iş. Geniş kapasiteli kuyularda 1-2 saatlik. Adresinize geldiğimizde net süre bilgisi alıyoruz.",
+                         "q":  "Vidanjör hizmeti ne kadar sürüyor?"
+                     },
+                     {
+                         "a":  "Belediye onaylı atık alanlarına götürüyoruz; çevreye uyumlu, yasal süreç. İmzalı tahliye belgesi talep ederseniz veriyoruz.",
+                         "q":  "Çıkan atığı nereye götürüyorsunuz?"
+                     },
+                     {
+                         "a":  "Telefon sırasında durumu öğreniyor, uygun kapasiteli vidanjör aracı yönlendiriyoruz. 30-60 dakikada kapınızdayız; suyu çekiyor, alt yüzeyi kontrol ediyoruz. Sigorta tazminat süreci için belge sağlıyoruz.",
+                         "q":  "Acil bodrum su baskınında nasıl müdahale edersiniz?"
+                     },
+                     {
+                         "a":  "Var. Aile büyüklüğü ve kuyu kapasitesine göre yıllık 2-4 ziyaret içeren paket. Sözleşmeli müşteri acil servis önceliği + %30 indirimli fiyat avantajı.",
+                         "q":  "Foseptik için yıllık vidanjör paketi var mı?"
+                     }
+                 ],
+        "introTitle":  "Vidanjör Hizmeti Uzmanlığımız",
+        "causesTitle":  "Vidanjör Hangi Durumlarda Gerekiyor?",
+        "methodsTitle":  "Vidanjör Hizmet Sürecimiz",
+        "causesIntro":  "Vidanjör ihtiyacının başlıca durumları:",
+        "keywords":  "vidanjör, vidanjör hizmeti, foseptik vidanjör, rögar vidanjör, kuyu boşaltma",
+        "bonusBody":  "Foseptik kullanan köy evi sahipleri, yazlık siteleri, restoran ve sanayi işletmecileri için periyodik vidanjör sözleşmemiz var. Yıllık 2-12 ziyaret arası ihtiyaca göre planlama; sözleşmeli müşteri acil servis önceliği + indirimli fiyat avantajı.",
+        "closingBody":  "Yüksek kapasite + hızlı servis + çevre uyumlu tahliye. 7/24 sahada, 30 dakikada kapınızda.",
+        "photo":  26,
+        "slug":  "vidanjor-hizmeti",
+        "h1":  "Vidanjör Hizmeti — Foseptik, Rögar ve Drenaj Kuyularına Hızlı Boşaltma",
+        "heroLead":  "Yüksek kapasiteli vidanjörümüzle foseptik, rögar ve kuyu boşaltma hizmeti veriyoruz. 7/24 sahada.",
+        "ctaTitle":  "Foseptik veya Acil Su Baskını mı?",
+        "methods":  [
+                        {
+                            "d":  "Telefonda durumu öğreniyor, uygun kapasiteli aracı yönlendiriyoruz.",
+                            "t":  "Adres ve durum tespiti"
+                        },
+                        {
+                            "d":  "Saha durumu kontrol; doğru hortum + ekipman seçimi.",
+                            "t":  "Yerinde değerlendirme"
+                        },
+                        {
+                            "d":  "Yüksek kapasiteli pompamızla sıvı + çamur + katı eksiksiz çekme.",
+                            "t":  "Vakum tahliyesi"
+                        },
+                        {
+                            "d":  "Çıkan atığı belediye onaylı arıtma tesisine götürüyoruz.",
+                            "t":  "Atık tahliyesi (belediye onaylı)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Kanalizasyon ana hattı olmayan yapılarda periyodik veya acil boşaltma.",
+                           "t":  "Foseptik kuyusu dolma"
+                       },
+                       {
+                           "d":  "Bina rögarında çamur, çöp ve atık birikimi.",
+                           "t":  "Rögar dolma"
+                       },
+                       {
+                           "d":  "Yağmur suyu drenaj kuyularında çamur ve yaprak birikimi.",
+                           "t":  "Drenaj kuyusu temizliği"
+                       },
+                       {
+                           "d":  "Bodrum su baskını, otopark drenaj sorunu.",
+                           "t":  "Acil yer altı su tahliyesi"
+                       }
+                   ],
+        "name":  "Vidanjör Hizmeti",
+        "specialBody":  "Ağır yağışta veya tesisat patlamasında bodrum su baskını yaşanırsa hızla aramanız gerek. 30-60 dakikada ulaşıp vakum aracımızla suyu çekiyor, alt yüzeyi kurutuyoruz. Kayıt altına alınan iş, sigorta tazminatı için belge sağlıyor."
+    },
+    {
+        "ctaBody":  "Köstebek tüneli keşfi yapalım, kazısız çözümü gösterelim. Aramanız yeter.",
+        "intro2":  "20 yıllık deneyimimizde köstebek sistemi ile yüzlerce başarılı tünel açtık. Yol altı kanalizasyon bağlantıları, bahçe içi geçişler, otoyol kenarı bağlantılar — tüm bu durumlar için ideal yöntem.",
+        "signsTip":  "Klasik kazı, köstebek tünelden ucuz görünebilir; ancak yüzey onarım, trafik düzenleme ve peyzaj yenileme maliyetleri eklendiğinde köstebek genelde toplam maliyette önde.",
+        "specialTitle":  "Yol ve Cadde Geçişlerinde Trafik Kesintisiz Çözüm",
+        "intro1":  "Köstebek sistemi, yer altında yatay sondaj yaparak boru veya kablo geçişi sağlayan modern teknoloji. Klasik kazıdan farklı olarak yüzeyi açmıyor; yol, yapı, peyzaj korunarak iş bitiyor. Trafik kapanmasına gerek yok, peyzaj zarar görmüyor, yapı altı geçişler güvenle yapılıyor.",
+        "closingTitle":  "Modern Çözüm = Çağdaş Sonuç",
+        "bonusTitle":  "Mevcut Kanalizasyon Hattı Yenileme için Pipe Bursting",
+        "methodsIntro":  "Adım adım uygulama:",
+        "signsTitle":  "Köstebek Sisteminin Avantajları",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da köstebek sistemi (yatay sondaj) ile kazısız tünel açma — yol, yapı altı geçişler için. 0552 007 60 34",
+        "signsBody":  "Yüzey bozulmaz, trafik kapanmaz, peyzaj korunur, izin süreci kolaylaşır, çalışma süresi kısalır, çevreye saygılı yöntem — köstebek sisteminin temel avantajları.",
+        "faqs":  [
+                     {
+                         "a":  "Standart projeler için 50-100 metre yaygın; uzun mesafeli projelerde 200+ metre de mümkün. Toprak yapısı ve engellere göre değişir.",
+                         "q":  "Köstebek tüneli ne kadar uzunlukta açılabilir?"
+                     },
+                     {
+                         "a":  "Çok mantıklı. Klasik kazı bahçenizi günlerce bozar; köstebek sadece iki uçta küçük başlangıç/bitiş çukuru. Peyzaj büyük çoğunlukla korunuyor.",
+                         "q":  "Bahçemde lüks peyzaj var, köstebek mantıklı mı?"
+                     },
+                     {
+                         "a":  "Standart 50 metre tünel 1-2 günlük iş. Karmaşık projeler 3-7 gün; keşif sırasında net süre veriyoruz.",
+                         "q":  "Ne kadar süre alıyor?"
+                     },
+                     {
+                         "a":  "Genelde toplam maliyet aynı veya köstebek lehine. Klasik kazıda yüzey onarım, peyzaj yenileme, trafik düzenleme maliyetleri eklendiğinde köstebek hesaplı çıkıyor.",
+                         "q":  "Maliyet klasik kazıdan yüksek mi?"
+                     }
+                 ],
+        "introTitle":  "Köstebek (Yatay Sondaj) Tünel Açma Hizmetimiz",
+        "causesTitle":  "Köstebek Sistemi Hangi Durumlarda Tercih Edilir?",
+        "methodsTitle":  "Köstebek Tünel Sürecimiz",
+        "causesIntro":  "Köstebek tünel ideal durumlar:",
+        "keywords":  "köstebek sistemi, yatay sondaj, kazısız tünel, kanalizasyon tüneli, mole drilling",
+        "bonusBody":  "Mevcut bir kanalizasyon hattı yenilemek gerektiğinde \u0027\u0027pipe bursting\u0027\u0027 tekniği ile eski boruyu yer altında kırarak yenisini içinden geçiriyoruz. Komple yenileme yapısal yenileme, yüzey kazısı minimum. Eski hattan yeni hatta geçiş 1 günlük iş olabiliyor.",
+        "closingBody":  "Köstebek sistemi 21. yüzyıl altyapı çözümü; çevreye saygılı, ekonomik, hızlı.",
+        "photo":  27,
+        "slug":  "kostebek-tunel-acma",
+        "h1":  "Köstebek Sistemi ile Tünel Açma — Kazısız Yol ve Yapı Altı Geçiş",
+        "heroLead":  "Yol veya yapı altından geçiş gerektiğinde kazısız tünel açma teknolojimiz devrede; peyzaj ve yapı korunarak çözüm.",
+        "ctaTitle":  "Yol veya Yapı Altı Geçiş İhtiyacınız mı Var?",
+        "methods":  [
+                        {
+                            "d":  "Tünel başlangıç ve bitiş noktaları + rota tespit; yer altı engel kontrolü.",
+                            "t":  "Saha keşfi ve rota planlaması"
+                        },
+                        {
+                            "d":  "Sadece iki uçta küçük çukur; ana güzergah kazısız.",
+                            "t":  "Hedeflenmiş başlangıç ve bitiş çukurları"
+                        },
+                        {
+                            "d":  "Köstebek makinesi ile kontrollü yer altı tünel açımı.",
+                            "t":  "Yatay sondaj"
+                        },
+                        {
+                            "d":  "Açılan tünelden boru çekme + bağlantı + son testler.",
+                            "t":  "Boru çekme ve tamamlama"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Trafik kapatmadan altyapı geçişi.",
+                           "t":  "Yol veya cadde altı geçişler"
+                       },
+                       {
+                           "d":  "Yapıya zarar vermeden boru geçirmek.",
+                           "t":  "Yapı veya bina altı geçişler"
+                       },
+                       {
+                           "d":  "Lüks villa veya site peyzajı korunarak çalışmak.",
+                           "t":  "Peyzaj korumalı bahçe geçişleri"
+                       },
+                       {
+                           "d":  "Beton zemin, eski yapı veya işaret kaldırma maliyeti yüksek noktalar.",
+                           "t":  "Yüzeyde engel olan durumlar"
+                       }
+                   ],
+        "name":  "Köstebek Sistemi ile Tünel Açma",
+        "specialBody":  "Belediye yol ve caddelerinden geçiş gerektiğinde klasik kazı trafiği kapatır, izin süreci uzun, maliyet yüksek. Köstebek sistemi ile yol yüzeyi açılmıyor; trafik aksamadan tünel tamamlanıyor. Belediye izinleri de bu nedenle daha hızlı veriliyor."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, doğru ürün ve fiyatla teklif sunalım. Aramanız yeter.",
+        "intro2":  "20 yıllık deneyimimizde yüzlerce dalgıç pompa kurduk; küçük konut kuyu pompalarından sanayi tipi yüksek kapasiteli pompalara kadar deneyimliyiz. Marka bağımsız çalışıyor, kullanım ihtiyacınıza özel doğru modeli öneriyoruz.",
+        "signsTip":  "Yetersiz pompa beklenen kapasiteyi sağlamaz; aşırı pompa enerji israfı + erken aşınma. Doğru hesaplama profesyonel iş.",
+        "specialTitle":  "Yer Altı Otopark Drenaj Pompa Sistemleri",
+        "intro1":  "Dalgıç pompa, sıvının içine batırılan, motorla çalışıp suyu yukarıya pompalayan ekipman. Su kuyusu kullanımında, yer altı otopark drenajında, çiftlik sulamasında, sanayi sıvı transferinde temel ekipman. Doğru pompa seçimi + doğru montaj kullanım ömrünün belirleyicisi.",
+        "closingTitle":  "Doğru Pompa = Yıllarca Sorunsuz Çalışma",
+        "bonusTitle":  "Periyodik Pompa Bakım Programı",
+        "methodsIntro":  "Adım adım montaj:",
+        "signsTitle":  "Doğru Pompa Seçimi için Kriterler",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da dalgıç pompa montajı — temiz su kuyuları, yer altı otopark drenajı, sıvı transfer için profesyonel kurulum. 0552 007 60 34",
+        "signsBody":  "Pompalanacak sıvı tipi (temiz su, gri su, atık su), kapasite ihtiyacı (m³/saat), basma yüksekliği (metre), kullanım sıklığı, motor gücü — doğru seçim için bu parametreler hesaplanmalı.",
+        "faqs":  [
+                     {
+                         "a":  "Tabii. Mevcut sistemi inceliyor, uygun yedek pompa öneriyor, profesyonel montaj yapıyoruz. Kuyu özelliklerinize uygun model seçimi + 1 yıl montaj garantisi.",
+                         "q":  "Su kuyumun pompası bozuldu, değiştirebilir misiniz?"
+                     },
+                     {
+                         "a":  "Kontrol + bakım hizmetimiz var. Pompa durumunu test ediyor, fotoğraflı rapor sunuyoruz. İhtiyaç varsa değişim önerisi de sağlıyoruz.",
+                         "q":  "Site yöneticisiyim, otopark pompamızı kontrol ettirmek istiyorum?"
+                     },
+                     {
+                         "a":  "Marka bağımsız çalışıyoruz; ihtiyacınıza ve bütçenize göre Grundfos, Wilo, Pedrollo, DAB, Lowara veya yerli kaliteli markalardan öneriyoruz.",
+                         "q":  "Hangi marka pompa öneriyor sunuz?"
+                     },
+                     {
+                         "a":  "Pompa üretici garantisine ek olarak biz montaj garantisi veriyoruz; toplam 2-5 yıllık yazılı garanti standart.",
+                         "q":  "Montaj garantisi ne kadar?"
+                     }
+                 ],
+        "introTitle":  "Dalgıç Pompa Montaj Hizmetimiz",
+        "causesTitle":  "Dalgıç Pompa Hangi Yerlerde Kullanılıyor?",
+        "methodsTitle":  "Dalgıç Pompa Kurulum Sürecimiz",
+        "causesIntro":  "Yaygın kullanım alanları:",
+        "keywords":  "dalgıç pompa, dalgıç pompa montajı, kuyu pompası, drenaj pompası, su pompası",
+        "bonusBody":  "Dalgıç pompalar yıllık bakım istiyor; motor kontrolü, çark temizliği, şamandıra testi, elektrik bağlantı kontrolü. Sözleşmeli müşterilerimize yıllık bakım dahil; pompa ömrü uzuyor, ani arıza azalıyor.",
+        "closingBody":  "20 yıllık deneyim + doğru ürün seçimi + profesyonel montaj. Pompa sisteminizin sigortası.",
+        "photo":  28,
+        "slug":  "dalgic-pompa-montaji",
+        "h1":  "Dalgıç Pompa Montajı — Su Kuyusu ve Drenaj için Profesyonel Kurulum",
+        "heroLead":  "Su kuyuları, yer altı otopark drenajı ve sıvı transfer ihtiyaçlarınız için dalgıç pompa temin + montaj.",
+        "ctaTitle":  "Su Kuyusu veya Otopark Drenaj Pompa İhtiyacı",
+        "methods":  [
+                        {
+                            "d":  "Kullanım amacı, kapasite ve özelliklere göre uygun model seçimi.",
+                            "t":  "İhtiyaç analizi ve pompa seçimi"
+                        },
+                        {
+                            "d":  "Pompa kuyu/havuz/drenaj alanına doğru şekilde indirme + bağlantı.",
+                            "t":  "Profesyonel montaj"
+                        },
+                        {
+                            "d":  "Otomatik şamandıralı sistem, kontrol panosu, koruma rölesi montajı.",
+                            "t":  "Elektrik ve kontrol kurulumu"
+                        },
+                        {
+                            "d":  "Çalıştırma testi + kapasite doğrulama; garantili teslim.",
+                            "t":  "Test ve teslim"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Köy evi, çiftlik, villa kuyularından temiz su pompalama.",
+                           "t":  "Su kuyusu pompalama"
+                       },
+                       {
+                           "d":  "Yağmur veya sızıntı suyu uzaklaştırma; sitelerde standart.",
+                           "t":  "Yer altı otopark drenajı"
+                       },
+                       {
+                           "d":  "Bodrum sızıntı suyu yönlendirme.",
+                           "t":  "Bodrum drenaj sistemi"
+                       },
+                       {
+                           "d":  "Endüstriyel atık veya temiz sıvı transferi.",
+                           "t":  "Sanayi sıvı transfer"
+                       }
+                   ],
+        "name":  "Dalgıç Pompa Montajı",
+        "specialBody":  "Çok katlı sitelerin yer altı otoparklarında drenaj pompası kritik; arızalandığında bir yağmurda büyük zarar oluşur. Periyodik kontrol + zamanında değişim programımızla bu riski sıfırlıyoruz. Pompa modelini ve ihtiyacı hesaplayıp uygun değişim öneriyoruz."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, doğru izolasyon yöntemini önerelim. Aramanız yeter.",
+        "intro2":  "20 yıldır izolasyon uygulamaları yapıyoruz; modern malzemeler + profesyonel uygulama tekniği ile uzun ömürlü çözümler sunuyoruz. Foseptik izolasyon, hat birleşim noktaları, rögar duvarları, atıksu deposu — tüm bu noktalarda uzmanız.",
+        "signsTip":  "İzolasyon erken müdahale gerektiriyor; bekledikçe etki alanı genişler ve onarım maliyeti büyür.",
+        "specialTitle":  "Foseptik ve Atıksu Yapılarına Özel Sızdırmazlık Çözümleri",
+        "intro1":  "İzolasyon, kanalizasyon ve atıksu sistemlerinde sızdırmazlığı sağlayan, koku ve nemi engelleyen kritik uygulama. Doğru izolasyon yapı temelini, çevre toprağı ve suyu ve uzun vadeli sistem ömrünü korur. İhmal edilirse hem yapısal hem ekolojik sorun çıkar.",
+        "closingTitle":  "İzolasyon Yatırım = Yapı Sağlığı",
+        "bonusTitle":  "Eski Yapı Temel Su Yalıtımı",
+        "methodsIntro":  "Uygulama alanına göre yöntem:",
+        "signsTitle":  "İzolasyon Eksikliğinin Belirtileri",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kanalizasyon ve atıksu hatları izolasyon hizmeti — sızdırmazlık, koku önleme, ısı izolasyonu. 0552 007 60 34",
+        "signsBody":  "Çevre toprağında ıslaklık, kötü koku, yapı temelinde nem, sayaçta açıklanamayan tüketim, bahçede ölçülemeyen sızıntı — hepsi izolasyon problemine işaret.",
+        "faqs":  [
+                     {
+                         "a":  "Evet. Önce tespit ile sızıntı noktasını buluyor, sonra uygun izolasyon malzemesi ile kapatıyoruz. Su geçirmez harç, epoksi veya membran — duruma göre seçim.",
+                         "q":  "Foseptiğimde sızıntı şüphesi var, izolasyon yapabilir misiniz?"
+                     },
+                     {
+                         "a":  "İçeriden ve/veya dışarıdan iki yöntem var. Çoğu durumda iki yöntem birlikte uygulanıyor. Keşif sonrası size uygun yaklaşımı öneriyor, fiyat ve süreyi netleştiriyoruz.",
+                         "q":  "Bodrumda nem var, temel izolasyon nasıl yapılır?"
+                     },
+                     {
+                         "a":  "Uygulama alanı ve yönteme göre değişir. Foseptik iç izolasyon 1-2 günlük iş; bodrum komple temel izolasyonu 1-2 hafta. Hava şartları kürlenmeyi etkiliyor.",
+                         "q":  "İzolasyon ne kadar sürer?"
+                     },
+                     {
+                         "a":  "Evet, modern izolasyon malzemeleri 5-10 yıllık garanti veriyor; biz uygulama garantisi ile birlikte 2-5 yıllık yazılı garanti veriyoruz.",
+                         "q":  "İzolasyon garanti altında mı?"
+                     }
+                 ],
+        "introTitle":  "İzolasyon Hizmetlerimiz",
+        "causesTitle":  "İzolasyon Hangi Noktalarda Gerekli?",
+        "methodsTitle":  "İzolasyon Yöntemlerimiz",
+        "causesIntro":  "Önemli uygulama noktaları:",
+        "keywords":  "izolasyon, kanalizasyon izolasyon, su izolasyon, foseptik izolasyon, sızdırmazlık",
+        "bonusBody":  "Eski binalarda temel su yalıtımı zamanla yıpranır; bodrumda nem, küf ve mantar problemleri başlar. İçeriden veya dışarıdan profesyonel su yalıtımı ile bu problemleri kalıcı çözüyoruz. Eski yapınızın değerini koruyoruz.",
+        "closingBody":  "Erken izolasyon yatırımı, yıllar sonra büyük onarım maliyetlerinden korur. 20 yıllık deneyim güvencesi.",
+        "photo":  29,
+        "slug":  "izolasyon-hizmetleri",
+        "h1":  "İzolasyon Hizmetleri — Sızdırmazlık ve Koku Yönetimi için Profesyonel Çözüm",
+        "heroLead":  "Kanalizasyon, foseptik ve atıksu hatlarınızda izolasyon — sızdırmazlık, koku önleme, dayanıklılık.",
+        "ctaTitle":  "İzolasyon İhtiyacınız mı Var?",
+        "methods":  [
+                        {
+                            "d":  "Beton ve duvar yüzeylerine su yalıtım harç uygulaması.",
+                            "t":  "Su geçirmez harç"
+                        },
+                        {
+                            "d":  "Daha dayanıklı, kimyasal dirençli yüzeylerde.",
+                            "t":  "Epoksi ve poliüretan"
+                        },
+                        {
+                            "d":  "Yer altı yapılarında klasik su yalıtım.",
+                            "t":  "Bitümlü malzeme"
+                        },
+                        {
+                            "d":  "Geniş yüzey su yalıtım uygulamalarında.",
+                            "t":  "PVC veya HDPE membran"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Sızıntıyı engelleyen birinci hat savunma.",
+                           "t":  "Foseptik kuyu duvarları"
+                       },
+                       {
+                           "d":  "En sık sızıntı yaşanan kritik noktalar.",
+                           "t":  "Hat birleşim noktaları"
+                       },
+                       {
+                           "d":  "Çevre toprağına atıksu sızmasını engelleme.",
+                           "t":  "Rögar iç duvarları"
+                       },
+                       {
+                           "d":  "Yapı temelini su ve nemden koruma.",
+                           "t":  "Bodrum ve yer altı temel duvarları"
+                       }
+                   ],
+        "name":  "İzolasyon Hizmetleri",
+        "specialBody":  "Foseptik ve atıksu yapılarında sızıntı toprak ve yer altı suyuna kontaminasyon yaratır; hem ekolojik hem yasal sorun. Profesyonel izolasyon ile bu yapıların sızdırmazlığı sağlanır; çevreye saygılı, yönetmelik uyumlu sistem oluşur."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, en uygun yenileme yaklaşımını birlikte belirleyelim. Aramanız yeter.",
+        "intro2":  "20 yıldır drenaj hattı yenileme yapıyoruz; bahçeli evlerden site komplekslerine, çiftlik arazilerinden ticari tesislere kadar deneyimimiz yüksek. Mevcut sistemi inceliyor, en uygun modernleme yaklaşımını öneriyoruz.",
+        "signsTip":  "Sadece eski hattı aynı boyutta yenilemek yetmez; bugünün ve geleceğin ihtiyaçlarına göre kapasite hesabı şart.",
+        "specialTitle":  "Site ve Geniş Arazili Yapılarda Toplu Yenileme Programı",
+        "intro1":  "Drenaj hatları zamanla yıpranır, kapasitesi yetersiz hale gelir veya tamamen tıkanır. Yenileme yatırımı yapısal sorunları, peyzaj zararını ve sürekli bakım maliyetini ortadan kaldırır. Modern sistemle uzun yıllar rahat su yönetimi sağlanır.",
+        "closingTitle":  "Yenileme = Sonraki 50 Yıl Rahatlık",
+        "bonusTitle":  "Modern İklim Koşullarına Uygun Tasarım",
+        "methodsIntro":  "Yöntem seçeneklerimiz:",
+        "signsTitle":  "Yenileme Tasarımının Unsurları",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da drenaj hattı yenileme — eski drenaj sistemi modernleme, kapasite artırma, sızdırmazlık. 0552 007 60 34",
+        "signsBody":  "Doğru kapasite hesabı, modern boru malzemesi (PVC, HDPE), uygun eğim, yeterli sayıda kontrol noktası, son nokta tahliyesi — yeni sistem tasarımının kritik unsurları.",
+        "faqs":  [
+                     {
+                         "a":  "Kameralı tespit ile karar veriyoruz; eğer hattın geneli sorunsuz, sadece bir nokta sürekli tıkanıyorsa nokta tamiri yetiyor. Yaygın yıpranma varsa yenileme öneriyoruz.",
+                         "q":  "Drenajım sürekli tıkanıyor, sadece temizlik mi yenileme mi gerekli?"
+                     },
+                     {
+                         "a":  "Hat uzunluğu ve yöntem seçimine göre 3-15 günlük iş. Klasik kazı uzun, modern kazısız yöntemler hızlı. Keşif sonrası net süre.",
+                         "q":  "Yenileme süresi ne kadar?"
+                     },
+                     {
+                         "a":  "Klasik kazıda peyzaj geçici bozulur ama iş sonrası restore ediliyor. Pipe bursting veya kazısız yöntemlerde minimum bozulma. Yöntem seçiminde peyzaj koruması da değerlendiriyoruz.",
+                         "q":  "Bahçemde yenileme bahçeye zarar verir mi?"
+                     },
+                     {
+                         "a":  "Komple yenileme için 5-10 yıl yazılı garanti; modern PVC/HDPE boruların nominal ömrü 50+ yıl olduğu için garantiyi rahat veriyoruz.",
+                         "q":  "Yenileme garanti süresi?"
+                     }
+                 ],
+        "introTitle":  "Drenaj Hattı Yenileme Hizmetimiz",
+        "causesTitle":  "Drenaj Hattı Yenileme Ne Zaman Gerekli?",
+        "methodsTitle":  "Hat Yenileme Yöntemlerimiz",
+        "causesIntro":  "Yenileme zorunluluğu yaratan durumlar:",
+        "keywords":  "drenaj hattı yenileme, drenaj sistemi yenileme, eski drenaj değişim",
+        "bonusBody":  "İklim değişikliği ile şiddetli yağışlar artıyor; eski drenaj kapasiteleri yetersiz kalabiliyor. Yenileme tasarımında geleceğin yağış senaryolarını göz önünde bulunduruyoruz; sistem 30-50 yıl sonraki şartlara da hazırlıklı.",
+        "closingBody":  "Yenileme yatırımı uzun vadede en ekonomik çözüm; tek tek nokta tamir maliyetlerinin toplamı genelde aşılır.",
+        "photo":  30,
+        "slug":  "drenaj-hatti-yenileme",
+        "h1":  "Drenaj Hattı Yenileme — Eski Sisteminize Komple Modernleme",
+        "heroLead":  "Yıpranmış drenaj hattınızı modern sistemle yenileyerek su yönetiminizi geleceğe taşıyoruz.",
+        "ctaTitle":  "Drenaj Sisteminizi Modernleştirelim",
+        "methods":  [
+                        {
+                            "d":  "Eski hattı kaldırıp yeni döşeme; en kapsamlı yöntem.",
+                            "t":  "Klasik kazı ve tam değişim"
+                        },
+                        {
+                            "d":  "Minimum yüzey kazısı.",
+                            "t":  "Pipe bursting (eski boruyu kırarak içinden geçirme)"
+                        },
+                        {
+                            "d":  "Bazı durumlarda kazısız iç onarım.",
+                            "t":  "Boru içi yenileme (CIPP)"
+                        },
+                        {
+                            "d":  "Mevcut hat üzerine paralel ek hat eklenmesi.",
+                            "t":  "Kapasite genişletme"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Defalarca temizlenip tekrar tıkanan hat; yapısal sorun var demek.",
+                           "t":  "Sürekli tıkanıklık"
+                       },
+                       {
+                           "d":  "Yapıdaki büyüme veya iklim değişiklikleri ile mevcut hat yetmiyor.",
+                           "t":  "Yetersiz kapasite"
+                       },
+                       {
+                           "d":  "Çatlak, çökme veya bağlantı kaçağı yaygın.",
+                           "t":  "Yapısal hasar"
+                       },
+                       {
+                           "d":  "30+ yıllık beton hatlar genelde aşınma sınırına yaklaşmış.",
+                           "t":  "Eski malzeme kullanım ömrü dolması"
+                       }
+                   ],
+        "name":  "Drenaj Hattı Yenileme",
+        "specialBody":  "Site veya geniş ortak alanlı yapılarda komple drenaj sistemi yenileme büyük proje; planlama, projelendirme, uygulama ve teslim aşamaları detaylı. Yönetim kuruluyla yakın koordinasyon, sakin bilgilendirme, geçici çözüm planlaması — sürecin her aşamasını yönetiyoruz."
+    },
+    {
+        "ctaBody":  "Cm hassasiyetinde tespit, kazısız çözüm. Aramanız yeter.",
+        "intro2":  "20 yıllık tecrübemizle modern tespit teknolojilerini birlikte kullanıyoruz: HD kamera, sinyal cihazı, akustik sızıntı dinleyici, termal kamera. Hangi sorun için hangi yöntem — bunu doğru bilmek önemli.",
+        "signsTip":  "Doğru tespit kazıdan önce; körlemesine kazı en pahalı çözüm. 1-2 saatlik tespit + minimum müdahale ile büyük tasarruf.",
+        "specialTitle":  "Müteahhit Garanti ve Sigorta için Profesyonel Belge",
+        "intro1":  "Kanalizasyon hattında sorun olduğunda \u0027\u0027nereyi açacağız\u0027\u0027 sorusu en pahalı sorudur. Yanlış noktaya kazı maliyet, zaman, peyzaj kaybı demek. Doğru tespit ile sadece sorunlu nokta açılır; hem maliyet düşer hem yapı korunur.",
+        "closingTitle":  "Doğru Teşhis Doğru Çözümü Getirir",
+        "bonusTitle":  "Yeni Yapı Öncesi Mevcut Altyapı Haritalama",
+        "methodsIntro":  "Sorun türüne göre yöntem:",
+        "signsTitle":  "Tespit Hizmeti Hangi Durumlarda Çağrılmalı?",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kanalizasyon arıza ve noktasal tespit — kameralı, sinyalli, akustik. cm hassasiyetinde. 0552 007 60 34",
+        "signsBody":  "Tekrarlayan tıkanıklık, açıklanamayan su sayaç düşmesi, bahçede beklenmedik ıslaklık, koku, yapı temelinde nem, yeni inşaat öncesi mevcut altyapı haritalama — hepsi tespit gerektiriyor.",
+        "faqs":  [
+                     {
+                         "a":  "Evet, akustik sızıntı dinleyici + termal kamera kombinasyonu ile cm hassasiyetinde tespit. Kazısız tespit, sonra minimum noktada onarım.",
+                         "q":  "Bahçemde sızıntı şüphesi var, tespit yapabilir misiniz?"
+                     },
+                     {
+                         "a":  "Tespit + krokili harita çıkarıyoruz. İnşaat sırasında nereye kazılmaması gerektiği net olur; mevcut altyapıya zarar vermeden çalışılır.",
+                         "q":  "Yeni inşaat yapacağım, mevcut altyapıyı görmem lazım?"
+                     },
+                     {
+                         "a":  "Standart tespit fiyatı küçük; ancak doğru teşhis sayesinde sonraki kazı, açma ve onarım maliyetlerinden çok tasarruf sağlıyor. Net fiyatı keşif sırasında söylüyoruz.",
+                         "q":  "Tespit fiyatı yüksek mi?"
+                     },
+                     {
+                         "a":  "Standart vakada 1-3 saat. Karmaşık veya geniş alanlar 4-8 saat. Keşif sırasında net süre ifade ediyoruz.",
+                         "q":  "Tespit ne kadar sürüyor?"
+                     }
+                 ],
+        "introTitle":  "Arıza ve Noktasal Tespit Uzmanlığımız",
+        "causesTitle":  "Hangi Sorunları Tespit Ediyoruz?",
+        "methodsTitle":  "Tespit Yöntemlerimiz",
+        "causesIntro":  "Tespit yapabildiğimiz sorun türleri:",
+        "keywords":  "kanalizasyon arıza tespiti, noktasal tespit, kanalizasyon kaçak tespiti, sızıntı tespiti",
+        "bonusBody":  "Yeni inşaat veya peyzaj projesi öncesi mevcut altyapıyı tam haritalamak çok değerli. İnşaat sırasında nereye kazılmaması gerektiği netleşiyor; mevcut sisteme zarar verilmeden çalışılıyor. Krokili rapor ile bu hizmeti standart sunuyoruz.",
+        "closingBody":  "20 yıllık tespit deneyimi + modern teknoloji = net sonuç. Kazıdan önce tespit, çözümden önce karar.",
+        "photo":  31,
+        "slug":  "ariza-noktasal-tespit",
+        "h1":  "Kanalizasyon Arıza ve Noktasal Tespit — cm Hassasiyetinde Sorun Bulma",
+        "heroLead":  "Kameralı, sinyalli ve akustik yöntemlerle kanalizasyon hattınızdaki arıza, kaçak ve sorun noktasını cm hassasiyetinde buluyoruz.",
+        "ctaTitle":  "Sorununuzun Yerini Bilmiyor musunuz?",
+        "methods":  [
+                        {
+                            "d":  "Boru içine kamera indirme + canlı görüntü ile tespit.",
+                            "t":  "HD kameralı görüntüleme"
+                        },
+                        {
+                            "d":  "Yer altındaki metalik boruyu sinyal ile bulma.",
+                            "t":  "Sinyal cihazı"
+                        },
+                        {
+                            "d":  "Sızıntı sesini hassas dedektörle dinleme.",
+                            "t":  "Akustik sızıntı dinleyicisi"
+                        },
+                        {
+                            "d":  "Sıcak su kaçağında ısı farkı görüntüleme.",
+                            "t":  "Termal kamera"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Boru kırığı yerini cm hassasiyetinde tespit.",
+                           "t":  "Kanalizasyon hattı kırığı"
+                       },
+                       {
+                           "d":  "Yer altı sızıntısının tam noktası.",
+                           "t":  "Sızıntı ve kaçak"
+                       },
+                       {
+                           "d":  "Hat boyunca tıkanıklığın yeri ve nedeni.",
+                           "t":  "Tıkanıklık yeri ve türü"
+                       },
+                       {
+                           "d":  "Boru çökmesi veya deformasyonu noktası.",
+                           "t":  "Çökme ve yapısal sorun"
+                       }
+                   ],
+        "name":  "Kanalizasyon Arıza ve Noktasal Tespit",
+        "specialBody":  "Tespit sonrası fotoğraflı + krokili profesyonel rapor hazırlıyoruz. Müteahhit garanti süreci, bina sigortası tazminatı veya hak arama sürecinde kabul edilen belgeler. Mevcut altyapı durumunun kayıt altına alınması da değerli; ileride komşu yıkım veya kazı durumlarında karşılaştırma referansı."
+    },
+    {
+        "ctaBody":  "Kontrollü, hassas, atık yönetimli iş. Aramanız yeter.",
+        "intro2":  "20 yıldır beton kırma yapıyoruz; küçük noktasal kırmadan büyük altyapı projelerine kadar deneyimimiz yüksek. Kontrollü ekipman, atık yönetimi, çevre güvenliği, son rötuş teslimi — kalitenin temelleri.",
+        "signsTip":  "Amatör beton kırma çevre yapıya çatlama, su sızıntısı veya yapısal hasar verebilir; profesyonel iş şart.",
+        "specialTitle":  "Bina İçi ve Hassas Çevre Beton Kırma",
+        "intro1":  "Bazı altyapı sorunlarında beton kırma kaçınılmazdır — eski kanalizasyon hattının yeniden döşenmesi, yer altı boru tamiri, drenaj yenileme. Profesyonel beton kırma, gerekli minimumda kazı ile çözüm sağlar; çevre yapı korunur, atık doğru toplanır, son rütuş yapılır.",
+        "closingTitle":  "Profesyonel Kırma = Net Çözüm",
+        "bonusTitle":  "Beton Kırma Sonrası Atık Toplama ve Tahliye",
+        "methodsIntro":  "Uygulama tipi ve duruma göre yöntem:",
+        "signsTitle":  "Profesyonel Beton Kırmada Önemli Noktalar",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da kontrollü beton kırma — kanalizasyon ve altyapı müdahaleleri için profesyonel kazı + kırma. 0552 007 60 34",
+        "signsBody":  "Doğru ekipman seçimi (elektrikli veya pnömatik kırıcı), gürültü ve toz kontrolü, çevre yapıya hasar vermeme, atığın doğru toplanması, son rötuş için hazırlık — başarılı uygulamanın unsurları.",
+        "faqs":  [
+                     {
+                         "a":  "Profesyonel ekipmanımız standart kırıcılardan çok daha sessiz; ayrıca toz kontrol sistemi var. Yine de kısa süreli (saatlik) gürültü kaçınılmaz; site veya komşulara önceden bilgi vermeyi standart yapıyoruz.",
+                         "q":  "Beton kırma çok gürültülü olur mu?"
+                     },
+                     {
+                         "a":  "Toz kontrol sistemi ile minimum toz; çevre yapı ve eşyalar koruyucu örtü altında. İş sonrası temizlik bizim sorumluluğumuz; sizin için ek iş çıkmıyor.",
+                         "q":  "Bina içinde kırma ne kadar tozlu olur?"
+                     },
+                     {
+                         "a":  "Evet, kırma + kazı + altyapı işi + beton dökümü + son rütuş komple paket olarak veriyoruz. Tek bir yerden komple çözüm.",
+                         "q":  "Kırma sonrası beton dökümü de yapıyor musunuz?"
+                     },
+                     {
+                         "a":  "Hassas çevre çalışma uzmanlığımız yüksek. Koruyucu örtü, sessiz ekipman, hassas teknik ile çevre korunarak çalışıyoruz. 20 yıllık deneyim güvencesi.",
+                         "q":  "Hassas çevrem var (lüks peyzaj, butik mekan), korunur mu?"
+                     }
+                 ],
+        "introTitle":  "Beton Kırma Hizmetimiz",
+        "causesTitle":  "Beton Kırma Hangi Durumlarda Gerekiyor?",
+        "methodsTitle":  "Beton Kırma Yöntemlerimiz",
+        "causesIntro":  "Kırma gerekliliği yaratan durumlar:",
+        "keywords":  "beton kırma, beton kırıcı, kontrollü kırma, kazı kırma, altyapı kırma",
+        "bonusBody":  "Kırma sonrası beton ve moloz atığı doğru toplanmalı; çevreye saçılmamalı, belediye onaylı atık alanına götürülmeli. Bu sürecin tamamı bizim sorumluluğumuz; atık tahliyesi için ek ücret talep etmiyoruz, paket fiyatımıza dahil.",
+        "closingBody":  "Doğru ekipman + deneyim + atık yönetimi. Beton kırma işiniz emin ellerde.",
+        "photo":  32,
+        "slug":  "beton-kirma",
+        "h1":  "Beton Kırma — Altyapı Müdahalelerine Profesyonel Kazı",
+        "heroLead":  "Kanalizasyon ve altyapı müdahalelerinde gereken kontrollü beton kırma + minimum hasarla çözüm.",
+        "ctaTitle":  "Altyapı için Beton Kırma Gereksinimi",
+        "methods":  [
+                        {
+                            "d":  "Konut içi noktasal kırma için ideal; kontrollü, az gürültülü.",
+                            "t":  "Elektrikli kırıcı (küçük-orta iş)"
+                        },
+                        {
+                            "d":  "Geniş alan veya kalın beton kırmada güçlü çözüm.",
+                            "t":  "Pnömatik kırıcı (büyük iş)"
+                        },
+                        {
+                            "d":  "Düzgün kenar gerektiren işlerde elmaslı testere.",
+                            "t":  "Diamond saw (hassas kesim)"
+                        },
+                        {
+                            "d":  "Çok sert beton veya derin yapı için profesyonel patlatma; sadece izinli durumlarda.",
+                            "t":  "Kontrollü patlatma (özel projeler)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Boru üstüne dökülmüş beton zemini kırmak.",
+                           "t":  "Yer altı boru tamiri/değişimi"
+                       },
+                       {
+                           "d":  "Mevcut zemine yeni altyapı geçirmek.",
+                           "t":  "Yeni hat döşemesi"
+                       },
+                       {
+                           "d":  "Eski beton sistemlerin değişimi.",
+                           "t":  "Eski yapı modernleme"
+                       },
+                       {
+                           "d":  "Mevcut beton zemine yeni kuyu kazısı.",
+                           "t":  "Drenaj kuyusu açımı"
+                       }
+                   ],
+        "name":  "Beton Kırma",
+        "specialBody":  "Bina içinde veya hassas çevrede (lüks villa, butik mekan, tarihi yapı) beton kırma özel hassasiyet ister. Toz kontrol sistemi, gürültü yalıtımı, koruyucu örtü, çevre yapı koruma standartlarımız var. İş bitiminde etrafı tertemiz teslim ediyoruz."
+    },
+    {
+        "ctaBody":  "Keşif yapalım, projenize özel teklif sunalım. Aramanız yeter.",
+        "intro2":  "Profesyonel kazı ekipmanlarımız (mini ekskavatör, jack hammer, pneumatik kırıcı) ile küçük bahçe kazısından büyük altyapı projesine kadar her ölçekte deneyimliyiz. Hafriyat çıkışı belediye onaylı tesise götürülüyor; çevre uyumlu süreç.",
+        "signsTip":  "Kazı öncesi mevcut altyapı haritalama şart; yanlış noktaya kazı mevcut sisteme zarar verebilir, hatta yangın/patlama riski oluşturur.",
+        "specialTitle":  "Hafriyat Tahliyesi ve Çevre Yönetimi",
+        "intro1":  "Altyapı projelerinin çoğunda kazı işi belirleyici aşama. Doğru kazı; doğru derinlikte, doğru rotada, hassas çevre korumalı yapılır. Yanlış kazı yapı temelinden çevreye zarar uzanan büyük problemler yaratır. Profesyonel hafriyat 20 yıllık deneyim gerektiriyor.",
+        "closingTitle":  "Doğru Kazı = Başarılı Altyapı",
+        "bonusTitle":  "Peyzaj Korumalı Kazı Hizmeti",
+        "methodsIntro":  "Proje ölçeği ve alana göre:",
+        "signsTitle":  "Profesyonel Kazıda Önemli Noktalar",
+        "metaDesc":  "İstanbul\u0027\u0027\u0027\u0027da hafriyat ve kazı işleri — kanalizasyon, drenaj, foseptik için profesyonel kazı + hafriyat tahliyesi. 0552 007 60 34",
+        "signsBody":  "Doğru ekipman seçimi (alan ölçeğine göre), yer altı engel kontrolü (mevcut boru, kablo), uygun derinlik, çevre yapıya zarar vermeme, hafriyat doğru toplanması ve tahliyesi — kalite unsurları.",
+        "faqs":  [
+                     {
+                         "a":  "Profesyonel kazı ekipmanı + hassas çalışma teknik ile peyzaj minimum bozulur; iş sonrası restore edilir. Lüks peyzaj sahipleri için özel hassasiyet.",
+                         "q":  "Bahçemde kazı yapacağım, peyzajım korunur mu?"
+                     },
+                     {
+                         "a":  "Belediye onaylı atık alanlarına götürüyoruz; çevreye uyumlu, yasal süreç. İmzalı tahliye belgesi talep ederseniz veriyoruz.",
+                         "q":  "Hafriyat çıkışı nereye gidiyor?"
+                     },
+                     {
+                         "a":  "Proje ölçeğine göre değişir. Küçük bahçe kazısı (10-30 m³) 1-2 günlük iş; büyük altyapı projesi 1-2 hafta. Keşif sonrası net süre veriyoruz.",
+                         "q":  "Kazı süresi ne kadar?"
+                     },
+                     {
+                         "a":  "Kazı öncesi tespit yapıyoruz; sinyal cihazı + kameralı kontrol ile mevcut altyapı haritalanıyor. Ardından güvenli kazı planlanıyor.",
+                         "q":  "Yer altında mevcut altyapım var mı, nasıl bulunur?"
+                     }
+                 ],
+        "introTitle":  "Hafriyat ve Kazı Hizmetimiz",
+        "causesTitle":  "Hafriyat ve Kazı Hangi Projelerde?",
+        "methodsTitle":  "Kazı Yöntemlerimiz",
+        "causesIntro":  "Yaygın projeler:",
+        "keywords":  "hafriyat, kazı işleri, hafriyat tahliyesi, kanalizasyon kazı, altyapı kazı",
+        "bonusBody":  "Lüks villa veya site peyzajına saygılı çalışma uzmanlığımız var. Çiçek, çim, ağaç korunarak kazı yapılır; iş sonrası peyzaj eski hâline geri dönüyor. Site yönetimleri ve villa sahipleri bunu takdir ediyor.",
+        "closingBody":  "20 yıllık kazı deneyimi + profesyonel ekipman + çevre uyumlu süreç. Projenizin ilk adımı emin ellerde.",
+        "photo":  33,
+        "slug":  "hafriyat-kazi",
+        "h1":  "Hafriyat ve Kazı İşleri — Altyapı Projelerine Komple Kazı Çözümü",
+        "heroLead":  "Kanalizasyon, drenaj, foseptik projeleriniz için profesyonel kazı + hafriyat tahliyesi tek elden.",
+        "ctaTitle":  "Altyapı Projeniz için Kazı İhtiyacı",
+        "methods":  [
+                        {
+                            "d":  "Küçük-orta ölçek bahçe ve yapı kazısı için ideal.",
+                            "t":  "Mini ekskavatör"
+                        },
+                        {
+                            "d":  "Büyük ölçek altyapı projeleri için.",
+                            "t":  "Standart ekskavatör"
+                        },
+                        {
+                            "d":  "Hassas çevre veya küçük noktasal işlerde.",
+                            "t":  "Manuel kazı"
+                        },
+                        {
+                            "d":  "Yüzey kazısız tünel açma; özel projeler.",
+                            "t":  "Köstebek (yatay sondaj)"
+                        }
+                    ],
+        "causes":  [
+                       {
+                           "d":  "Yeni hat veya değişim için zemin kazısı.",
+                           "t":  "Kanalizasyon hattı döşeme/yenileme"
+                       },
+                       {
+                           "d":  "Bireysel atık ve drenaj sistemleri için kazı.",
+                           "t":  "Foseptik çukuru ve drenaj kuyusu açımı"
+                       },
+                       {
+                           "d":  "Yağmur suyu yönlendirme kanalları.",
+                           "t":  "Drenaj kanalı çekimi"
+                       },
+                       {
+                           "d":  "Yapı temeli onarımı veya su yalıtımı için kazı.",
+                           "t":  "Bina temel altı müdahale"
+                       }
+                   ],
+        "name":  "Hafriyat ve Kazı İşleri",
+        "specialBody":  "Çıkan hafriyat doğru toplanmalı, gerektiğinde geri doldurma için ayrılmalı, kalanı belediye onaylı atık alanına götürülmeli. Bu sürecin tamamı bizim sorumluluğumuz; çevre uyumlu, yasal süreç. Hafriyat tahliyesi paket fiyatımıza dahil; ek ücret yok."
+    }
+]

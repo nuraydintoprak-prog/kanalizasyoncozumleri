@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>İlçelerimiz — İstanbul'un 38 İlçesinde 7/24 Hizmet | Kanalizasyon Çözümleri</title>
+<meta name="description" content="Adalar hariç İstanbul'un 38 ilçesinin tamamında 7/24 kanalizasyon, gider ve lavabo açma hizmeti. Avrupa yakasında 25, Anadolu yakasında 13 ilçe. Ortalama varış 30 dakika." />
+<meta name="keywords" content="istanbul ilçe kanalizasyon, kanalizasyon açma istanbul ilçeler, hizmet bölgeleri, avrupa anadolu yakası" />
+<link rel="canonical" href="https://kanalizasyoncozumleri.com.tr/ilceler/" />
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="İlçelerimiz — Kanalizasyon Çözümleri" />
+<meta property="og:description" content="İstanbul'un 38 ilçesinde 7/24 hizmet veriyoruz." />
+<meta property="og:url" content="https://kanalizasyoncozumleri.com.tr/ilceler/" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/css/style.css" />
+<link rel="icon" type="image/svg+xml" href="../assets/logo.svg" />
+
+<style>
+  /* Page-specific helpers */
+  .yaka-block { display: grid; grid-template-columns: 0.85fr 1.4fr; gap: 40px; align-items: center; }
+  .yaka-visual {
+    position: relative; border-radius: var(--radius-lg); overflow: hidden;
+    aspect-ratio: 4/5; box-shadow: var(--shadow-lg);
+  }
+  .yaka-visual img, .yaka-visual picture { width: 100%; height: 100%; display: block; object-fit: cover; }
+  .yaka-visual::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(180deg, transparent 55%, rgba(11,36,71,0.78));
+    pointer-events: none;
+  }
+  .yaka-tag {
+    position: absolute; left: 18px; bottom: 18px; right: 18px;
+    color: #fff; z-index: 1;
+  }
+  .yaka-tag .num { font-family: var(--font-display); font-weight: 800; font-size: 2.6rem; line-height: 1; color: var(--orange-light); }
+  .yaka-tag .lbl { font-size: 0.95rem; opacity: 0.92; margin-top: 4px; }
+  .yaka-text .eyebrow { color: var(--orange); }
+  .yaka-text h2 { margin-bottom: 14px; }
+  .yaka-text p { margin-bottom: 20px; }
+  .yaka-stats {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px;
+    margin: 24px 0 28px;
+  }
+  .yaka-stat {
+    background: #fff; border: 1px solid var(--border); border-radius: var(--radius-sm);
+    padding: 14px 16px;
+  }
+  .yaka-stat .n { font-family: var(--font-display); font-weight: 800; font-size: 1.4rem; color: var(--orange); line-height: 1; }
+  .yaka-stat .l { font-size: 0.8rem; color: var(--text-soft); margin-top: 4px; }
+  .section-soft .yaka-stat { background: #fff; }
+
+  .arrival-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
+  .arrival-card {
+    background: #fff; border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 24px; box-shadow: var(--shadow-sm);
+    border-top: 4px solid var(--orange);
+  }
+  .arrival-card .time { font-family: var(--font-display); font-weight: 800; color: var(--orange); font-size: 1.6rem; line-height: 1; margin-bottom: 8px; }
+  .arrival-card h3 { font-size: 1.05rem; margin-bottom: 8px; }
+  .arrival-card p { font-size: 0.92rem; margin-bottom: 0; }
+  .arrival-card ul { margin: 8px 0 0; padding: 0; list-style: none; font-size: 0.88rem; color: var(--text-soft); }
+  .arrival-card ul li { padding: 3px 0; }
+
+  @media (max-width: 880px) {
+    .yaka-block { grid-template-columns: 1fr; }
+    .yaka-visual { aspect-ratio: 16/10; max-width: 520px; margin: 0 auto; }
+    .yaka-stats { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 520px) {
+    .yaka-stats { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="../index.html" class="brand">
+      <img src="../assets/logo.svg" alt="Kanalizasyon Çözümleri logo" width="42" height="42" />
+      <span class="brand-text">Kanalizasyon Çözümleri<small>İstanbul · 7/24</small></span>
+    </a>
+    <nav class="nav" aria-label="Ana menü">
+      <a href="../index.html">Ana Sayfa</a>
+      <a href="../hizmetler.html">Hizmetler</a>
+      <a href="index.html">İlçelerimiz</a>
+      <a href="../hakkimizda.html">Hakkımızda</a>
+      <a href="../sss.html">S.S.S.</a>
+      <a href="../iletisim.html">İletişim</a>
+    </nav>
+    <div class="header-cta">
+      <a href="tel:+905520076034" class="header-tel"><span class="pulse"></span><span class="tel-label">0552 007 60 34</span></a>
+      <a href="../iletisim.html" class="btn btn-primary">Ücretsiz Keşif</a>
+      <button class="menu-toggle" aria-label="Menüyü aç" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../index.html">Ana Sayfa</a><span>›</span>
+      İlçelerimiz
+    </div>
+    <h1>İstanbul'un 38 İlçesinde Hizmetinizdeyiz</h1>
+    <p>Avrupa yakasının ucundan Anadolu yakasının ucuna — Çatalca'dan Şile'ye, Silivri'den Tuzla'ya. Adalar hariç tüm İstanbul ilçelerinde 7/24 ekibimiz dönüşümlü olarak konumlanıyor.</p>
+  </div>
+</section>
+
+<section class="trust-strip">
+  <div class="container">
+    <div class="trust-grid">
+      <div class="trust-item">
+        <div class="num">38</div>
+        <div class="lbl"><strong>İlçede Hizmet</strong>Adalar hariç tümü</div>
+      </div>
+      <div class="trust-item">
+        <div class="num">25</div>
+        <div class="lbl"><strong>Avrupa Yakası</strong>Çatalca'dan Şişli'ye</div>
+      </div>
+      <div class="trust-item">
+        <div class="num">13</div>
+        <div class="lbl"><strong>Anadolu Yakası</strong>Üsküdar'dan Şile'ye</div>
+      </div>
+      <div class="trust-item">
+        <div class="num">30dk</div>
+        <div class="lbl"><strong>Ortalama Varış</strong>Merkez ilçelerde</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- AVRUPA YAKASI -->
+<section class="section">
+  <div class="container">
+    <div class="yaka-block">
+      <div class="yaka-visual">
+        <picture>
+          <source srcset="../assets/img/kanalizasyon-020.avif" type="image/avif" />
+          <img src="../assets/img/kanalizasyon-020.avif" alt="Avrupa yakasında saha ekibimiz" loading="lazy" decoding="async" />
+        </picture>
+        <div class="yaka-tag">
+          <div class="num">25</div>
+          <div class="lbl">Avrupa Yakası ilçesi</div>
+        </div>
+      </div>
+      <div class="yaka-text">
+        <span class="eyebrow">Avrupa Yakası</span>
+        <h2>25 İlçede Aktif Saha Ekibi</h2>
+        <p>Çatalca ve Silivri'nin ucundan Beyoğlu ve Şişli'nin merkezine kadar tüm Avrupa yakasında dönüşümlü olarak ekip bulunduruyoruz. Eski Fatih apartmanlarından yeni Başakşehir sitelerine, hem yapı tipi hem altyapı çeşitliliği yüksek.</p>
+        <div class="yaka-stats">
+          <div class="yaka-stat"><div class="n">25</div><div class="l">İlçe</div></div>
+          <div class="yaka-stat"><div class="n">8</div><div class="l">Aktif Araç</div></div>
+          <div class="yaka-stat"><div class="n">25dk</div><div class="l">Ort. Varış</div></div>
+        </div>
+        <div class="district-grid">
+          <a href="arnavutkoy.html">Arnavutköy</a>
+          <a href="avcilar.html">Avcılar</a>
+          <a href="bagcilar.html">Bağcılar</a>
+          <a href="bahcelievler.html">Bahçelievler</a>
+          <a href="bakirkoy.html">Bakırköy</a>
+          <a href="basaksehir.html">Başakşehir</a>
+          <a href="bayrampasa.html">Bayrampaşa</a>
+          <a href="besiktas.html">Beşiktaş</a>
+          <a href="beylikduzu.html">Beylikdüzü</a>
+          <a href="beyoglu.html">Beyoğlu</a>
+          <a href="buyukcekmece.html">Büyükçekmece</a>
+          <a href="catalca.html">Çatalca</a>
+          <a href="esenler.html">Esenler</a>
+          <a href="esenyurt.html">Esenyurt</a>
+          <a href="eyupsultan.html">Eyüpsultan</a>
+          <a href="fatih.html">Fatih</a>
+          <a href="gaziosmanpasa.html">Gaziosmanpaşa</a>
+          <a href="gungoren.html">Güngören</a>
+          <a href="kagithane.html">Kâğıthane</a>
+          <a href="kucukcekmece.html">Küçükçekmece</a>
+          <a href="sariyer.html">Sarıyer</a>
+          <a href="silivri.html">Silivri</a>
+          <a href="sisli.html">Şişli</a>
+          <a href="sultangazi.html">Sultangazi</a>
+          <a href="zeytinburnu.html">Zeytinburnu</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ANADOLU YAKASI -->
+<section class="section section-soft">
+  <div class="container">
+    <div class="yaka-block" style="grid-template-columns: 1.4fr 0.85fr;">
+      <div class="yaka-text">
+        <span class="eyebrow">Anadolu Yakası</span>
+        <h2>13 İlçede Aktif Saha Ekibi</h2>
+        <p>Üsküdar'ın kıyısından Şile'nin köy mahallelerine kadar Anadolu yakasının her noktasına ulaşıyoruz. Kadıköy ve Ataşehir gibi merkezlerde dakikalar içindeyiz; Tuzla ve Şile'ye uzandığımızda da varış süremiz net ve şeffaf.</p>
+        <div class="yaka-stats">
+          <div class="yaka-stat"><div class="n">13</div><div class="l">İlçe</div></div>
+          <div class="yaka-stat"><div class="n">4</div><div class="l">Aktif Araç</div></div>
+          <div class="yaka-stat"><div class="n">28dk</div><div class="l">Ort. Varış</div></div>
+        </div>
+        <div class="district-grid">
+          <a href="atasehir.html">Ataşehir</a>
+          <a href="beykoz.html">Beykoz</a>
+          <a href="cekmekoy.html">Çekmeköy</a>
+          <a href="kadikoy.html">Kadıköy</a>
+          <a href="kartal.html">Kartal</a>
+          <a href="maltepe.html">Maltepe</a>
+          <a href="pendik.html">Pendik</a>
+          <a href="sancaktepe.html">Sancaktepe</a>
+          <a href="sile.html">Şile</a>
+          <a href="sultanbeyli.html">Sultanbeyli</a>
+          <a href="tuzla.html">Tuzla</a>
+          <a href="umraniye.html">Ümraniye</a>
+          <a href="uskudar.html">Üsküdar</a>
+        </div>
+      </div>
+      <div class="yaka-visual">
+        <picture>
+          <source srcset="../assets/img/kanalizasyon-028.avif" type="image/avif" />
+          <img src="../assets/img/kanalizasyon-028.avif" alt="Anadolu yakasında saha ekibimiz" loading="lazy" decoding="async" />
+        </picture>
+        <div class="yaka-tag">
+          <div class="num">13</div>
+          <div class="lbl">Anadolu Yakası ilçesi</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- VARIŞ SÜRELERİ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Varış Süreleri</span>
+      <h2>Adresinize Ne Kadar Sürede Geliyoruz?</h2>
+      <p>Trafik durumuna göre değişmekle birlikte, ilçenizin merkeze uzaklığına göre ortalama varış sürelerimiz aşağıda. Operatörümüz aramanızdan sonra net süreyi söyler.</p>
+    </div>
+
+    <div class="arrival-grid">
+      <div class="arrival-card">
+        <div class="time">20-30 dk</div>
+        <h3>Merkez İlçeler</h3>
+        <p>Sürekli ekip bulunan, en hızlı ulaştığımız ilçeler.</p>
+        <ul>
+          <li>• Beşiktaş</li>
+          <li>• Şişli</li>
+          <li>• Kadıköy</li>
+          <li>• Üsküdar</li>
+          <li>• Fatih</li>
+        </ul>
+      </div>
+      <div class="arrival-card">
+        <div class="time">25-35 dk</div>
+        <h3>Yakın Çevre</h3>
+        <p>Merkeze yakın, yoğun ekip bulunan ilçeler.</p>
+        <ul>
+          <li>• Bakırköy</li>
+          <li>• Beyoğlu</li>
+          <li>• Ataşehir</li>
+          <li>• Maltepe</li>
+          <li>• Bağcılar</li>
+        </ul>
+      </div>
+      <div class="arrival-card">
+        <div class="time">30-45 dk</div>
+        <h3>Dış Halka</h3>
+        <p>Şehir dışına yakın ama yoğun nüfuslu ilçeler.</p>
+        <ul>
+          <li>• Başakşehir</li>
+          <li>• Pendik</li>
+          <li>• Tuzla</li>
+          <li>• Esenyurt</li>
+          <li>• Sancaktepe</li>
+        </ul>
+      </div>
+      <div class="arrival-card">
+        <div class="time">45-60 dk</div>
+        <h3>Uç İlçeler</h3>
+        <p>Şehrin uç noktasındaki, daha düşük yoğunluklu ilçeler.</p>
+        <ul>
+          <li>• Çatalca</li>
+          <li>• Silivri</li>
+          <li>• Şile</li>
+          <li>• Arnavutköy</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ADALAR -->
+<section class="section section-soft">
+  <div class="container article">
+    <div class="article-body">
+
+      <h2>Her İlçeye Özel Sayfa, Her İlçenin Kendi Hikâyesi</h2>
+      <p>İstanbul'un her ilçesi farklı bir profile sahip. Eski apartman yoğunluklu Fatih ile yeni site yoğunluklu Başakşehir'in altyapı sorunları aynı değil. Sahil hattındaki Beşiktaş ile orman içindeki Şile'de karşılaştığımız tıkanıklık tipleri farklı. Bu yüzden her ilçeye <strong>kendi sayfasını</strong> hazırladık: o ilçedeki yaygın sorunları, mahalle listemizi, ortalama varış sürelerini, ilçeye özel ipuçlarını orada bulacaksınız.</p>
+
+      <h2>Hizmet Vermediğimiz Tek Yer: Adalar</h2>
+      <p>Büyükada, Heybeliada, Burgazada, Kınalıada gibi adalar lojistik kısıtlardan dolayı hizmet kapsamımız dışında. Adalar'da bulunuyorsanız bağlı bulunduğunuz belediyenin teknik birimini ya da deniz aşırı taşımalı ada-spesifik firmaları aramanızı öneririz.</p>
+
+      <div class="callout">
+        <strong>Hangi ilçedeyseniz, ekibimiz oraya gelir.</strong>
+        <p style="margin: 6px 0 0;">Adresinize en yakın ekibi yönlendiriyoruz — Avrupa veya Anadolu yakası fark etmez, ortalama 30 dakika içinde kapınızdayız.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="cta-banner">
+      <div>
+        <h2>İlçenize özel bilgileri öğrenin</h2>
+        <p>Ya da daha hızlısı: telefonu açın, sahaya en yakın ekibimizi yönlendirelim.</p>
+      </div>
+      <a href="tel:+905520076034" class="btn btn-light">📞 0552 007 60 34</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="../index.html" class="brand">
+          <img src="../assets/logo.svg" alt="Kanalizasyon Çözümleri" width="42" height="42" />
+          <span class="brand-text" style="color:#fff;">Kanalizasyon Çözümleri<small>İstanbul · 7/24</small></span>
+        </a>
+        <p>İstanbul genelinde 20 yıllık tecrübeyle kanalizasyon, gider, lavabo ve klozet açma hizmeti veriyoruz.</p>
+      </div>
+      <div>
+        <h4>Hizmetler</h4>
+        <ul>
+          <li><a href="../hizmetler/kanalizasyon-acma.html">Kanalizasyon Açma</a></li>
+          <li><a href="../hizmetler/gider-acma.html">Gider Açma</a></li>
+          <li><a href="../hizmetler/lavabo-acma.html">Lavabo Açma</a></li>
+          <li><a href="../hizmetler/tuvalet-acma.html">Tuvalet Açma</a></li>
+          <li><a href="../hizmetler/rogar-acma.html">Rögar Açma</a></li>
+          <li><a href="../hizmetler/foseptik-temizligi.html">Foseptik Temizliği</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Popüler İlçeler</h4>
+        <ul>
+          <li><a href="kadikoy.html">Kadıköy</a></li>
+          <li><a href="besiktas.html">Beşiktaş</a></li>
+          <li><a href="uskudar.html">Üsküdar</a></li>
+          <li><a href="fatih.html">Fatih</a></li>
+          <li><a href="sisli.html">Şişli</a></li>
+          <li><a href="atasehir.html">Ataşehir</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>İletişim</h4>
+        <ul>
+          <li><a href="tel:+905520076034">📞 0552 007 60 34</a></li>
+          <li><a href="https://wa.me/905520076034">💬 WhatsApp</a></li>
+          <li>📍 İstanbul (38 ilçe)</li>
+          <li>⏰ 7/24 Açığız</li>
+          <li><a href="../kvkk.html">KVKK & Gizlilik</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© <span data-year>2026</span> Kanalizasyon Çözümleri. Tüm hakları saklıdır.</div>
+      <div>İstanbul'un her ilçesinde, 7/24 hizmetinizdeyiz.</div>
+    </div>
+  </div>
+</footer>
+
+<div class="fab-stack" aria-label="Hızlı iletişim">
+  <a class="fab wa" href="https://wa.me/905520076034" aria-label="WhatsApp ile yaz" rel="noopener">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.768.967-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.71.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413"/></svg>
+  </a>
+  <a class="fab tel" href="tel:+905520076034" aria-label="Telefonla ara">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92Z"/></svg>
+  </a>
+</div>
+
+<script src="../assets/js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_generate/
+
+Sitemap: https://kanalizasyoncozumleri.com.tr/sitemap.xml

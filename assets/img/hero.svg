@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="h-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2447"/>
+      <stop offset="100%" stop-color="#19376D"/>
+    </linearGradient>
+    <linearGradient id="h-orange" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF8A3D"/>
+      <stop offset="100%" stop-color="#F76C0C"/>
+    </linearGradient>
+    <radialGradient id="h-glow" cx="0.7" cy="0.2" r="0.6">
+      <stop offset="0%" stop-color="rgba(247,108,12,0.35)"/>
+      <stop offset="100%" stop-color="rgba(247,108,12,0)"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="rgba(255,255,255,0.08)"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="800" fill="url(#h-bg)"/>
+  <rect width="640" height="800" fill="url(#h-glow)"/>
+  <rect width="640" height="800" fill="url(#dots)"/>
+
+  <g opacity="0.9">
+    <rect x="40" y="120" width="80" height="560" rx="40" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+    <rect x="60" y="140" width="40" height="520" rx="20" fill="rgba(255,255,255,0.04)"/>
+    <circle cx="80" cy="200" r="6" fill="url(#h-orange)"/>
+    <circle cx="80" cy="240" r="6" fill="rgba(247,108,12,0.6)"/>
+    <circle cx="80" cy="280" r="6" fill="rgba(247,108,12,0.4)"/>
+  </g>
+
+  <g transform="translate(180,180)">
+    <rect width="420" height="240" rx="20" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+    <g transform="translate(40,40)" stroke="#FF8A3D" stroke-width="6" stroke-linecap="round" fill="none">
+      <path d="M0 80 Q60 0 120 80 T240 80 T340 80"/>
+      <circle cx="0" cy="80" r="10" fill="#F76C0C" stroke="none"/>
+      <circle cx="340" cy="80" r="10" fill="#F76C0C" stroke="none"/>
+    </g>
+    <text x="40" y="200" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#fff">Robotik Spiral · Basınçlı Su</text>
+  </g>
+
+  <g transform="translate(180,460)">
+    <rect width="420" height="200" rx="20" fill="rgba(247,108,12,0.12)" stroke="rgba(247,108,12,0.4)" stroke-width="2"/>
+    <g transform="translate(40,50)">
+      <circle cx="30" cy="30" r="28" fill="url(#h-orange)"/>
+      <path d="M22 30 l6 6 l12 -12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="80" y="22" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="20" font-weight="700" fill="#fff">7/24 Acil Servis</text>
+      <text x="80" y="48" font-family="Inter, sans-serif" font-size="14" fill="rgba(255,255,255,0.85)">Ortalama 30 dakikada kapınızdayız</text>
+    </g>
+    <g transform="translate(40,130)">
+      <circle cx="30" cy="30" r="28" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+      <path d="M22 30 l6 6 l12 -12" stroke="#FF8A3D" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="80" y="22" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="20" font-weight="700" fill="#fff">Ücretsiz Keşif</text>
+      <text x="80" y="48" font-family="Inter, sans-serif" font-size="14" fill="rgba(255,255,255,0.85)">Onaylamazsanız ücret yok</text>
+    </g>
+  </g>
+
+  <g transform="translate(40,700)" opacity="0.4">
+    <text font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="16" font-weight="700" fill="#fff">20+ YIL · 38 İLÇE · 7/24</text>
+  </g>
+</svg>

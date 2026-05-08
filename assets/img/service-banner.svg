@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 525" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sb-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B2447"/>
+      <stop offset="60%" stop-color="#19376D"/>
+      <stop offset="100%" stop-color="#1f4a8c"/>
+    </linearGradient>
+    <radialGradient id="sb-glow" cx="0.85" cy="0.3" r="0.5">
+      <stop offset="0%" stop-color="rgba(247,108,12,0.35)"/>
+      <stop offset="100%" stop-color="rgba(247,108,12,0)"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="525" fill="url(#sb-bg)"/>
+  <rect width="1200" height="525" fill="url(#sb-glow)"/>
+
+  <g transform="translate(80,160)" opacity="0.95">
+    <rect width="500" height="60" rx="30" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+    <circle cx="40" cy="30" r="18" fill="#F76C0C"/>
+    <text x="80" y="38" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#fff">Robotik Spiral · 60m Erişim</text>
+  </g>
+  <g transform="translate(80,250)" opacity="0.95">
+    <rect width="500" height="60" rx="30" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+    <circle cx="40" cy="30" r="18" fill="#F76C0C"/>
+    <text x="80" y="38" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#fff">200 Bar Basınçlı Su Sistemi</text>
+  </g>
+  <g transform="translate(80,340)" opacity="0.95">
+    <rect width="500" height="60" rx="30" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+    <circle cx="40" cy="30" r="18" fill="#F76C0C"/>
+    <text x="80" y="38" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#fff">HD Kameralı Tespit · Canlı Görüntü</text>
+  </g>
+
+  <g transform="translate(720,80)" stroke="#FF8A3D" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.85">
+    <path d="M0 200 Q90 0 180 200 T360 200"/>
+    <circle cx="0" cy="200" r="20" fill="#F76C0C" stroke="none"/>
+    <circle cx="360" cy="200" r="20" fill="#F76C0C" stroke="none"/>
+  </g>
+  <g transform="translate(720,360)">
+    <rect width="380" height="80" rx="16" fill="rgba(247,108,12,0.18)" stroke="rgba(247,108,12,0.5)" stroke-width="2"/>
+    <text x="190" y="52" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">SAHADA · 7/24</text>
+  </g>
+</svg>

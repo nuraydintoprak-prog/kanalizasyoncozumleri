@@ -1,0 +1,28 @@
+# Üçüncü parti binary
+exiftool/
+
+# Claude Code çalışma dizini
+.claude/
+
+# Wrangler / Cloudflare local cache
+.wrangler/
+
+# Ortam ve secrets
+.env
+.env.*
+*.token
+
+# Yedek arşivler
+*.zip
+
+# OS ve editör
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log

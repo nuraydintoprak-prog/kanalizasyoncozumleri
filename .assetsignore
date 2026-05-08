@@ -1,0 +1,6 @@
+_generate/
+exiftool/
+.claude/
+*.zip
+README.md
+.assetsignore

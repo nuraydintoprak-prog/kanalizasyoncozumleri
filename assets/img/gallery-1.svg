@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2447"/>
+      <stop offset="100%" stop-color="#19376D"/>
+    </linearGradient>
+    <linearGradient id="g1-pipe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.15)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.04)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g1-bg)"/>
+  <g opacity="0.85">
+    <rect x="120" y="180" width="560" height="80" rx="40" fill="url(#g1-pipe)" stroke="rgba(255,255,255,0.25)" stroke-width="3"/>
+    <rect x="160" y="200" width="480" height="40" rx="20" fill="rgba(0,0,0,0.25)"/>
+    <circle cx="200" cy="220" r="10" fill="#F76C0C"/>
+    <circle cx="600" cy="220" r="10" fill="#F76C0C"/>
+  </g>
+  <g transform="translate(280,320)" stroke="#FF8A3D" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.9">
+    <path d="M0 80 Q60 0 120 80 T240 80"/>
+    <circle cx="0" cy="80" r="12" fill="#F76C0C" stroke="none"/>
+    <circle cx="240" cy="80" r="12" fill="#F76C0C" stroke="none"/>
+  </g>
+  <g transform="translate(40,40)" opacity="0.5">
+    <text font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="14" font-weight="700" fill="#fff" letter-spacing="3">PROFESYONEL EKIPMAN</text>
+  </g>
+</svg>
