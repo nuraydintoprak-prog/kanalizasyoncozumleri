@@ -424,6 +424,32 @@ form.contact-form { background: #fff; border: 1px solid var(--border); border-ra
 .form-status.ok { color: var(--success); }
 .form-status.err { color: #DC2626; }
 
+/* Related links section (internal linking — SEO) */
+.related-section { padding: 56px 0; }
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  max-width: 920px;
+  margin: 0 auto;
+}
+.related-card {
+  display: flex; align-items: center; justify-content: center;
+  padding: 16px 18px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--navy); font-weight: 600; font-size: 0.95rem;
+  text-align: center;
+  transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+}
+.related-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--orange);
+  box-shadow: var(--shadow-sm);
+  color: var(--orange-text);
+}
+
 /* Footer */
 .site-footer { background: var(--navy-dark); color: rgba(255,255,255,0.92); padding: 64px 0 24px; }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 36px; margin-bottom: 40px; }
