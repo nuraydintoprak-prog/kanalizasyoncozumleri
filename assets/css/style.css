@@ -163,13 +163,20 @@ li { margin-bottom: 0.4rem; }
 .header-tel:hover { color: var(--orange); }
 .header-tel .pulse {
   width: 9px; height: 9px; background: var(--success); border-radius: 50%;
-  box-shadow: 0 0 0 0 rgba(22,163,74,0.6);
+  position: relative;
+}
+.header-tel .pulse::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: rgba(22,163,74,0.6);
   animation: pulse 1.6s infinite;
+  will-change: transform, opacity;
 }
 @keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(22,163,74,0.6); }
-  70% { box-shadow: 0 0 0 10px rgba(22,163,74,0); }
-  100% { box-shadow: 0 0 0 0 rgba(22,163,74,0); }
+  0% { transform: scale(1); opacity: 1; }
+  70%, 100% { transform: scale(3); opacity: 0; }
 }
 
 .menu-toggle {
@@ -420,7 +427,7 @@ form.contact-form { background: #fff; border: 1px solid var(--border); border-ra
 .site-footer { background: var(--navy-dark); color: rgba(255,255,255,0.78); padding: 64px 0 24px; }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 36px; margin-bottom: 40px; }
 .footer-brand p { color: rgba(255,255,255,0.7); font-size: 0.92rem; margin-top: 14px; }
-.site-footer h4 { color: #fff; font-size: 1rem; margin-bottom: 14px; font-family: var(--font); font-weight: 700; }
+.site-footer h3 { color: #fff; font-size: 1rem; margin-bottom: 14px; font-family: var(--font); font-weight: 700; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; }
 .site-footer ul li { margin-bottom: 8px; }
 .site-footer a { color: rgba(255,255,255,0.78); font-size: 0.92rem; }
