@@ -209,6 +209,7 @@ li { margin-bottom: 0.4rem; }
 .hero .container { position: relative; display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; }
 .hero h1 { color: #fff; margin-bottom: 1.25rem; }
 .hero h1 .accent { color: var(--orange-light); }
+.hero-tagline { font-size: 1.25rem; font-weight: 700; color: var(--orange-light); margin: -0.5rem 0 1rem; letter-spacing: 0.2px; }
 .hero-lead { font-size: 1.125rem; color: rgba(255,255,255,0.88); margin-bottom: 1.75rem; max-width: 560px; }
 .hero-badges { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 1.75rem; }
 .hero-badge {
