@@ -76,8 +76,10 @@
   .arrival-card ul { margin: 8px 0 0; padding: 0; list-style: none; font-size: 0.88rem; color: var(--text-soft); }
   .arrival-card ul li { padding: 3px 0; }
 
+  .yaka-block.reverse { grid-template-columns: 1.4fr 0.85fr; }
+
   @media (max-width: 880px) {
-    .yaka-block { grid-template-columns: 1fr; }
+    .yaka-block, .yaka-block.reverse { grid-template-columns: 1fr; }
     .yaka-visual { aspect-ratio: 16/10; max-width: 520px; margin: 0 auto; }
     .yaka-stats { grid-template-columns: repeat(3, 1fr); }
   }
@@ -240,7 +242,7 @@
 <!-- ANADOLU YAKASI -->
 <section class="section section-soft">
   <div class="container">
-    <div class="yaka-block" style="grid-template-columns: 1.4fr 0.85fr;">
+    <div class="yaka-block reverse">
       <div class="yaka-text">
         <span class="eyebrow">Anadolu Yakası</span>
         <h2>13 İlçede Aktif Saha Ekibi</h2>
