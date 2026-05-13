@@ -593,6 +593,7 @@ form.contact-form { background: #fff; border: 1px solid var(--border); border-ra
   .trust-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .article { grid-template-columns: 1fr; }
+  .article:has(.sticky-side) { grid-template-columns: 1fr; gap: 32px; max-width: 860px; }
   .sticky-side { position: static; }
   .contact-grid { grid-template-columns: 1fr; }
   .cta-banner { grid-template-columns: 1fr; text-align: center; }
@@ -616,4 +617,16 @@ form.contact-form { background: #fff; border: 1px solid var(--border); border-ra
   .footer-grid { grid-template-columns: 1fr; gap: 24px; }
   .two-col-list { columns: 1; }
   .header-tel span.tel-label { display: none; }
+  .container { padding: 0 16px; }
+  .section-head { margin-bottom: 32px; }
+  .article-img { aspect-ratio: 16/10; }
+  .article-body h2 { margin-top: 28px; }
+  .services-grid { grid-template-columns: 1fr; gap: 14px; }
+  .service-card { padding: 20px; }
+  .related-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .trust-grid { gap: 12px; padding: 22px 0; }
+  .trust-item { padding: 0 6px; gap: 10px; }
+  .trust-item .num { font-size: 1.85rem; }
+  .cta-banner { padding: 32px 22px; gap: 18px; }
+  .side-card { padding: 18px; }
 }
